@@ -1,0 +1,184 @@
+{
+	"clienteID": 7,
+	"nomeExibicao": "Earthmark",
+	"nome": "Earthmark",
+	"cnpj": "81.052.826/0001-56",
+	"inscricaoEstadual": "83.657.92-78",
+	"razaoSocial": "Earthmark S/A",
+	"website": "earthmark.com",
+	"mercado": "MONTADORA",
+	"statusCliente": "INATIVO",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "HMARK",
+	"trabalhaRegioes": true,
+	"trabalhaClausulas": false,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Viola Cash",
+			"contatoEmail": "violacash@earthmark.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Prospect Avenue",
+					"contatoEnderecosNumero": 720,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Iva",
+					"contatoEnderecosCEP": "91047-235",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Calyer Street",
+					"contatoEnderecosNumero": 4448,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Marie",
+					"contatoEnderecosCEP": "88445-125",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "88757-1292",
+					"contatoTelefonesRamal": 91
+				},
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "83257-6353",
+					"contatoTelefonesRamal": 225
+				}
+			]
+		},
+		{
+			"contatoID": 1,
+			"contatoNome": "Marilyn Whitney",
+			"contatoEmail": "marilynwhitney@earthmark.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Vandalia Avenue",
+					"contatoEnderecosNumero": 3137,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Graves",
+					"contatoEnderecosCEP": "81640-436",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Highland Place",
+					"contatoEnderecosNumero": 6631,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Rojas",
+					"contatoEnderecosCEP": "84042-527",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Farragut Place",
+					"contatoEnderecosNumero": 6614,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Rosalind",
+					"contatoEnderecosCEP": "97953-135",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "81054-4215",
+					"contatoTelefonesRamal": 792
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Katina Cohen",
+			"contatoEmail": "katinacohen@earthmark.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Evergreen Avenue",
+					"contatoEnderecosNumero": 8775,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Cantrell",
+					"contatoEnderecosCEP": "84649-128",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "92552-1271",
+					"contatoTelefonesRamal": 745
+				},
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "84353-7228",
+					"contatoTelefonesRamal": 248
+				},
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "91953-1374",
+					"contatoTelefonesRamal": 637
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "velit",
+			"regioesDescricao": "Dolor excepteur qui aliqua exercitation velit nostrud est anim."
+		},
+		{
+			"regioesCodigo": "voluptate",
+			"regioesDescricao": "Et duis anim voluptate commodo ipsum magna cillum mollit ipsum dolore qui ut id velit."
+		},
+		{
+			"regioesCodigo": "esse",
+			"regioesDescricao": "Ipsum est labore id enim eu excepteur velit esse ullamco qui non incididunt ut in."
+		}
+	]
+}

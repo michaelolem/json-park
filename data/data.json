@@ -1,0 +1,4306 @@
+[
+  {
+    "clienteID": 1,
+    "nomeExibicao": "Imant",
+    "nome": "Imant",
+    "cnpj": "81.843.330/0001-17",
+    "inscricaoEstadual": "82.853.03-17",
+    "razaoSocial": "Imant S/A",
+    "website": "imant.com.br",
+    "mercado": "MONTADORA",
+    "statusCliente": "ATIVO",
+    "contaContabil": "CONTABIL B",
+    "siglaCliente": "T",
+    "trabalhaRegioes": true,
+    "trabalhaClausulas": true,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Myrtle Pierce",
+        "contatoEmail": "myrtlepierce@imant.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Financeiro",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Bedell Lane",
+            "contatoEnderecosNumero": 3938,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Bonnie",
+            "contatoEnderecosCEP": "83641-736",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Harway Avenue",
+            "contatoEnderecosNumero": 8038,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "George",
+            "contatoEnderecosCEP": "82641-832",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "98457-9373",
+            "contatoTelefonesRamal": 249
+          },
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "81258-3305",
+            "contatoTelefonesRamal": 426
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "qui",
+        "regioesDescricao": "Dolore commodo veniam quis nostrud eu culpa voluptate adipisicing ex eiusmod."
+      },
+      {
+        "regioesCodigo": "reprehenderit",
+        "regioesDescricao": "Lorem enim fugiat magna eiusmod ipsum velit exercitation in cupidatat deserunt tempor occaecat laboris."
+      }
+    ]
+  },
+  {
+    "clienteID": 2,
+    "nomeExibicao": "Uncorp",
+    "nome": "Uncorp",
+    "cnpj": "80.448.538/0001-39",
+    "inscricaoEstadual": "93.545.13-60",
+    "razaoSocial": "Uncorp S/A",
+    "website": "uncorp.com.br",
+    "mercado": "SEGURADORA",
+    "statusCliente": "INATIVO",
+    "contaContabil": "CONTABIL A",
+    "siglaCliente": "RP",
+    "trabalhaRegioes": true,
+    "trabalhaClausulas": true,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Irene Miranda",
+        "contatoEmail": "irenemiranda@uncorp.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Foster Avenue",
+            "contatoEnderecosNumero": 566,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Fisher",
+            "contatoEnderecosCEP": "80742-727",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Bank Street",
+            "contatoEnderecosNumero": 8799,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Blevins",
+            "contatoEnderecosCEP": "99545-723",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Pulaski Street",
+            "contatoEnderecosNumero": 8625,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Wheeler",
+            "contatoEnderecosCEP": "89343-924",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "81956-1389",
+            "contatoTelefonesRamal": 551
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "94353-5388",
+            "contatoTelefonesRamal": 654
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "90757-6214",
+            "contatoTelefonesRamal": 905
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Greta Solis",
+        "contatoEmail": "gretasolis@uncorp.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Hastings Street",
+            "contatoEnderecosNumero": 1952,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Cathy",
+            "contatoEnderecosCEP": "93344-424",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Truxton Street",
+            "contatoEnderecosNumero": 6349,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Maryann",
+            "contatoEnderecosCEP": "81754-637",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Turnbull Avenue",
+            "contatoEnderecosNumero": 8865,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Cross",
+            "contatoEnderecosCEP": "97740-430",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "90156-0353",
+            "contatoTelefonesRamal": 946
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "86450-4267",
+            "contatoTelefonesRamal": 409
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Wilkinson Charles",
+        "contatoEmail": "wilkinsoncharles@uncorp.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Financeiro",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Winthrop Street",
+            "contatoEnderecosNumero": 1275,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Baker",
+            "contatoEnderecosCEP": "90143-920",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "80241-2252",
+            "contatoTelefonesRamal": 983
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "90348-4239",
+            "contatoTelefonesRamal": 398
+          },
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "98857-4347",
+            "contatoTelefonesRamal": 524
+          }
+        ]
+      },
+      {
+        "contatoID": 3,
+        "contatoNome": "Robert Padilla",
+        "contatoEmail": "robertpadilla@uncorp.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Exeter Street",
+            "contatoEnderecosNumero": 2865,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Laurie",
+            "contatoEnderecosCEP": "98754-936",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "82750-4352",
+            "contatoTelefonesRamal": 909
+          },
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "83841-0302",
+            "contatoTelefonesRamal": 660
+          }
+        ]
+      },
+      {
+        "contatoID": 4,
+        "contatoNome": "Celeste Knowles",
+        "contatoEmail": "celesteknowles@uncorp.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Stockholm Street",
+            "contatoEnderecosNumero": 1597,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Carpenter",
+            "contatoEnderecosCEP": "87356-236",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "87446-0370",
+            "contatoTelefonesRamal": 178
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "80758-5205",
+            "contatoTelefonesRamal": 317
+          },
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "87757-6241",
+            "contatoTelefonesRamal": 582
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "do",
+        "regioesDescricao": "Eiusmod in veniam cupidatat reprehenderit velit qui qui sunt culpa."
+      },
+      {
+        "regioesCodigo": "dolor",
+        "regioesDescricao": "Tempor enim sit excepteur elit ea labore pariatur cillum mollit qui ex nisi Lorem."
+      }
+    ]
+  },
+  {
+    "clienteID": 3,
+    "nomeExibicao": "Mondicil",
+    "nome": "Mondicil",
+    "cnpj": "89.757.126/0001-37",
+    "inscricaoEstadual": "83.854.32-26",
+    "razaoSocial": "Mondicil ME",
+    "website": "mondicil.com.br",
+    "mercado": "SEGURADORA",
+    "statusCliente": "PENDENTE",
+    "contaContabil": "CONTABIL A",
+    "siglaCliente": "ICIL",
+    "trabalhaRegioes": false,
+    "trabalhaClausulas": false,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Carla Zamora",
+        "contatoEmail": "carlazamora@mondicil.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Montgomery Street",
+            "contatoEnderecosNumero": 760,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Daisy",
+            "contatoEnderecosCEP": "99740-425",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Lorimer Street",
+            "contatoEnderecosNumero": 9606,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Head",
+            "contatoEnderecosCEP": "91355-535",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "94040-2273",
+            "contatoTelefonesRamal": 243
+          },
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "90344-8370",
+            "contatoTelefonesRamal": 263
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Helene Greer",
+        "contatoEmail": "helenegreer@mondicil.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": false,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Martense Street",
+            "contatoEnderecosNumero": 8989,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Estrada",
+            "contatoEnderecosCEP": "83157-031",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "87441-5287",
+            "contatoTelefonesRamal": 557
+          },
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "82344-8360",
+            "contatoTelefonesRamal": 541
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "96946-6380",
+            "contatoTelefonesRamal": 438
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Duffy Mack",
+        "contatoEmail": "duffymack@mondicil.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Financeiro",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Harrison Place",
+            "contatoEnderecosNumero": 3229,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Lucia",
+            "contatoEnderecosCEP": "80955-524",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Sullivan Street",
+            "contatoEnderecosNumero": 2161,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Lindsay",
+            "contatoEnderecosCEP": "84245-429",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Chestnut Street",
+            "contatoEnderecosNumero": 4694,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Cheri",
+            "contatoEnderecosCEP": "90746-420",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "86744-3301",
+            "contatoTelefonesRamal": 44
+          },
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "91244-4200",
+            "contatoTelefonesRamal": 741
+          },
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "88147-3212",
+            "contatoTelefonesRamal": 223
+          }
+        ]
+      },
+      {
+        "contatoID": 3,
+        "contatoNome": "Thornton Stephenson",
+        "contatoEmail": "thorntonstephenson@mondicil.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Financeiro",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Union Street",
+            "contatoEnderecosNumero": 2727,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Robbins",
+            "contatoEnderecosCEP": "89251-927",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "99048-7200",
+            "contatoTelefonesRamal": 285
+          },
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "84152-6331",
+            "contatoTelefonesRamal": 622
+          }
+        ]
+      },
+      {
+        "contatoID": 4,
+        "contatoNome": "Riggs Burgess",
+        "contatoEmail": "riggsburgess@mondicil.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": false,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Pitkin Avenue",
+            "contatoEnderecosNumero": 3066,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Hartman",
+            "contatoEnderecosCEP": "84140-428",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Stone Avenue",
+            "contatoEnderecosNumero": 7081,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Rodgers",
+            "contatoEnderecosCEP": "89655-536",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "85151-3217",
+            "contatoTelefonesRamal": 174
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "velit",
+        "regioesDescricao": "Non ea aute qui commodo aliqua labore magna nostrud consequat proident anim dolor fugiat."
+      },
+      {
+        "regioesCodigo": "minim",
+        "regioesDescricao": "Consequat cupidatat sint velit et dolore excepteur do deserunt ullamco pariatur aliquip."
+      }
+    ]
+  },
+  {
+    "clienteID": 4,
+    "nomeExibicao": "Insectus",
+    "nome": "Insectus",
+    "cnpj": "85.149.736/0001-55",
+    "inscricaoEstadual": "91.548.12-11",
+    "razaoSocial": "Insectus LTDA.",
+    "website": "insectus.com",
+    "mercado": "MONTADORA",
+    "statusCliente": "ATIVO",
+    "contaContabil": "CONTABIL A",
+    "siglaCliente": "CTUS",
+    "trabalhaRegioes": false,
+    "trabalhaClausulas": false,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Kim Stanton",
+        "contatoEmail": "kimstanton@insectus.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Financeiro",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Throop Avenue",
+            "contatoEnderecosNumero": 7463,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Corrine",
+            "contatoEnderecosCEP": "91954-636",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Landis Court",
+            "contatoEnderecosNumero": 2104,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Woodard",
+            "contatoEnderecosCEP": "85859-224",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "97548-6376",
+            "contatoTelefonesRamal": 107
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Terrell Rocha",
+        "contatoEmail": "terrellrocha@insectus.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Powers Street",
+            "contatoEnderecosNumero": 568,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Wells",
+            "contatoEnderecosCEP": "84855-120",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "88459-0232",
+            "contatoTelefonesRamal": 271
+          },
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "84351-3350",
+            "contatoTelefonesRamal": 70
+          },
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "95945-1224",
+            "contatoTelefonesRamal": 152
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Jennie Weaver",
+        "contatoEmail": "jennieweaver@insectus.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Douglass Street",
+            "contatoEnderecosNumero": 3801,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Juliette",
+            "contatoEnderecosCEP": "87653-130",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Vandervoort Place",
+            "contatoEnderecosNumero": 1231,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Beverley",
+            "contatoEnderecosCEP": "87141-023",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Hart Place",
+            "contatoEnderecosNumero": 1706,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Rochelle",
+            "contatoEnderecosCEP": "85142-626",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "93644-6387",
+            "contatoTelefonesRamal": 550
+          },
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "82744-0286",
+            "contatoTelefonesRamal": 275
+          },
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "90141-1214",
+            "contatoTelefonesRamal": 606
+          }
+        ]
+      },
+      {
+        "contatoID": 3,
+        "contatoNome": "Melanie Dale",
+        "contatoEmail": "melaniedale@insectus.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": false,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Veterans Avenue",
+            "contatoEnderecosNumero": 3524,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Mays",
+            "contatoEnderecosCEP": "98555-635",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Monroe Street",
+            "contatoEnderecosNumero": 5207,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Pauline",
+            "contatoEnderecosCEP": "97044-726",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Rose Street",
+            "contatoEnderecosNumero": 3197,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Welch",
+            "contatoEnderecosCEP": "92852-336",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "83947-3308",
+            "contatoTelefonesRamal": 775
+          }
+        ]
+      },
+      {
+        "contatoID": 4,
+        "contatoNome": "Ava Saunders",
+        "contatoEmail": "avasaunders@insectus.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Dictum Court",
+            "contatoEnderecosNumero": 1172,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Jeanie",
+            "contatoEnderecosCEP": "92550-235",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Tompkins Avenue",
+            "contatoEnderecosNumero": 395,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Colon",
+            "contatoEnderecosCEP": "93459-633",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Aviation Road",
+            "contatoEnderecosNumero": 9610,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Cameron",
+            "contatoEnderecosCEP": "96452-426",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "95257-8302",
+            "contatoTelefonesRamal": 564
+          },
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "93349-5377",
+            "contatoTelefonesRamal": 234
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "ad",
+        "regioesDescricao": "Quis officia exercitation voluptate reprehenderit."
+      },
+      {
+        "regioesCodigo": "qui",
+        "regioesDescricao": "Dolore mollit sint culpa laborum consequat veniam laboris voluptate eiusmod ullamco."
+      }
+    ]
+  },
+  {
+    "clienteID": 5,
+    "nomeExibicao": "Retrack",
+    "nome": "Retrack",
+    "cnpj": "94.357.226/0001-30",
+    "inscricaoEstadual": "86.141.02-22",
+    "razaoSocial": "Retrack S/A",
+    "website": "retrack.com.br",
+    "mercado": "SEGURADORA",
+    "statusCliente": "ATIVO",
+    "contaContabil": "CONTABIL B",
+    "siglaCliente": "ACK",
+    "trabalhaRegioes": true,
+    "trabalhaClausulas": true,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Mari Molina",
+        "contatoEmail": "marimolina@retrack.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": false,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Rugby Road",
+            "contatoEnderecosNumero": 5633,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Terry",
+            "contatoEnderecosCEP": "85453-526",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Vermont Court",
+            "contatoEnderecosNumero": 8463,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Vilma",
+            "contatoEnderecosCEP": "92953-220",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "91142-4300",
+            "contatoTelefonesRamal": 654
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "81656-5232",
+            "contatoTelefonesRamal": 621
+          },
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "84651-9229",
+            "contatoTelefonesRamal": 36
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Katie Wolfe",
+        "contatoEmail": "katiewolfe@retrack.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": false,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Bushwick Court",
+            "contatoEnderecosNumero": 4077,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Shannon",
+            "contatoEnderecosCEP": "80644-621",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "96755-5202",
+            "contatoTelefonesRamal": 227
+          },
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "96346-4338",
+            "contatoTelefonesRamal": 930
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Cora Mcclure",
+        "contatoEmail": "coramcclure@retrack.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": false,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Ingraham Street",
+            "contatoEnderecosNumero": 2117,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Alisha",
+            "contatoEnderecosCEP": "86260-039",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Seigel Street",
+            "contatoEnderecosNumero": 2925,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Zelma",
+            "contatoEnderecosCEP": "93343-922",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Christopher Avenue",
+            "contatoEnderecosNumero": 6955,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Carissa",
+            "contatoEnderecosCEP": "87450-522",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "94359-4211",
+            "contatoTelefonesRamal": 922
+          },
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "81840-0382",
+            "contatoTelefonesRamal": 462
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "dolor",
+        "regioesDescricao": "Cillum deserunt sunt exercitation veniam et in."
+      }
+    ]
+  },
+  {
+    "clienteID": 6,
+    "nomeExibicao": "Valreda",
+    "nome": "Valreda",
+    "cnpj": "90.653.136/0001-07",
+    "inscricaoEstadual": "87.042.02-83",
+    "razaoSocial": "Valreda LTDA.",
+    "website": "valreda.com.br",
+    "mercado": "MONTADORA",
+    "statusCliente": "ATIVO",
+    "contaContabil": "CONTABIL A",
+    "siglaCliente": "EDA",
+    "trabalhaRegioes": true,
+    "trabalhaClausulas": true,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Malinda Sutton",
+        "contatoEmail": "malindasutton@valreda.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Financeiro",
+        "contatoResponsavel": false,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Bay Avenue",
+            "contatoEnderecosNumero": 4619,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Aida",
+            "contatoEnderecosCEP": "97545-636",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "85040-2359",
+            "contatoTelefonesRamal": 119
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "88555-4287",
+            "contatoTelefonesRamal": 580
+          },
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "82640-8319",
+            "contatoTelefonesRamal": 789
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Rosa George",
+        "contatoEmail": "rosageorge@valreda.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Financeiro",
+        "contatoResponsavel": false,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Celeste Court",
+            "contatoEnderecosNumero": 3602,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Burris",
+            "contatoEnderecosCEP": "97650-221",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Columbus Place",
+            "contatoEnderecosNumero": 1146,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Chavez",
+            "contatoEnderecosCEP": "83555-127",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Colby Court",
+            "contatoEnderecosNumero": 2302,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Cash",
+            "contatoEnderecosCEP": "89758-639",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "90144-7255",
+            "contatoTelefonesRamal": 146
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Hensley Kane",
+        "contatoEmail": "hensleykane@valreda.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": false,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Ocean Avenue",
+            "contatoEnderecosNumero": 6595,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Jacobson",
+            "contatoEnderecosCEP": "81856-629",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "99354-3386",
+            "contatoTelefonesRamal": 183
+          },
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "99252-1214",
+            "contatoTelefonesRamal": 84
+          },
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "85352-0303",
+            "contatoTelefonesRamal": 758
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "sint",
+        "regioesDescricao": "Est laboris esse veniam dolore."
+      },
+      {
+        "regioesCodigo": "ex",
+        "regioesDescricao": "Laborum mollit ipsum non esse cillum cupidatat consequat laborum cillum ea non velit velit cillum."
+      },
+      {
+        "regioesCodigo": "occaecat",
+        "regioesDescricao": "Laboris aliqua adipisicing et sit aliquip minim laborum ad quis."
+      }
+    ]
+  },
+  {
+    "clienteID": 7,
+    "nomeExibicao": "Earthmark",
+    "nome": "Earthmark",
+    "cnpj": "81.052.826/0001-56",
+    "inscricaoEstadual": "83.657.92-78",
+    "razaoSocial": "Earthmark S/A",
+    "website": "earthmark.com",
+    "mercado": "MONTADORA",
+    "statusCliente": "INATIVO",
+    "contaContabil": "CONTABIL B",
+    "siglaCliente": "HMARK",
+    "trabalhaRegioes": true,
+    "trabalhaClausulas": false,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Viola Cash",
+        "contatoEmail": "violacash@earthmark.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Financeiro",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Prospect Avenue",
+            "contatoEnderecosNumero": 720,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Iva",
+            "contatoEnderecosCEP": "91047-235",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Calyer Street",
+            "contatoEnderecosNumero": 4448,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Marie",
+            "contatoEnderecosCEP": "88445-125",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "88757-1292",
+            "contatoTelefonesRamal": 91
+          },
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "83257-6353",
+            "contatoTelefonesRamal": 225
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Marilyn Whitney",
+        "contatoEmail": "marilynwhitney@earthmark.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Vandalia Avenue",
+            "contatoEnderecosNumero": 3137,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Graves",
+            "contatoEnderecosCEP": "81640-436",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Highland Place",
+            "contatoEnderecosNumero": 6631,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Rojas",
+            "contatoEnderecosCEP": "84042-527",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Farragut Place",
+            "contatoEnderecosNumero": 6614,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Rosalind",
+            "contatoEnderecosCEP": "97953-135",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "81054-4215",
+            "contatoTelefonesRamal": 792
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Katina Cohen",
+        "contatoEmail": "katinacohen@earthmark.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Financeiro",
+        "contatoResponsavel": false,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Evergreen Avenue",
+            "contatoEnderecosNumero": 8775,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Cantrell",
+            "contatoEnderecosCEP": "84649-128",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "92552-1271",
+            "contatoTelefonesRamal": 745
+          },
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "84353-7228",
+            "contatoTelefonesRamal": 248
+          },
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "91953-1374",
+            "contatoTelefonesRamal": 637
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "velit",
+        "regioesDescricao": "Dolor excepteur qui aliqua exercitation velit nostrud est anim."
+      },
+      {
+        "regioesCodigo": "voluptate",
+        "regioesDescricao": "Et duis anim voluptate commodo ipsum magna cillum mollit ipsum dolore qui ut id velit."
+      },
+      {
+        "regioesCodigo": "esse",
+        "regioesDescricao": "Ipsum est labore id enim eu excepteur velit esse ullamco qui non incididunt ut in."
+      }
+    ]
+  },
+  {
+    "clienteID": 8,
+    "nomeExibicao": "Oceanica",
+    "nome": "Oceanica",
+    "cnpj": "88.347.937/0001-09",
+    "inscricaoEstadual": "83.442.33-69",
+    "razaoSocial": "Oceanica ME",
+    "website": "oceanica.com.br",
+    "mercado": "SEGURADORA",
+    "statusCliente": "INATIVO",
+    "contaContabil": "CONTABIL B",
+    "siglaCliente": "NICA",
+    "trabalhaRegioes": true,
+    "trabalhaClausulas": true,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Liz Hughes",
+        "contatoEmail": "lizhughes@oceanica.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": false,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Eckford Street",
+            "contatoEnderecosNumero": 3836,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Nannie",
+            "contatoEnderecosCEP": "96853-333",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Kenmore Terrace",
+            "contatoEnderecosNumero": 3727,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Kathie",
+            "contatoEnderecosCEP": "99649-224",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "98046-5233",
+            "contatoTelefonesRamal": 75
+          },
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "93551-3392",
+            "contatoTelefonesRamal": 34
+          },
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "84640-9264",
+            "contatoTelefonesRamal": 825
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Marsh Nolan",
+        "contatoEmail": "marshnolan@oceanica.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": false,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Reed Street",
+            "contatoEnderecosNumero": 7697,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Craft",
+            "contatoEnderecosCEP": "86240-223",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Dover Street",
+            "contatoEnderecosNumero": 7070,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Aimee",
+            "contatoEnderecosCEP": "90342-522",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Temple Court",
+            "contatoEnderecosNumero": 175,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Perez",
+            "contatoEnderecosCEP": "82840-322",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "91147-0229",
+            "contatoTelefonesRamal": 937
+          },
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "87050-5271",
+            "contatoTelefonesRamal": 85
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Hobbs Moody",
+        "contatoEmail": "hobbsmoody@oceanica.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": false,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Herzl Street",
+            "contatoEnderecosNumero": 2059,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Esmeralda",
+            "contatoEnderecosCEP": "83740-822",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "92448-4334",
+            "contatoTelefonesRamal": 471
+          },
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "88341-8293",
+            "contatoTelefonesRamal": 324
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "tempor",
+        "regioesDescricao": "Nulla reprehenderit veniam laboris cillum fugiat aliquip velit pariatur aliqua dolore."
+      },
+      {
+        "regioesCodigo": "nisi",
+        "regioesDescricao": "Cupidatat sint et esse aute officia qui labore pariatur veniam consectetur ullamco minim ullamco."
+      }
+    ]
+  },
+  {
+    "clienteID": 9,
+    "nomeExibicao": "Marketoid",
+    "nome": "Marketoid",
+    "cnpj": "86.952.239/0001-24",
+    "inscricaoEstadual": "96.550.02-90",
+    "razaoSocial": "Marketoid S/A",
+    "website": "marketoid.com.br",
+    "mercado": "MONTADORA",
+    "statusCliente": "ATIVO",
+    "contaContabil": "CONTABIL B",
+    "siglaCliente": "ETOID",
+    "trabalhaRegioes": true,
+    "trabalhaClausulas": true,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Elizabeth Alston",
+        "contatoEmail": "elizabethalston@marketoid.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": false,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Bowne Street",
+            "contatoEnderecosNumero": 4850,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Theresa",
+            "contatoEnderecosCEP": "95349-022",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Green Street",
+            "contatoEnderecosNumero": 7857,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Dona",
+            "contatoEnderecosCEP": "90842-438",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Dorchester Road",
+            "contatoEnderecosNumero": 6971,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Camille",
+            "contatoEnderecosCEP": "91555-230",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "83457-9361",
+            "contatoTelefonesRamal": 632
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Bennett Leblanc",
+        "contatoEmail": "bennettleblanc@marketoid.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": false,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Cambridge Place",
+            "contatoEnderecosNumero": 1281,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Barrett",
+            "contatoEnderecosCEP": "99741-924",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Hall Street",
+            "contatoEnderecosNumero": 6949,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Cobb",
+            "contatoEnderecosCEP": "88154-729",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Colin Place",
+            "contatoEnderecosNumero": 6439,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "West",
+            "contatoEnderecosCEP": "90850-922",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "83258-2360",
+            "contatoTelefonesRamal": 287
+          },
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "93649-8264",
+            "contatoTelefonesRamal": 214
+          },
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "88449-7211",
+            "contatoTelefonesRamal": 657
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Banks Livingston",
+        "contatoEmail": "bankslivingston@marketoid.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Rutland Road",
+            "contatoEnderecosNumero": 3718,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Conway",
+            "contatoEnderecosCEP": "92045-423",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Hyman Court",
+            "contatoEnderecosNumero": 5299,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Carey",
+            "contatoEnderecosCEP": "82650-521",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "89047-3383",
+            "contatoTelefonesRamal": 413
+          }
+        ]
+      },
+      {
+        "contatoID": 3,
+        "contatoNome": "Roberts Clay",
+        "contatoEmail": "robertsclay@marketoid.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Applegate Court",
+            "contatoEnderecosNumero": 9177,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Wilcox",
+            "contatoEnderecosCEP": "86157-432",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Dekalb Avenue",
+            "contatoEnderecosNumero": 1274,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "White",
+            "contatoEnderecosCEP": "86250-224",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Nova Court",
+            "contatoEnderecosNumero": 5240,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Anita",
+            "contatoEnderecosCEP": "95445-532",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "99942-7282",
+            "contatoTelefonesRamal": 214
+          },
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "80954-3295",
+            "contatoTelefonesRamal": 424
+          },
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "95442-4209",
+            "contatoTelefonesRamal": 726
+          }
+        ]
+      },
+      {
+        "contatoID": 4,
+        "contatoNome": "Long Sparks",
+        "contatoEmail": "longsparks@marketoid.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Kings Hwy",
+            "contatoEnderecosNumero": 5690,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Diane",
+            "contatoEnderecosCEP": "97953-526",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "92741-2386",
+            "contatoTelefonesRamal": 44
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "occaecat",
+        "regioesDescricao": "Commodo velit aliquip ex non quis nisi est commodo veniam exercitation nostrud ex anim."
+      },
+      {
+        "regioesCodigo": "amet",
+        "regioesDescricao": "Ex duis minim ad ullamco eu ut irure occaecat dolor sint sint est."
+      }
+    ]
+  },
+  {
+    "clienteID": 10,
+    "nomeExibicao": "Realmo",
+    "nome": "Realmo",
+    "cnpj": "98.757.723/0001-70",
+    "inscricaoEstadual": "93.744.02-22",
+    "razaoSocial": "Realmo LTDA.",
+    "website": "realmo.com.br",
+    "mercado": "SEGURADORA",
+    "statusCliente": "INATIVO",
+    "contaContabil": "CONTABIL B",
+    "siglaCliente": "MO",
+    "trabalhaRegioes": true,
+    "trabalhaClausulas": true,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Lynne Gibson",
+        "contatoEmail": "lynnegibson@realmo.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Knapp Street",
+            "contatoEnderecosNumero": 7234,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Wiley",
+            "contatoEnderecosCEP": "99850-223",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "82940-9368",
+            "contatoTelefonesRamal": 455
+          },
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "92843-7383",
+            "contatoTelefonesRamal": 632
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Alissa Miles",
+        "contatoEmail": "alissamiles@realmo.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Willmohr Street",
+            "contatoEnderecosNumero": 6547,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Puckett",
+            "contatoEnderecosCEP": "83050-536",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Royce Place",
+            "contatoEnderecosNumero": 6512,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Newman",
+            "contatoEnderecosCEP": "82853-937",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Barwell Terrace",
+            "contatoEnderecosNumero": 4251,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Sherry",
+            "contatoEnderecosCEP": "91046-023",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "92158-7238",
+            "contatoTelefonesRamal": 180
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Campbell Patel",
+        "contatoEmail": "campbellpatel@realmo.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Grove Street",
+            "contatoEnderecosNumero": 5222,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Imelda",
+            "contatoEnderecosCEP": "91740-425",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "90258-4268",
+            "contatoTelefonesRamal": 835
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "96050-4307",
+            "contatoTelefonesRamal": 737
+          },
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "95547-6258",
+            "contatoTelefonesRamal": 126
+          }
+        ]
+      },
+      {
+        "contatoID": 3,
+        "contatoNome": "Bianca Wilson",
+        "contatoEmail": "biancawilson@realmo.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Livonia Avenue",
+            "contatoEnderecosNumero": 5925,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Little",
+            "contatoEnderecosCEP": "90954-027",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Quay Street",
+            "contatoEnderecosNumero": 4568,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Tonya",
+            "contatoEnderecosCEP": "82056-039",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Duryea Court",
+            "contatoEnderecosNumero": 6320,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Raquel",
+            "contatoEnderecosCEP": "94453-235",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "98743-6262",
+            "contatoTelefonesRamal": 524
+          },
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "95749-9216",
+            "contatoTelefonesRamal": 508
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "95448-0340",
+            "contatoTelefonesRamal": 309
+          }
+        ]
+      },
+      {
+        "contatoID": 4,
+        "contatoNome": "Mccarthy Carson",
+        "contatoEmail": "mccarthycarson@realmo.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Dunne Court",
+            "contatoEnderecosNumero": 8465,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Reba",
+            "contatoEnderecosCEP": "83741-336",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Stillwell Place",
+            "contatoEnderecosNumero": 2449,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Gladys",
+            "contatoEnderecosCEP": "99059-339",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Friel Place",
+            "contatoEnderecosNumero": 2204,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Greer",
+            "contatoEnderecosCEP": "99159-320",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "88748-0385",
+            "contatoTelefonesRamal": 661
+          },
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "95952-0216",
+            "contatoTelefonesRamal": 766
+          }
+        ]
+      },
+      {
+        "contatoID": 5,
+        "contatoNome": "Dawn Hernandez",
+        "contatoEmail": "dawnhernandez@realmo.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Quincy Street",
+            "contatoEnderecosNumero": 5578,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Gordon",
+            "contatoEnderecosCEP": "96943-337",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "83950-9248",
+            "contatoTelefonesRamal": 989
+          }
+        ]
+      },
+      {
+        "contatoID": 6,
+        "contatoNome": "Lorna Hicks",
+        "contatoEmail": "lornahicks@realmo.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": false,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Linden Boulevard",
+            "contatoEnderecosNumero": 8859,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Marietta",
+            "contatoEnderecosCEP": "82148-227",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Richards Street",
+            "contatoEnderecosNumero": 7125,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Mara",
+            "contatoEnderecosCEP": "84857-439",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Linwood Street",
+            "contatoEnderecosNumero": 8124,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Flores",
+            "contatoEnderecosCEP": "92452-332",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "98258-3362",
+            "contatoTelefonesRamal": 769
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "eu",
+        "regioesDescricao": "Sunt do velit quis est adipisicing elit et nulla ad occaecat exercitation do tempor labore."
+      }
+    ]
+  },
+  {
+    "clienteID": 11,
+    "nomeExibicao": "Mediot",
+    "nome": "Mediot",
+    "cnpj": "93.651.829/0001-63",
+    "inscricaoEstadual": "91.046.83-68",
+    "razaoSocial": "Mediot S/A",
+    "website": "mediot.com.br",
+    "mercado": "MONTADORA",
+    "statusCliente": "INATIVO",
+    "contaContabil": "CONTABIL A",
+    "siglaCliente": "IOT",
+    "trabalhaRegioes": false,
+    "trabalhaClausulas": false,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Roseann Fitzpatrick",
+        "contatoEmail": "roseannfitzpatrick@mediot.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Sheffield Avenue",
+            "contatoEnderecosNumero": 218,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Brown",
+            "contatoEnderecosCEP": "98350-932",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Ovington Avenue",
+            "contatoEnderecosNumero": 2859,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Marina",
+            "contatoEnderecosCEP": "82354-121",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Quentin Road",
+            "contatoEnderecosNumero": 7504,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Daniels",
+            "contatoEnderecosCEP": "88658-722",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "97641-7331",
+            "contatoTelefonesRamal": 722
+          },
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "90857-4274",
+            "contatoTelefonesRamal": 468
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Lavonne Marquez",
+        "contatoEmail": "lavonnemarquez@mediot.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Anthony Street",
+            "contatoEnderecosNumero": 7919,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Kinney",
+            "contatoEnderecosCEP": "80545-439",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Croton Loop",
+            "contatoEnderecosNumero": 2021,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Amber",
+            "contatoEnderecosCEP": "89950-739",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "81254-0260",
+            "contatoTelefonesRamal": 541
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "94650-8361",
+            "contatoTelefonesRamal": 832
+          },
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "97248-5334",
+            "contatoTelefonesRamal": 319
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Nixon Mccarthy",
+        "contatoEmail": "nixonmccarthy@mediot.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": false,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Montague Street",
+            "contatoEnderecosNumero": 766,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Yolanda",
+            "contatoEnderecosCEP": "92255-827",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Turner Place",
+            "contatoEnderecosNumero": 9384,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Russell",
+            "contatoEnderecosCEP": "86052-731",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "91648-0384",
+            "contatoTelefonesRamal": 86
+          },
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "81450-6209",
+            "contatoTelefonesRamal": 963
+          }
+        ]
+      },
+      {
+        "contatoID": 3,
+        "contatoNome": "Ina Dillard",
+        "contatoEmail": "inadillard@mediot.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Financeiro",
+        "contatoResponsavel": false,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Kingsland Avenue",
+            "contatoEnderecosNumero": 7397,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Elisabeth",
+            "contatoEnderecosCEP": "98558-735",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "90043-3364",
+            "contatoTelefonesRamal": 569
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "83551-6272",
+            "contatoTelefonesRamal": 286
+          },
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "97148-1238",
+            "contatoTelefonesRamal": 756
+          }
+        ]
+      },
+      {
+        "contatoID": 4,
+        "contatoNome": "Brooks Graves",
+        "contatoEmail": "brooksgraves@mediot.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": false,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Belmont Avenue",
+            "contatoEnderecosNumero": 1637,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Bridgette",
+            "contatoEnderecosCEP": "96556-623",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Seagate Avenue",
+            "contatoEnderecosNumero": 598,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Johnnie",
+            "contatoEnderecosCEP": "93048-222",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Hicks Street",
+            "contatoEnderecosNumero": 9084,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Gilmore",
+            "contatoEnderecosCEP": "86255-727",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "90055-2204",
+            "contatoTelefonesRamal": 502
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "irure",
+        "regioesDescricao": "Ullamco incididunt sunt et id aliquip reprehenderit non aliquip fugiat reprehenderit aliqua commodo non."
+      },
+      {
+        "regioesCodigo": "Lorem",
+        "regioesDescricao": "Dolor incididunt dolore nisi sunt sint reprehenderit reprehenderit exercitation quis veniam aliqua."
+      }
+    ]
+  },
+  {
+    "clienteID": 12,
+    "nomeExibicao": "Realysis",
+    "nome": "Realysis",
+    "cnpj": "80.845.224/0001-18",
+    "inscricaoEstadual": "90.055.02-26",
+    "razaoSocial": "Realysis LTDA.",
+    "website": "realysis.com",
+    "mercado": "MONTADORA",
+    "statusCliente": "ATIVO",
+    "contaContabil": "CONTABIL B",
+    "siglaCliente": "YSIS",
+    "trabalhaRegioes": false,
+    "trabalhaClausulas": true,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Bailey Santana",
+        "contatoEmail": "baileysantana@realysis.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Joval Court",
+            "contatoEnderecosNumero": 7566,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Melisa",
+            "contatoEnderecosCEP": "93446-721",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Junius Street",
+            "contatoEnderecosNumero": 4094,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Luann",
+            "contatoEnderecosCEP": "93444-635",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Kent Street",
+            "contatoEnderecosNumero": 9809,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Morton",
+            "contatoEnderecosCEP": "85549-427",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "98655-2302",
+            "contatoTelefonesRamal": 959
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Moore Fox",
+        "contatoEmail": "moorefox@realysis.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": false,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Lyme Avenue",
+            "contatoEnderecosNumero": 9821,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Savannah",
+            "contatoEnderecosCEP": "88858-521",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "86845-0228",
+            "contatoTelefonesRamal": 692
+          },
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "99755-7262",
+            "contatoTelefonesRamal": 146
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Rosales Paul",
+        "contatoEmail": "rosalespaul@realysis.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Financeiro",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Verona Street",
+            "contatoEnderecosNumero": 3107,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Lola",
+            "contatoEnderecosCEP": "82145-734",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Fuller Place",
+            "contatoEnderecosNumero": 602,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Debora",
+            "contatoEnderecosCEP": "96356-738",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "88950-3343",
+            "contatoTelefonesRamal": 361
+          },
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "87455-2228",
+            "contatoTelefonesRamal": 523
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "irure",
+        "regioesDescricao": "Culpa dolore velit sint proident."
+      }
+    ]
+  },
+  {
+    "clienteID": 13,
+    "nomeExibicao": "Makingway",
+    "nome": "Makingway",
+    "cnpj": "97.755.730/0001-92",
+    "inscricaoEstadual": "96.455.22-19",
+    "razaoSocial": "Makingway ME",
+    "website": "makingway.com.br",
+    "mercado": "MONTADORA",
+    "statusCliente": "ATIVO",
+    "contaContabil": "CONTABIL A",
+    "siglaCliente": "NGWAY",
+    "trabalhaRegioes": false,
+    "trabalhaClausulas": false,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Hooper Cobb",
+        "contatoEmail": "hoopercobb@makingway.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Willoughby Avenue",
+            "contatoEnderecosNumero": 3611,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Claudia",
+            "contatoEnderecosCEP": "97152-334",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Polar Street",
+            "contatoEnderecosNumero": 6227,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Madge",
+            "contatoEnderecosCEP": "97454-925",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "85845-2273",
+            "contatoTelefonesRamal": 781
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Letha Bishop",
+        "contatoEmail": "lethabishop@makingway.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": false,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Whitty Lane",
+            "contatoEnderecosNumero": 7829,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Rita",
+            "contatoEnderecosCEP": "91155-737",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Devoe Street",
+            "contatoEnderecosNumero": 7830,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Rowe",
+            "contatoEnderecosCEP": "90150-827",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "92052-4294",
+            "contatoTelefonesRamal": 799
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Alison Church",
+        "contatoEmail": "alisonchurch@makingway.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": false,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Bay Street",
+            "contatoEnderecosNumero": 5417,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Hood",
+            "contatoEnderecosCEP": "83942-630",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "95154-5209",
+            "contatoTelefonesRamal": 450
+          },
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "86344-5223",
+            "contatoTelefonesRamal": 809
+          },
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "97459-2210",
+            "contatoTelefonesRamal": 768
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "cillum",
+        "regioesDescricao": "In ex voluptate aliqua enim nostrud elit laborum id eiusmod eiusmod culpa et."
+      },
+      {
+        "regioesCodigo": "tempor",
+        "regioesDescricao": "Aliquip in anim cillum ea."
+      },
+      {
+        "regioesCodigo": "adipisicing",
+        "regioesDescricao": "Ad ullamco elit qui quis dolor."
+      }
+    ]
+  },
+  {
+    "clienteID": 14,
+    "nomeExibicao": "Oronoko",
+    "nome": "Oronoko",
+    "cnpj": "86.857.530/0001-05",
+    "inscricaoEstadual": "91.054.02-26",
+    "razaoSocial": "Oronoko S/A",
+    "website": "oronoko.com.br",
+    "mercado": "MONTADORA",
+    "statusCliente": "ATIVO",
+    "contaContabil": "CONTABIL A",
+    "siglaCliente": "OKO",
+    "trabalhaRegioes": true,
+    "trabalhaClausulas": false,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Rosella Green",
+        "contatoEmail": "rosellagreen@oronoko.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Bay Parkway",
+            "contatoEnderecosNumero": 1646,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Kimberly",
+            "contatoEnderecosCEP": "82856-720",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "83045-6326",
+            "contatoTelefonesRamal": 55
+          },
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "87456-3214",
+            "contatoTelefonesRamal": 832
+          },
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "91252-9329",
+            "contatoTelefonesRamal": 585
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Golden Pennington",
+        "contatoEmail": "goldenpennington@oronoko.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Grant Avenue",
+            "contatoEnderecosNumero": 9634,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Bryant",
+            "contatoEnderecosCEP": "90745-139",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "84540-3253",
+            "contatoTelefonesRamal": 552
+          },
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "93952-1229",
+            "contatoTelefonesRamal": 101
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Janette Cross",
+        "contatoEmail": "janettecross@oronoko.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Lott Avenue",
+            "contatoEnderecosNumero": 8991,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Roth",
+            "contatoEnderecosCEP": "90241-028",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Tabor Court",
+            "contatoEnderecosNumero": 4172,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Tanya",
+            "contatoEnderecosCEP": "90348-525",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "88047-2205",
+            "contatoTelefonesRamal": 868
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "83850-8315",
+            "contatoTelefonesRamal": 778
+          },
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "90354-2224",
+            "contatoTelefonesRamal": 611
+          }
+        ]
+      },
+      {
+        "contatoID": 3,
+        "contatoNome": "Britney Figueroa",
+        "contatoEmail": "britneyfigueroa@oronoko.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Jefferson Avenue",
+            "contatoEnderecosNumero": 6881,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Josephine",
+            "contatoEnderecosCEP": "81551-520",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "91950-9333",
+            "contatoTelefonesRamal": 534
+          }
+        ]
+      },
+      {
+        "contatoID": 4,
+        "contatoNome": "Cara Rodgers",
+        "contatoEmail": "cararodgers@oronoko.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Financeiro",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Milton Street",
+            "contatoEnderecosNumero": 3422,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Jerri",
+            "contatoEnderecosCEP": "98557-625",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Erskine Loop",
+            "contatoEnderecosNumero": 1830,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Fanny",
+            "contatoEnderecosCEP": "88457-930",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "88742-7374",
+            "contatoTelefonesRamal": 525
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "velit",
+        "regioesDescricao": "Esse deserunt non elit excepteur consequat sunt commodo reprehenderit aliqua."
+      }
+    ]
+  },
+  {
+    "clienteID": 15,
+    "nomeExibicao": "Emtrac",
+    "nome": "Emtrac",
+    "cnpj": "95.156.634/0001-04",
+    "inscricaoEstadual": "94.151.63-91",
+    "razaoSocial": "Emtrac LTDA.",
+    "website": "emtrac.com.br",
+    "mercado": "MONTADORA",
+    "statusCliente": "ATIVO",
+    "contaContabil": "CONTABIL A",
+    "siglaCliente": "AC",
+    "trabalhaRegioes": false,
+    "trabalhaClausulas": false,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Annette Austin",
+        "contatoEmail": "annetteaustin@emtrac.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": false,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Sumner Place",
+            "contatoEnderecosNumero": 408,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Geneva",
+            "contatoEnderecosCEP": "83240-030",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "91942-4366",
+            "contatoTelefonesRamal": 366
+          },
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "83843-7215",
+            "contatoTelefonesRamal": 291
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Christy Sargent",
+        "contatoEmail": "christysargent@emtrac.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Vanderbilt Avenue",
+            "contatoEnderecosNumero": 3001,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Ollie",
+            "contatoEnderecosCEP": "82557-831",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Ditmars Street",
+            "contatoEnderecosNumero": 9922,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Lilly",
+            "contatoEnderecosCEP": "90252-435",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "87650-8312",
+            "contatoTelefonesRamal": 436
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Griffith Hamilton",
+        "contatoEmail": "griffithhamilton@emtrac.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Corbin Place",
+            "contatoEnderecosNumero": 1503,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Taylor",
+            "contatoEnderecosCEP": "92740-621",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Locust Street",
+            "contatoEnderecosNumero": 5731,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Richard",
+            "contatoEnderecosCEP": "89243-222",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Bushwick Place",
+            "contatoEnderecosNumero": 5855,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Dean",
+            "contatoEnderecosCEP": "97353-933",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "99945-4354",
+            "contatoTelefonesRamal": 821
+          },
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "91541-6391",
+            "contatoTelefonesRamal": 492
+          },
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "95541-8389",
+            "contatoTelefonesRamal": 540
+          }
+        ]
+      },
+      {
+        "contatoID": 3,
+        "contatoNome": "Elaine Parrish",
+        "contatoEmail": "elaineparrish@emtrac.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Hubbard Place",
+            "contatoEnderecosNumero": 6039,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Kelly",
+            "contatoEnderecosCEP": "96646-928",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Richardson Street",
+            "contatoEnderecosNumero": 1991,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Yates",
+            "contatoEnderecosCEP": "93640-824",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Powell Street",
+            "contatoEnderecosNumero": 8647,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Esperanza",
+            "contatoEnderecosCEP": "81956-639",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "80642-1234",
+            "contatoTelefonesRamal": 818
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "in",
+        "regioesDescricao": "Esse incididunt ullamco aliquip Lorem adipisicing quis et nostrud id labore aliqua velit commodo."
+      },
+      {
+        "regioesCodigo": "veniam",
+        "regioesDescricao": "Et minim veniam pariatur duis nisi laboris cupidatat et veniam."
+      },
+      {
+        "regioesCodigo": "voluptate",
+        "regioesDescricao": "Esse amet sunt in elit."
+      }
+    ]
+  },
+  {
+    "clienteID": 16,
+    "nomeExibicao": "Furnitech",
+    "nome": "Furnitech",
+    "cnpj": "93.848.236/0001-28",
+    "inscricaoEstadual": "93.448.52-03",
+    "razaoSocial": "Furnitech ME",
+    "website": "furnitech.com",
+    "mercado": "MONTADORA",
+    "statusCliente": "ATIVO",
+    "contaContabil": "CONTABIL A",
+    "siglaCliente": "ITECH",
+    "trabalhaRegioes": false,
+    "trabalhaClausulas": true,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Rosanne Dickson",
+        "contatoEmail": "rosannedickson@furnitech.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": false,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Little Street",
+            "contatoEnderecosNumero": 3235,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Wallace",
+            "contatoEnderecosCEP": "83645-528",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Montieth Street",
+            "contatoEnderecosNumero": 9413,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Therese",
+            "contatoEnderecosCEP": "86155-827",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "80845-5334",
+            "contatoTelefonesRamal": 882
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "excepteur",
+        "regioesDescricao": "Id amet amet aliqua deserunt magna enim enim aliquip labore adipisicing anim sit amet in."
+      },
+      {
+        "regioesCodigo": "consequat",
+        "regioesDescricao": "Labore cupidatat ex nulla nisi sunt consectetur dolor occaecat tempor cillum qui ut."
+      }
+    ]
+  },
+  {
+    "clienteID": 17,
+    "nomeExibicao": "Tubalum",
+    "nome": "Tubalum",
+    "cnpj": "87.357.633/0001-20",
+    "inscricaoEstadual": "80.557.72-96",
+    "razaoSocial": "Tubalum S/A",
+    "website": "tubalum.com.br",
+    "mercado": "SEGURADORA",
+    "statusCliente": "ATIVO",
+    "contaContabil": "CONTABIL B",
+    "siglaCliente": "LUM",
+    "trabalhaRegioes": false,
+    "trabalhaClausulas": false,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Audra Roberson",
+        "contatoEmail": "audraroberson@tubalum.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Financeiro",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Chester Avenue",
+            "contatoEnderecosNumero": 8925,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Peterson",
+            "contatoEnderecosCEP": "88641-335",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Plymouth Street",
+            "contatoEnderecosNumero": 2834,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Kitty",
+            "contatoEnderecosCEP": "96257-437",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Clove Road",
+            "contatoEnderecosNumero": 9812,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Hicks",
+            "contatoEnderecosCEP": "92049-521",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "92742-3225",
+            "contatoTelefonesRamal": 544
+          },
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "87948-8233",
+            "contatoTelefonesRamal": 830
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Avis Rich",
+        "contatoEmail": "avisrich@tubalum.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Sutton Street",
+            "contatoEnderecosNumero": 9940,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Moody",
+            "contatoEnderecosCEP": "99652-630",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Vanderbilt Street",
+            "contatoEnderecosNumero": 4496,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Sherman",
+            "contatoEnderecosCEP": "94743-022",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "88047-1250",
+            "contatoTelefonesRamal": 860
+          },
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "86050-9224",
+            "contatoTelefonesRamal": 625
+          },
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "99644-6291",
+            "contatoTelefonesRamal": 954
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Johnston Mason",
+        "contatoEmail": "johnstonmason@tubalum.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": false,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Gelston Avenue",
+            "contatoEnderecosNumero": 2133,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Rogers",
+            "contatoEnderecosCEP": "94846-924",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "87544-2284",
+            "contatoTelefonesRamal": 706
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "90455-8261",
+            "contatoTelefonesRamal": 301
+          }
+        ]
+      },
+      {
+        "contatoID": 3,
+        "contatoNome": "Alyce Byers",
+        "contatoEmail": "alycebyers@tubalum.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": false,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Bergen Street",
+            "contatoEnderecosNumero": 2473,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Romero",
+            "contatoEnderecosCEP": "90253-230",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "81154-8365",
+            "contatoTelefonesRamal": 363
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "94053-5257",
+            "contatoTelefonesRamal": 725
+          }
+        ]
+      },
+      {
+        "contatoID": 4,
+        "contatoNome": "Rachelle Tran",
+        "contatoEmail": "rachelletran@tubalum.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Marketing",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Irvington Place",
+            "contatoEnderecosNumero": 8759,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Annmarie",
+            "contatoEnderecosCEP": "96550-335",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Joralemon Street",
+            "contatoEnderecosNumero": 1450,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Alba",
+            "contatoEnderecosCEP": "91947-439",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Irving Avenue",
+            "contatoEnderecosNumero": 1397,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Rodriguez",
+            "contatoEnderecosCEP": "94041-320",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "91956-1237",
+            "contatoTelefonesRamal": 684
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "82855-5321",
+            "contatoTelefonesRamal": 924
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "duis",
+        "regioesDescricao": "Est quis cupidatat et ad aliquip."
+      },
+      {
+        "regioesCodigo": "elit",
+        "regioesDescricao": "Commodo in est voluptate minim labore deserunt in."
+      }
+    ]
+  },
+  {
+    "clienteID": 18,
+    "nomeExibicao": "Helixo",
+    "nome": "Helixo",
+    "cnpj": "99.052.829/0001-69",
+    "inscricaoEstadual": "87.842.32-45",
+    "razaoSocial": "Helixo ME",
+    "website": "helixo.com",
+    "mercado": "MONTADORA",
+    "statusCliente": "ATIVO",
+    "contaContabil": "CONTABIL A",
+    "siglaCliente": "IXO",
+    "trabalhaRegioes": true,
+    "trabalhaClausulas": true,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Brianna Morris",
+        "contatoEmail": "briannamorris@helixo.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Doughty Street",
+            "contatoEnderecosNumero": 4794,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Walter",
+            "contatoEnderecosCEP": "91943-530",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Loring Avenue",
+            "contatoEnderecosNumero": 8992,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Page",
+            "contatoEnderecosCEP": "91545-627",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 2",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Girard Street",
+            "contatoEnderecosNumero": 4142,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Nolan",
+            "contatoEnderecosCEP": "86759-634",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "97451-5362",
+            "contatoTelefonesRamal": 5
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "laboris",
+        "regioesDescricao": "Ipsum incididunt pariatur dolore excepteur duis magna labore aliqua laborum veniam id sunt eiusmod culpa."
+      },
+      {
+        "regioesCodigo": "aliqua",
+        "regioesDescricao": "Nulla sunt cupidatat cillum quis esse aliquip ea irure duis nulla laborum dolore."
+      },
+      {
+        "regioesCodigo": "nostrud",
+        "regioesDescricao": "Proident exercitation esse exercitation nostrud eiusmod consequat enim anim dolore ipsum irure nisi elit esse."
+      }
+    ]
+  },
+  {
+    "clienteID": 19,
+    "nomeExibicao": "Cincyr",
+    "nome": "Cincyr",
+    "cnpj": "85.745.220/0001-42",
+    "inscricaoEstadual": "90.147.93-38",
+    "razaoSocial": "Cincyr LTDA.",
+    "website": "cincyr.com",
+    "mercado": "SEGURADORA",
+    "statusCliente": "ATIVO",
+    "contaContabil": "CONTABIL A",
+    "siglaCliente": "CYR",
+    "trabalhaRegioes": false,
+    "trabalhaClausulas": true,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Pruitt Reid",
+        "contatoEmail": "pruittreid@cincyr.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": true,
+        "contatoVIP": true,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Portal Street",
+            "contatoEnderecosNumero": 1450,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Nell",
+            "contatoEnderecosCEP": "98948-237",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "98550-9267",
+            "contatoTelefonesRamal": 212
+          },
+          {
+            "contatoTelefonesDDD": 11,
+            "contatoTelefonesTelefone": "87955-8305",
+            "contatoTelefonesRamal": 559
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Bridgett Pugh",
+        "contatoEmail": "bridgettpugh@cincyr.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Vendas",
+        "contatoResponsavel": false,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Bassett Avenue",
+            "contatoEnderecosNumero": 1539,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Simpson",
+            "contatoEnderecosCEP": "85443-332",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Oceanic Avenue",
+            "contatoEnderecosNumero": 6374,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Kelli",
+            "contatoEnderecosCEP": "88651-521",
+            "contatoEnderecosLOB": "VIAGEM",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Everit Street",
+            "contatoEnderecosNumero": 3833,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Willa",
+            "contatoEnderecosCEP": "85853-225",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "83258-3261",
+            "contatoTelefonesRamal": 428
+          },
+          {
+            "contatoTelefonesDDD": 71,
+            "contatoTelefonesTelefone": "97844-4312",
+            "contatoTelefonesRamal": 276
+          },
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "84848-0213",
+            "contatoTelefonesRamal": 277
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Cline Weiss",
+        "contatoEmail": "clineweiss@cincyr.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": false,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Aster Court",
+            "contatoEnderecosNumero": 8087,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Hubbard",
+            "contatoEnderecosCEP": "84544-820",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": false
+          },
+          {
+            "contatoEnderecosEndereco": "Elmwood Avenue",
+            "contatoEnderecosNumero": 7828,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Milagros",
+            "contatoEnderecosCEP": "99153-739",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": false
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "89857-1318",
+            "contatoTelefonesRamal": 277
+          }
+        ]
+      },
+      {
+        "contatoID": 3,
+        "contatoNome": "Turner Hurst",
+        "contatoEmail": "turnerhurst@cincyr.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": false,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Woodrow Court",
+            "contatoEnderecosNumero": 9623,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Dora",
+            "contatoEnderecosCEP": "83646-822",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 31,
+            "contatoTelefonesTelefone": "89146-9212",
+            "contatoTelefonesRamal": 754
+          },
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "87640-1368",
+            "contatoTelefonesRamal": 415
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "aute",
+        "regioesDescricao": "Consectetur est nulla dolor laborum dolore aliquip consectetur duis sit adipisicing ea ipsum."
+      },
+      {
+        "regioesCodigo": "ut",
+        "regioesDescricao": "Adipisicing aliquip et consectetur ut ex incididunt laborum laborum ad pariatur laboris."
+      },
+      {
+        "regioesCodigo": "aute",
+        "regioesDescricao": "Consequat esse aliquip reprehenderit nulla voluptate dolor do fugiat."
+      }
+    ]
+  },
+  {
+    "clienteID": 20,
+    "nomeExibicao": "Insuresys",
+    "nome": "Insuresys",
+    "cnpj": "86.059.130/0001-33",
+    "inscricaoEstadual": "93.242.32-48",
+    "razaoSocial": "Insuresys S/A",
+    "website": "insuresys.com.br",
+    "mercado": "SEGURADORA",
+    "statusCliente": "ATIVO",
+    "contaContabil": "CONTABIL B",
+    "siglaCliente": "RESYS",
+    "trabalhaRegioes": true,
+    "trabalhaClausulas": false,
+    "contatos": [
+      {
+        "contatoID": 0,
+        "contatoNome": "Coleen Bauer",
+        "contatoEmail": "coleenbauer@insuresys.com",
+        "contatoCargo": "Assistente",
+        "contatoDepartmento": "Financeiro",
+        "contatoResponsavel": false,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Arlington Avenue",
+            "contatoEnderecosNumero": 2135,
+            "contatoEnderecosComplemento": "",
+            "contatoEnderecosBairro": "Brady",
+            "contatoEnderecosCEP": "80255-537",
+            "contatoEnderecosLOB": "AUTO",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 3",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "82647-3221",
+            "contatoTelefonesRamal": 89
+          }
+        ]
+      },
+      {
+        "contatoID": 1,
+        "contatoNome": "Lucy Lawson",
+        "contatoEmail": "lucylawson@insuresys.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Jurídico",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Schroeders Avenue",
+            "contatoEnderecosNumero": 8171,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Christian",
+            "contatoEnderecosCEP": "83845-539",
+            "contatoEnderecosLOB": "VIDA",
+            "contatoEnderecosEstado": "ESTADO 1",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 81,
+            "contatoTelefonesTelefone": "86850-4237",
+            "contatoTelefonesRamal": 828
+          },
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "98758-8399",
+            "contatoTelefonesRamal": 676
+          }
+        ]
+      },
+      {
+        "contatoID": 2,
+        "contatoNome": "Mindy Soto",
+        "contatoEmail": "mindysoto@insuresys.com",
+        "contatoCargo": "Gerente",
+        "contatoDepartmento": "Financeiro",
+        "contatoResponsavel": true,
+        "contatoVIP": false,
+        "contatoEnderecos": [
+          {
+            "contatoEnderecosEndereco": "Lawrence Avenue",
+            "contatoEnderecosNumero": 1414,
+            "contatoEnderecosComplemento": "Loja",
+            "contatoEnderecosBairro": "Terry",
+            "contatoEnderecosCEP": "97843-223",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 3",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "BRASIL",
+            "contatoEnderecosTipo": "COBRANCA",
+            "contatoEnderecosCorrespondencia": false,
+            "contatoEnderecosCobranca": true
+          },
+          {
+            "contatoEnderecosEndereco": "Bulwer Place",
+            "contatoEnderecosNumero": 95,
+            "contatoEnderecosComplemento": "Térreo",
+            "contatoEnderecosBairro": "Crane",
+            "contatoEnderecosCEP": "99441-231",
+            "contatoEnderecosLOB": "RAMOS ELEMENTARES",
+            "contatoEnderecosEstado": "ESTADO 2",
+            "contatoEnderecosCidade": "CIDADE 1",
+            "contatoEnderecosPais": "FRANÇA",
+            "contatoEnderecosTipo": "COMERCIAL",
+            "contatoEnderecosCorrespondencia": true,
+            "contatoEnderecosCobranca": true
+          }
+        ],
+        "contatoTelefones": [
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "88256-5364",
+            "contatoTelefonesRamal": 737
+          },
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "84043-4325",
+            "contatoTelefonesRamal": 296
+          },
+          {
+            "contatoTelefonesDDD": 21,
+            "contatoTelefonesTelefone": "86942-7341",
+            "contatoTelefonesRamal": 49
+          }
+        ]
+      }
+    ],
+    "regioes": [
+      {
+        "regioesCodigo": "et",
+        "regioesDescricao": "Esse cupidatat sint eu labore voluptate non reprehenderit dolore anim laboris."
+      },
+      {
+        "regioesCodigo": "occaecat",
+        "regioesDescricao": "Magna adipisicing Lorem sint ex ad consequat nisi minim adipisicing consequat sit enim sunt."
+      }
+    ]
+  }
+]

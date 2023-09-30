@@ -1,0 +1,273 @@
+{
+	"clienteID": 3,
+	"nomeExibicao": "Mondicil",
+	"nome": "Mondicil",
+	"cnpj": "89.757.126/0001-37",
+	"inscricaoEstadual": "83.854.32-26",
+	"razaoSocial": "Mondicil ME",
+	"website": "mondicil.com.br",
+	"mercado": "SEGURADORA",
+	"statusCliente": "PENDENTE",
+	"contaContabil": "CONTABIL A",
+	"siglaCliente": "ICIL",
+	"trabalhaRegioes": false,
+	"trabalhaClausulas": false,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Carla Zamora",
+			"contatoEmail": "carlazamora@mondicil.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Montgomery Street",
+					"contatoEnderecosNumero": 760,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Daisy",
+					"contatoEnderecosCEP": "99740-425",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Lorimer Street",
+					"contatoEnderecosNumero": 9606,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Head",
+					"contatoEnderecosCEP": "91355-535",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "94040-2273",
+					"contatoTelefonesRamal": 243
+				},
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "90344-8370",
+					"contatoTelefonesRamal": 263
+				}
+			]
+		},
+		{
+			"contatoID": 1,
+			"contatoNome": "Helene Greer",
+			"contatoEmail": "helenegreer@mondicil.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Martense Street",
+					"contatoEnderecosNumero": 8989,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Estrada",
+					"contatoEnderecosCEP": "83157-031",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "87441-5287",
+					"contatoTelefonesRamal": 557
+				},
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "82344-8360",
+					"contatoTelefonesRamal": 541
+				},
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "96946-6380",
+					"contatoTelefonesRamal": 438
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Duffy Mack",
+			"contatoEmail": "duffymack@mondicil.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Harrison Place",
+					"contatoEnderecosNumero": 3229,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Lucia",
+					"contatoEnderecosCEP": "80955-524",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Sullivan Street",
+					"contatoEnderecosNumero": 2161,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Lindsay",
+					"contatoEnderecosCEP": "84245-429",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Chestnut Street",
+					"contatoEnderecosNumero": 4694,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Cheri",
+					"contatoEnderecosCEP": "90746-420",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "86744-3301",
+					"contatoTelefonesRamal": 44
+				},
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "91244-4200",
+					"contatoTelefonesRamal": 741
+				},
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "88147-3212",
+					"contatoTelefonesRamal": 223
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Thornton Stephenson",
+			"contatoEmail": "thorntonstephenson@mondicil.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Union Street",
+					"contatoEnderecosNumero": 2727,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Robbins",
+					"contatoEnderecosCEP": "89251-927",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "99048-7200",
+					"contatoTelefonesRamal": 285
+				},
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "84152-6331",
+					"contatoTelefonesRamal": 622
+				}
+			]
+		},
+		{
+			"contatoID": 4,
+			"contatoNome": "Riggs Burgess",
+			"contatoEmail": "riggsburgess@mondicil.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Pitkin Avenue",
+					"contatoEnderecosNumero": 3066,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Hartman",
+					"contatoEnderecosCEP": "84140-428",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Stone Avenue",
+					"contatoEnderecosNumero": 7081,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Rodgers",
+					"contatoEnderecosCEP": "89655-536",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "85151-3217",
+					"contatoTelefonesRamal": 174
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "velit",
+			"regioesDescricao": "Non ea aute qui commodo aliqua labore magna nostrud consequat proident anim dolor fugiat."
+		},
+		{
+			"regioesCodigo": "minim",
+			"regioesDescricao": "Consequat cupidatat sint velit et dolore excepteur do deserunt ullamco pariatur aliquip."
+		}
+	]
+}

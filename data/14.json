@@ -1,0 +1,236 @@
+{
+	"clienteID": 14,
+	"nomeExibicao": "Oronoko",
+	"nome": "Oronoko",
+	"cnpj": "86.857.530/0001-05",
+	"inscricaoEstadual": "91.054.02-26",
+	"razaoSocial": "Oronoko S/A",
+	"website": "oronoko.com.br",
+	"mercado": "MONTADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL A",
+	"siglaCliente": "OKO",
+	"trabalhaRegioes": true,
+	"trabalhaClausulas": false,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Rosella Green",
+			"contatoEmail": "rosellagreen@oronoko.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Bay Parkway",
+					"contatoEnderecosNumero": 1646,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Kimberly",
+					"contatoEnderecosCEP": "82856-720",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "83045-6326",
+					"contatoTelefonesRamal": 55
+				},
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "87456-3214",
+					"contatoTelefonesRamal": 832
+				},
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "91252-9329",
+					"contatoTelefonesRamal": 585
+				}
+			]
+		},
+		{
+			"contatoID": 1,
+			"contatoNome": "Golden Pennington",
+			"contatoEmail": "goldenpennington@oronoko.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Grant Avenue",
+					"contatoEnderecosNumero": 9634,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Bryant",
+					"contatoEnderecosCEP": "90745-139",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "84540-3253",
+					"contatoTelefonesRamal": 552
+				},
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "93952-1229",
+					"contatoTelefonesRamal": 101
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Janette Cross",
+			"contatoEmail": "janettecross@oronoko.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Lott Avenue",
+					"contatoEnderecosNumero": 8991,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Roth",
+					"contatoEnderecosCEP": "90241-028",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Tabor Court",
+					"contatoEnderecosNumero": 4172,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Tanya",
+					"contatoEnderecosCEP": "90348-525",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "88047-2205",
+					"contatoTelefonesRamal": 868
+				},
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "83850-8315",
+					"contatoTelefonesRamal": 778
+				},
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "90354-2224",
+					"contatoTelefonesRamal": 611
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Britney Figueroa",
+			"contatoEmail": "britneyfigueroa@oronoko.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Jefferson Avenue",
+					"contatoEnderecosNumero": 6881,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Josephine",
+					"contatoEnderecosCEP": "81551-520",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "91950-9333",
+					"contatoTelefonesRamal": 534
+				}
+			]
+		},
+		{
+			"contatoID": 4,
+			"contatoNome": "Cara Rodgers",
+			"contatoEmail": "cararodgers@oronoko.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Milton Street",
+					"contatoEnderecosNumero": 3422,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Jerri",
+					"contatoEnderecosCEP": "98557-625",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Erskine Loop",
+					"contatoEnderecosNumero": 1830,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Fanny",
+					"contatoEnderecosCEP": "88457-930",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "88742-7374",
+					"contatoTelefonesRamal": 525
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "velit",
+			"regioesDescricao": "Esse deserunt non elit excepteur consequat sunt commodo reprehenderit aliqua."
+		}
+	]
+}

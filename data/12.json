@@ -1,0 +1,171 @@
+{
+	"clienteID": 12,
+	"nomeExibicao": "Realysis",
+	"nome": "Realysis",
+	"cnpj": "80.845.224/0001-18",
+	"inscricaoEstadual": "90.055.02-26",
+	"razaoSocial": "Realysis LTDA.",
+	"website": "realysis.com",
+	"mercado": "MONTADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "YSIS",
+	"trabalhaRegioes": false,
+	"trabalhaClausulas": true,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Bailey Santana",
+			"contatoEmail": "baileysantana@realysis.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Joval Court",
+					"contatoEnderecosNumero": 7566,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Melisa",
+					"contatoEnderecosCEP": "93446-721",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Junius Street",
+					"contatoEnderecosNumero": 4094,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Luann",
+					"contatoEnderecosCEP": "93444-635",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Kent Street",
+					"contatoEnderecosNumero": 9809,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Morton",
+					"contatoEnderecosCEP": "85549-427",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "98655-2302",
+					"contatoTelefonesRamal": 959
+				}
+			]
+		},
+		{
+			"contatoID": 1,
+			"contatoNome": "Moore Fox",
+			"contatoEmail": "moorefox@realysis.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Lyme Avenue",
+					"contatoEnderecosNumero": 9821,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Savannah",
+					"contatoEnderecosCEP": "88858-521",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "86845-0228",
+					"contatoTelefonesRamal": 692
+				},
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "99755-7262",
+					"contatoTelefonesRamal": 146
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Rosales Paul",
+			"contatoEmail": "rosalespaul@realysis.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Verona Street",
+					"contatoEnderecosNumero": 3107,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Lola",
+					"contatoEnderecosCEP": "82145-734",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Fuller Place",
+					"contatoEnderecosNumero": 602,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Debora",
+					"contatoEnderecosCEP": "96356-738",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "88950-3343",
+					"contatoTelefonesRamal": 361
+				},
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "87455-2228",
+					"contatoTelefonesRamal": 523
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "irure",
+			"regioesDescricao": "Culpa dolore velit sint proident."
+		}
+	]
+}

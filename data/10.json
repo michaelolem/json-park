@@ -1,0 +1,389 @@
+{
+	"clienteID": 10,
+	"nomeExibicao": "Realmo",
+	"nome": "Realmo",
+	"cnpj": "98.757.723/0001-70",
+	"inscricaoEstadual": "93.744.02-22",
+	"razaoSocial": "Realmo LTDA.",
+	"website": "realmo.com.br",
+	"mercado": "SEGURADORA",
+	"statusCliente": "INATIVO",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "MO",
+	"trabalhaRegioes": true,
+	"trabalhaClausulas": true,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Lynne Gibson",
+			"contatoEmail": "lynnegibson@realmo.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Knapp Street",
+					"contatoEnderecosNumero": 7234,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Wiley",
+					"contatoEnderecosCEP": "99850-223",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "82940-9368",
+					"contatoTelefonesRamal": 455
+				},
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "92843-7383",
+					"contatoTelefonesRamal": 632
+				}
+			]
+		},
+		{
+			"contatoID": 1,
+			"contatoNome": "Alissa Miles",
+			"contatoEmail": "alissamiles@realmo.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Willmohr Street",
+					"contatoEnderecosNumero": 6547,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Puckett",
+					"contatoEnderecosCEP": "83050-536",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Royce Place",
+					"contatoEnderecosNumero": 6512,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Newman",
+					"contatoEnderecosCEP": "82853-937",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Barwell Terrace",
+					"contatoEnderecosNumero": 4251,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Sherry",
+					"contatoEnderecosCEP": "91046-023",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "92158-7238",
+					"contatoTelefonesRamal": 180
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Campbell Patel",
+			"contatoEmail": "campbellpatel@realmo.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Grove Street",
+					"contatoEnderecosNumero": 5222,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Imelda",
+					"contatoEnderecosCEP": "91740-425",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "90258-4268",
+					"contatoTelefonesRamal": 835
+				},
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "96050-4307",
+					"contatoTelefonesRamal": 737
+				},
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "95547-6258",
+					"contatoTelefonesRamal": 126
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Bianca Wilson",
+			"contatoEmail": "biancawilson@realmo.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Livonia Avenue",
+					"contatoEnderecosNumero": 5925,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Little",
+					"contatoEnderecosCEP": "90954-027",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Quay Street",
+					"contatoEnderecosNumero": 4568,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Tonya",
+					"contatoEnderecosCEP": "82056-039",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Duryea Court",
+					"contatoEnderecosNumero": 6320,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Raquel",
+					"contatoEnderecosCEP": "94453-235",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "98743-6262",
+					"contatoTelefonesRamal": 524
+				},
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "95749-9216",
+					"contatoTelefonesRamal": 508
+				},
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "95448-0340",
+					"contatoTelefonesRamal": 309
+				}
+			]
+		},
+		{
+			"contatoID": 4,
+			"contatoNome": "Mccarthy Carson",
+			"contatoEmail": "mccarthycarson@realmo.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Dunne Court",
+					"contatoEnderecosNumero": 8465,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Reba",
+					"contatoEnderecosCEP": "83741-336",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Stillwell Place",
+					"contatoEnderecosNumero": 2449,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Gladys",
+					"contatoEnderecosCEP": "99059-339",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Friel Place",
+					"contatoEnderecosNumero": 2204,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Greer",
+					"contatoEnderecosCEP": "99159-320",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "88748-0385",
+					"contatoTelefonesRamal": 661
+				},
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "95952-0216",
+					"contatoTelefonesRamal": 766
+				}
+			]
+		},
+		{
+			"contatoID": 5,
+			"contatoNome": "Dawn Hernandez",
+			"contatoEmail": "dawnhernandez@realmo.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Quincy Street",
+					"contatoEnderecosNumero": 5578,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Gordon",
+					"contatoEnderecosCEP": "96943-337",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "83950-9248",
+					"contatoTelefonesRamal": 989
+				}
+			]
+		},
+		{
+			"contatoID": 6,
+			"contatoNome": "Lorna Hicks",
+			"contatoEmail": "lornahicks@realmo.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Linden Boulevard",
+					"contatoEnderecosNumero": 8859,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Marietta",
+					"contatoEnderecosCEP": "82148-227",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Richards Street",
+					"contatoEnderecosNumero": 7125,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Mara",
+					"contatoEnderecosCEP": "84857-439",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Linwood Street",
+					"contatoEnderecosNumero": 8124,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Flores",
+					"contatoEnderecosCEP": "92452-332",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "98258-3362",
+					"contatoTelefonesRamal": 769
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "eu",
+			"regioesDescricao": "Sunt do velit quis est adipisicing elit et nulla ad occaecat exercitation do tempor labore."
+		}
+	]
+}

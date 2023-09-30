@@ -1,0 +1,152 @@
+{
+	"clienteID": 20,
+	"nomeExibicao": "Insuresys",
+	"nome": "Insuresys",
+	"cnpj": "86.059.130/0001-33",
+	"inscricaoEstadual": "93.242.32-48",
+	"razaoSocial": "Insuresys S/A",
+	"website": "insuresys.com.br",
+	"mercado": "SEGURADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "RESYS",
+	"trabalhaRegioes": true,
+	"trabalhaClausulas": false,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Coleen Bauer",
+			"contatoEmail": "coleenbauer@insuresys.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Arlington Avenue",
+					"contatoEnderecosNumero": 2135,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Brady",
+					"contatoEnderecosCEP": "80255-537",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "82647-3221",
+					"contatoTelefonesRamal": 89
+				}
+			]
+		},
+		{
+			"contatoID": 1,
+			"contatoNome": "Lucy Lawson",
+			"contatoEmail": "lucylawson@insuresys.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Schroeders Avenue",
+					"contatoEnderecosNumero": 8171,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Christian",
+					"contatoEnderecosCEP": "83845-539",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "86850-4237",
+					"contatoTelefonesRamal": 828
+				},
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "98758-8399",
+					"contatoTelefonesRamal": 676
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Mindy Soto",
+			"contatoEmail": "mindysoto@insuresys.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Lawrence Avenue",
+					"contatoEnderecosNumero": 1414,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Terry",
+					"contatoEnderecosCEP": "97843-223",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Bulwer Place",
+					"contatoEnderecosNumero": 95,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Crane",
+					"contatoEnderecosCEP": "99441-231",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "88256-5364",
+					"contatoTelefonesRamal": 737
+				},
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "84043-4325",
+					"contatoTelefonesRamal": 296
+				},
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "86942-7341",
+					"contatoTelefonesRamal": 49
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "et",
+			"regioesDescricao": "Esse cupidatat sint eu labore voluptate non reprehenderit dolore anim laboris."
+		},
+		{
+			"regioesCodigo": "occaecat",
+			"regioesDescricao": "Magna adipisicing Lorem sint ex ad consequat nisi minim adipisicing consequat sit enim sunt."
+		}
+	]
+}

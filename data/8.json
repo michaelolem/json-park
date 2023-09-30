@@ -1,0 +1,185 @@
+{
+	"clienteID": 8,
+	"nomeExibicao": "Oceanica",
+	"nome": "Oceanica",
+	"cnpj": "88.347.937/0001-09",
+	"inscricaoEstadual": "83.442.33-69",
+	"razaoSocial": "Oceanica ME",
+	"website": "oceanica.com.br",
+	"mercado": "SEGURADORA",
+	"statusCliente": "INATIVO",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "NICA",
+	"trabalhaRegioes": true,
+	"trabalhaClausulas": true,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Liz Hughes",
+			"contatoEmail": "lizhughes@oceanica.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Eckford Street",
+					"contatoEnderecosNumero": 3836,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Nannie",
+					"contatoEnderecosCEP": "96853-333",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Kenmore Terrace",
+					"contatoEnderecosNumero": 3727,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Kathie",
+					"contatoEnderecosCEP": "99649-224",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "98046-5233",
+					"contatoTelefonesRamal": 75
+				},
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "93551-3392",
+					"contatoTelefonesRamal": 34
+				},
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "84640-9264",
+					"contatoTelefonesRamal": 825
+				}
+			]
+		},
+		{
+			"contatoID": 1,
+			"contatoNome": "Marsh Nolan",
+			"contatoEmail": "marshnolan@oceanica.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Reed Street",
+					"contatoEnderecosNumero": 7697,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Craft",
+					"contatoEnderecosCEP": "86240-223",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Dover Street",
+					"contatoEnderecosNumero": 7070,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Aimee",
+					"contatoEnderecosCEP": "90342-522",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Temple Court",
+					"contatoEnderecosNumero": 175,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Perez",
+					"contatoEnderecosCEP": "82840-322",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "91147-0229",
+					"contatoTelefonesRamal": 937
+				},
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "87050-5271",
+					"contatoTelefonesRamal": 85
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Hobbs Moody",
+			"contatoEmail": "hobbsmoody@oceanica.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Herzl Street",
+					"contatoEnderecosNumero": 2059,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Esmeralda",
+					"contatoEnderecosCEP": "83740-822",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "92448-4334",
+					"contatoTelefonesRamal": 471
+				},
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "88341-8293",
+					"contatoTelefonesRamal": 324
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "tempor",
+			"regioesDescricao": "Nulla reprehenderit veniam laboris cillum fugiat aliquip velit pariatur aliqua dolore."
+		},
+		{
+			"regioesCodigo": "nisi",
+			"regioesDescricao": "Cupidatat sint et esse aute officia qui labore pariatur veniam consectetur ullamco minim ullamco."
+		}
+	]
+}

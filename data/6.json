@@ -1,0 +1,175 @@
+{
+	"clienteID": 6,
+	"nomeExibicao": "Valreda",
+	"nome": "Valreda",
+	"cnpj": "90.653.136/0001-07",
+	"inscricaoEstadual": "87.042.02-83",
+	"razaoSocial": "Valreda LTDA.",
+	"website": "valreda.com.br",
+	"mercado": "MONTADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL A",
+	"siglaCliente": "EDA",
+	"trabalhaRegioes": true,
+	"trabalhaClausulas": true,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Malinda Sutton",
+			"contatoEmail": "malindasutton@valreda.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Bay Avenue",
+					"contatoEnderecosNumero": 4619,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Aida",
+					"contatoEnderecosCEP": "97545-636",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "85040-2359",
+					"contatoTelefonesRamal": 119
+				},
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "88555-4287",
+					"contatoTelefonesRamal": 580
+				},
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "82640-8319",
+					"contatoTelefonesRamal": 789
+				}
+			]
+		},
+		{
+			"contatoID": 1,
+			"contatoNome": "Rosa George",
+			"contatoEmail": "rosageorge@valreda.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Celeste Court",
+					"contatoEnderecosNumero": 3602,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Burris",
+					"contatoEnderecosCEP": "97650-221",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Columbus Place",
+					"contatoEnderecosNumero": 1146,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Chavez",
+					"contatoEnderecosCEP": "83555-127",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Colby Court",
+					"contatoEnderecosNumero": 2302,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Cash",
+					"contatoEnderecosCEP": "89758-639",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "90144-7255",
+					"contatoTelefonesRamal": 146
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Hensley Kane",
+			"contatoEmail": "hensleykane@valreda.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Ocean Avenue",
+					"contatoEnderecosNumero": 6595,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Jacobson",
+					"contatoEnderecosCEP": "81856-629",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "99354-3386",
+					"contatoTelefonesRamal": 183
+				},
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "99252-1214",
+					"contatoTelefonesRamal": 84
+				},
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "85352-0303",
+					"contatoTelefonesRamal": 758
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "sint",
+			"regioesDescricao": "Est laboris esse veniam dolore."
+		},
+		{
+			"regioesCodigo": "ex",
+			"regioesDescricao": "Laborum mollit ipsum non esse cillum cupidatat consequat laborum cillum ea non velit velit cillum."
+		},
+		{
+			"regioesCodigo": "occaecat",
+			"regioesDescricao": "Laboris aliqua adipisicing et sit aliquip minim laborum ad quis."
+		}
+	]
+}

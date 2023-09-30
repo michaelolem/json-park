@@ -1,0 +1,73 @@
+{
+	"clienteID": 16,
+	"nomeExibicao": "Furnitech",
+	"nome": "Furnitech",
+	"cnpj": "93.848.236/0001-28",
+	"inscricaoEstadual": "93.448.52-03",
+	"razaoSocial": "Furnitech ME",
+	"website": "furnitech.com",
+	"mercado": "MONTADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL A",
+	"siglaCliente": "ITECH",
+	"trabalhaRegioes": false,
+	"trabalhaClausulas": true,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Rosanne Dickson",
+			"contatoEmail": "rosannedickson@furnitech.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Little Street",
+					"contatoEnderecosNumero": 3235,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Wallace",
+					"contatoEnderecosCEP": "83645-528",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Montieth Street",
+					"contatoEnderecosNumero": 9413,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Therese",
+					"contatoEnderecosCEP": "86155-827",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "80845-5334",
+					"contatoTelefonesRamal": 882
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "excepteur",
+			"regioesDescricao": "Id amet amet aliqua deserunt magna enim enim aliquip labore adipisicing anim sit amet in."
+		},
+		{
+			"regioesCodigo": "consequat",
+			"regioesDescricao": "Labore cupidatat ex nulla nisi sunt consectetur dolor occaecat tempor cillum qui ut."
+		}
+	]
+}

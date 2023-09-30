@@ -1,0 +1,244 @@
+{
+	"clienteID": 15,
+	"nomeExibicao": "Emtrac",
+	"nome": "Emtrac",
+	"cnpj": "95.156.634/0001-04",
+	"inscricaoEstadual": "94.151.63-91",
+	"razaoSocial": "Emtrac LTDA.",
+	"website": "emtrac.com.br",
+	"mercado": "MONTADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL A",
+	"siglaCliente": "AC",
+	"trabalhaRegioes": false,
+	"trabalhaClausulas": false,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Annette Austin",
+			"contatoEmail": "annetteaustin@emtrac.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Sumner Place",
+					"contatoEnderecosNumero": 408,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Geneva",
+					"contatoEnderecosCEP": "83240-030",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "91942-4366",
+					"contatoTelefonesRamal": 366
+				},
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "83843-7215",
+					"contatoTelefonesRamal": 291
+				}
+			]
+		},
+		{
+			"contatoID": 1,
+			"contatoNome": "Christy Sargent",
+			"contatoEmail": "christysargent@emtrac.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Vanderbilt Avenue",
+					"contatoEnderecosNumero": 3001,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Ollie",
+					"contatoEnderecosCEP": "82557-831",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Ditmars Street",
+					"contatoEnderecosNumero": 9922,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Lilly",
+					"contatoEnderecosCEP": "90252-435",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "87650-8312",
+					"contatoTelefonesRamal": 436
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Griffith Hamilton",
+			"contatoEmail": "griffithhamilton@emtrac.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Corbin Place",
+					"contatoEnderecosNumero": 1503,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Taylor",
+					"contatoEnderecosCEP": "92740-621",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Locust Street",
+					"contatoEnderecosNumero": 5731,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Richard",
+					"contatoEnderecosCEP": "89243-222",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Bushwick Place",
+					"contatoEnderecosNumero": 5855,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Dean",
+					"contatoEnderecosCEP": "97353-933",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "99945-4354",
+					"contatoTelefonesRamal": 821
+				},
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "91541-6391",
+					"contatoTelefonesRamal": 492
+				},
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "95541-8389",
+					"contatoTelefonesRamal": 540
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Elaine Parrish",
+			"contatoEmail": "elaineparrish@emtrac.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Hubbard Place",
+					"contatoEnderecosNumero": 6039,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Kelly",
+					"contatoEnderecosCEP": "96646-928",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Richardson Street",
+					"contatoEnderecosNumero": 1991,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Yates",
+					"contatoEnderecosCEP": "93640-824",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Powell Street",
+					"contatoEnderecosNumero": 8647,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Esperanza",
+					"contatoEnderecosCEP": "81956-639",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "80642-1234",
+					"contatoTelefonesRamal": 818
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "in",
+			"regioesDescricao": "Esse incididunt ullamco aliquip Lorem adipisicing quis et nostrud id labore aliqua velit commodo."
+		},
+		{
+			"regioesCodigo": "veniam",
+			"regioesDescricao": "Et minim veniam pariatur duis nisi laboris cupidatat et veniam."
+		},
+		{
+			"regioesCodigo": "voluptate",
+			"regioesDescricao": "Esse amet sunt in elit."
+		}
+	]
+}

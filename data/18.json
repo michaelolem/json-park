@@ -1,0 +1,91 @@
+{
+	"clienteID": 18,
+	"nomeExibicao": "Helixo",
+	"nome": "Helixo",
+	"cnpj": "99.052.829/0001-69",
+	"inscricaoEstadual": "87.842.32-45",
+	"razaoSocial": "Helixo ME",
+	"website": "helixo.com",
+	"mercado": "MONTADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL A",
+	"siglaCliente": "IXO",
+	"trabalhaRegioes": true,
+	"trabalhaClausulas": true,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Brianna Morris",
+			"contatoEmail": "briannamorris@helixo.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Doughty Street",
+					"contatoEnderecosNumero": 4794,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Walter",
+					"contatoEnderecosCEP": "91943-530",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Loring Avenue",
+					"contatoEnderecosNumero": 8992,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Page",
+					"contatoEnderecosCEP": "91545-627",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Girard Street",
+					"contatoEnderecosNumero": 4142,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Nolan",
+					"contatoEnderecosCEP": "86759-634",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "97451-5362",
+					"contatoTelefonesRamal": 5
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "laboris",
+			"regioesDescricao": "Ipsum incididunt pariatur dolore excepteur duis magna labore aliqua laborum veniam id sunt eiusmod culpa."
+		},
+		{
+			"regioesCodigo": "aliqua",
+			"regioesDescricao": "Nulla sunt cupidatat cillum quis esse aliquip ea irure duis nulla laborum dolore."
+		},
+		{
+			"regioesCodigo": "nostrud",
+			"regioesDescricao": "Proident exercitation esse exercitation nostrud eiusmod consequat enim anim dolore ipsum irure nisi elit esse."
+		}
+	]
+}

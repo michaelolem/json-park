@@ -1,0 +1,305 @@
+{
+	"clienteID": 9,
+	"nomeExibicao": "Marketoid",
+	"nome": "Marketoid",
+	"cnpj": "86.952.239/0001-24",
+	"inscricaoEstadual": "96.550.02-90",
+	"razaoSocial": "Marketoid S/A",
+	"website": "marketoid.com.br",
+	"mercado": "MONTADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "ETOID",
+	"trabalhaRegioes": true,
+	"trabalhaClausulas": true,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Elizabeth Alston",
+			"contatoEmail": "elizabethalston@marketoid.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Bowne Street",
+					"contatoEnderecosNumero": 4850,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Theresa",
+					"contatoEnderecosCEP": "95349-022",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Green Street",
+					"contatoEnderecosNumero": 7857,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Dona",
+					"contatoEnderecosCEP": "90842-438",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Dorchester Road",
+					"contatoEnderecosNumero": 6971,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Camille",
+					"contatoEnderecosCEP": "91555-230",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "83457-9361",
+					"contatoTelefonesRamal": 632
+				}
+			]
+		},
+		{
+			"contatoID": 1,
+			"contatoNome": "Bennett Leblanc",
+			"contatoEmail": "bennettleblanc@marketoid.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Cambridge Place",
+					"contatoEnderecosNumero": 1281,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Barrett",
+					"contatoEnderecosCEP": "99741-924",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Hall Street",
+					"contatoEnderecosNumero": 6949,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Cobb",
+					"contatoEnderecosCEP": "88154-729",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Colin Place",
+					"contatoEnderecosNumero": 6439,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "West",
+					"contatoEnderecosCEP": "90850-922",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "83258-2360",
+					"contatoTelefonesRamal": 287
+				},
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "93649-8264",
+					"contatoTelefonesRamal": 214
+				},
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "88449-7211",
+					"contatoTelefonesRamal": 657
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Banks Livingston",
+			"contatoEmail": "bankslivingston@marketoid.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Rutland Road",
+					"contatoEnderecosNumero": 3718,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Conway",
+					"contatoEnderecosCEP": "92045-423",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Hyman Court",
+					"contatoEnderecosNumero": 5299,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Carey",
+					"contatoEnderecosCEP": "82650-521",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "89047-3383",
+					"contatoTelefonesRamal": 413
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Roberts Clay",
+			"contatoEmail": "robertsclay@marketoid.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Applegate Court",
+					"contatoEnderecosNumero": 9177,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Wilcox",
+					"contatoEnderecosCEP": "86157-432",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Dekalb Avenue",
+					"contatoEnderecosNumero": 1274,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "White",
+					"contatoEnderecosCEP": "86250-224",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Nova Court",
+					"contatoEnderecosNumero": 5240,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Anita",
+					"contatoEnderecosCEP": "95445-532",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "99942-7282",
+					"contatoTelefonesRamal": 214
+				},
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "80954-3295",
+					"contatoTelefonesRamal": 424
+				},
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "95442-4209",
+					"contatoTelefonesRamal": 726
+				}
+			]
+		},
+		{
+			"contatoID": 4,
+			"contatoNome": "Long Sparks",
+			"contatoEmail": "longsparks@marketoid.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Kings Hwy",
+					"contatoEnderecosNumero": 5690,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Diane",
+					"contatoEnderecosCEP": "97953-526",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "92741-2386",
+					"contatoTelefonesRamal": 44
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "occaecat",
+			"regioesDescricao": "Commodo velit aliquip ex non quis nisi est commodo veniam exercitation nostrud ex anim."
+		},
+		{
+			"regioesCodigo": "amet",
+			"regioesDescricao": "Ex duis minim ad ullamco eu ut irure occaecat dolor sint sint est."
+		}
+	]
+}

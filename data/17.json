@@ -1,0 +1,287 @@
+{
+	"clienteID": 17,
+	"nomeExibicao": "Tubalum",
+	"nome": "Tubalum",
+	"cnpj": "87.357.633/0001-20",
+	"inscricaoEstadual": "80.557.72-96",
+	"razaoSocial": "Tubalum S/A",
+	"website": "tubalum.com.br",
+	"mercado": "SEGURADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "LUM",
+	"trabalhaRegioes": false,
+	"trabalhaClausulas": false,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Audra Roberson",
+			"contatoEmail": "audraroberson@tubalum.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Chester Avenue",
+					"contatoEnderecosNumero": 8925,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Peterson",
+					"contatoEnderecosCEP": "88641-335",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Plymouth Street",
+					"contatoEnderecosNumero": 2834,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Kitty",
+					"contatoEnderecosCEP": "96257-437",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Clove Road",
+					"contatoEnderecosNumero": 9812,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Hicks",
+					"contatoEnderecosCEP": "92049-521",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "92742-3225",
+					"contatoTelefonesRamal": 544
+				},
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "87948-8233",
+					"contatoTelefonesRamal": 830
+				}
+			]
+		},
+		{
+			"contatoID": 1,
+			"contatoNome": "Avis Rich",
+			"contatoEmail": "avisrich@tubalum.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Sutton Street",
+					"contatoEnderecosNumero": 9940,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Moody",
+					"contatoEnderecosCEP": "99652-630",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Vanderbilt Street",
+					"contatoEnderecosNumero": 4496,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Sherman",
+					"contatoEnderecosCEP": "94743-022",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "88047-1250",
+					"contatoTelefonesRamal": 860
+				},
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "86050-9224",
+					"contatoTelefonesRamal": 625
+				},
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "99644-6291",
+					"contatoTelefonesRamal": 954
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Johnston Mason",
+			"contatoEmail": "johnstonmason@tubalum.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Gelston Avenue",
+					"contatoEnderecosNumero": 2133,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Rogers",
+					"contatoEnderecosCEP": "94846-924",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "87544-2284",
+					"contatoTelefonesRamal": 706
+				},
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "90455-8261",
+					"contatoTelefonesRamal": 301
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Alyce Byers",
+			"contatoEmail": "alycebyers@tubalum.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Bergen Street",
+					"contatoEnderecosNumero": 2473,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Romero",
+					"contatoEnderecosCEP": "90253-230",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "81154-8365",
+					"contatoTelefonesRamal": 363
+				},
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "94053-5257",
+					"contatoTelefonesRamal": 725
+				}
+			]
+		},
+		{
+			"contatoID": 4,
+			"contatoNome": "Rachelle Tran",
+			"contatoEmail": "rachelletran@tubalum.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Irvington Place",
+					"contatoEnderecosNumero": 8759,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Annmarie",
+					"contatoEnderecosCEP": "96550-335",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Joralemon Street",
+					"contatoEnderecosNumero": 1450,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Alba",
+					"contatoEnderecosCEP": "91947-439",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Irving Avenue",
+					"contatoEnderecosNumero": 1397,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Rodriguez",
+					"contatoEnderecosCEP": "94041-320",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "91956-1237",
+					"contatoTelefonesRamal": 684
+				},
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "82855-5321",
+					"contatoTelefonesRamal": 924
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "duis",
+			"regioesDescricao": "Est quis cupidatat et ad aliquip."
+		},
+		{
+			"regioesCodigo": "elit",
+			"regioesDescricao": "Commodo in est voluptate minim labore deserunt in."
+		}
+	]
+}

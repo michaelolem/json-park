@@ -1,0 +1,221 @@
+{
+	"clienteID": 19,
+	"nomeExibicao": "Cincyr",
+	"nome": "Cincyr",
+	"cnpj": "85.745.220/0001-42",
+	"inscricaoEstadual": "90.147.93-38",
+	"razaoSocial": "Cincyr LTDA.",
+	"website": "cincyr.com",
+	"mercado": "SEGURADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL A",
+	"siglaCliente": "CYR",
+	"trabalhaRegioes": false,
+	"trabalhaClausulas": true,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Pruitt Reid",
+			"contatoEmail": "pruittreid@cincyr.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Portal Street",
+					"contatoEnderecosNumero": 1450,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Nell",
+					"contatoEnderecosCEP": "98948-237",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "98550-9267",
+					"contatoTelefonesRamal": 212
+				},
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "87955-8305",
+					"contatoTelefonesRamal": 559
+				}
+			]
+		},
+		{
+			"contatoID": 1,
+			"contatoNome": "Bridgett Pugh",
+			"contatoEmail": "bridgettpugh@cincyr.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Bassett Avenue",
+					"contatoEnderecosNumero": 1539,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Simpson",
+					"contatoEnderecosCEP": "85443-332",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Oceanic Avenue",
+					"contatoEnderecosNumero": 6374,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Kelli",
+					"contatoEnderecosCEP": "88651-521",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Everit Street",
+					"contatoEnderecosNumero": 3833,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Willa",
+					"contatoEnderecosCEP": "85853-225",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "83258-3261",
+					"contatoTelefonesRamal": 428
+				},
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "97844-4312",
+					"contatoTelefonesRamal": 276
+				},
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "84848-0213",
+					"contatoTelefonesRamal": 277
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Cline Weiss",
+			"contatoEmail": "clineweiss@cincyr.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Aster Court",
+					"contatoEnderecosNumero": 8087,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Hubbard",
+					"contatoEnderecosCEP": "84544-820",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Elmwood Avenue",
+					"contatoEnderecosNumero": 7828,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Milagros",
+					"contatoEnderecosCEP": "99153-739",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "89857-1318",
+					"contatoTelefonesRamal": 277
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Turner Hurst",
+			"contatoEmail": "turnerhurst@cincyr.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Woodrow Court",
+					"contatoEnderecosNumero": 9623,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Dora",
+					"contatoEnderecosCEP": "83646-822",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "89146-9212",
+					"contatoTelefonesRamal": 754
+				},
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "87640-1368",
+					"contatoTelefonesRamal": 415
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "aute",
+			"regioesDescricao": "Consectetur est nulla dolor laborum dolore aliquip consectetur duis sit adipisicing ea ipsum."
+		},
+		{
+			"regioesCodigo": "ut",
+			"regioesDescricao": "Adipisicing aliquip et consectetur ut ex incididunt laborum laborum ad pariatur laboris."
+		},
+		{
+			"regioesCodigo": "aute",
+			"regioesDescricao": "Consequat esse aliquip reprehenderit nulla voluptate dolor do fugiat."
+		}
+	]
+}

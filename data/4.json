@@ -1,0 +1,310 @@
+{
+	"clienteID": 4,
+	"nomeExibicao": "Insectus",
+	"nome": "Insectus",
+	"cnpj": "85.149.736/0001-55",
+	"inscricaoEstadual": "91.548.12-11",
+	"razaoSocial": "Insectus LTDA.",
+	"website": "insectus.com",
+	"mercado": "MONTADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL A",
+	"siglaCliente": "CTUS",
+	"trabalhaRegioes": false,
+	"trabalhaClausulas": false,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Kim Stanton",
+			"contatoEmail": "kimstanton@insectus.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Throop Avenue",
+					"contatoEnderecosNumero": 7463,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Corrine",
+					"contatoEnderecosCEP": "91954-636",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Landis Court",
+					"contatoEnderecosNumero": 2104,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Woodard",
+					"contatoEnderecosCEP": "85859-224",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "97548-6376",
+					"contatoTelefonesRamal": 107
+				}
+			]
+		},
+		{
+			"contatoID": 1,
+			"contatoNome": "Terrell Rocha",
+			"contatoEmail": "terrellrocha@insectus.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Powers Street",
+					"contatoEnderecosNumero": 568,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Wells",
+					"contatoEnderecosCEP": "84855-120",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "88459-0232",
+					"contatoTelefonesRamal": 271
+				},
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "84351-3350",
+					"contatoTelefonesRamal": 70
+				},
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "95945-1224",
+					"contatoTelefonesRamal": 152
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Jennie Weaver",
+			"contatoEmail": "jennieweaver@insectus.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Douglass Street",
+					"contatoEnderecosNumero": 3801,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Juliette",
+					"contatoEnderecosCEP": "87653-130",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Vandervoort Place",
+					"contatoEnderecosNumero": 1231,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Beverley",
+					"contatoEnderecosCEP": "87141-023",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Hart Place",
+					"contatoEnderecosNumero": 1706,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Rochelle",
+					"contatoEnderecosCEP": "85142-626",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "93644-6387",
+					"contatoTelefonesRamal": 550
+				},
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "82744-0286",
+					"contatoTelefonesRamal": 275
+				},
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "90141-1214",
+					"contatoTelefonesRamal": 606
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Melanie Dale",
+			"contatoEmail": "melaniedale@insectus.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Veterans Avenue",
+					"contatoEnderecosNumero": 3524,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Mays",
+					"contatoEnderecosCEP": "98555-635",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Monroe Street",
+					"contatoEnderecosNumero": 5207,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Pauline",
+					"contatoEnderecosCEP": "97044-726",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Rose Street",
+					"contatoEnderecosNumero": 3197,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Welch",
+					"contatoEnderecosCEP": "92852-336",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "83947-3308",
+					"contatoTelefonesRamal": 775
+				}
+			]
+		},
+		{
+			"contatoID": 4,
+			"contatoNome": "Ava Saunders",
+			"contatoEmail": "avasaunders@insectus.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Dictum Court",
+					"contatoEnderecosNumero": 1172,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Jeanie",
+					"contatoEnderecosCEP": "92550-235",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Tompkins Avenue",
+					"contatoEnderecosNumero": 395,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Colon",
+					"contatoEnderecosCEP": "93459-633",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Aviation Road",
+					"contatoEnderecosNumero": 9610,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Cameron",
+					"contatoEnderecosCEP": "96452-426",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "95257-8302",
+					"contatoTelefonesRamal": 564
+				},
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "93349-5377",
+					"contatoTelefonesRamal": 234
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "ad",
+			"regioesDescricao": "Quis officia exercitation voluptate reprehenderit."
+		},
+		{
+			"regioesCodigo": "qui",
+			"regioesDescricao": "Dolore mollit sint culpa laborum consequat veniam laboris voluptate eiusmod ullamco."
+		}
+	]
+}

@@ -1,0 +1,165 @@
+{
+	"clienteID": 13,
+	"nomeExibicao": "Makingway",
+	"nome": "Makingway",
+	"cnpj": "97.755.730/0001-92",
+	"inscricaoEstadual": "96.455.22-19",
+	"razaoSocial": "Makingway ME",
+	"website": "makingway.com.br",
+	"mercado": "MONTADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL A",
+	"siglaCliente": "NGWAY",
+	"trabalhaRegioes": false,
+	"trabalhaClausulas": false,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Hooper Cobb",
+			"contatoEmail": "hoopercobb@makingway.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Willoughby Avenue",
+					"contatoEnderecosNumero": 3611,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Claudia",
+					"contatoEnderecosCEP": "97152-334",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Polar Street",
+					"contatoEnderecosNumero": 6227,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Madge",
+					"contatoEnderecosCEP": "97454-925",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "85845-2273",
+					"contatoTelefonesRamal": 781
+				}
+			]
+		},
+		{
+			"contatoID": 1,
+			"contatoNome": "Letha Bishop",
+			"contatoEmail": "lethabishop@makingway.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Whitty Lane",
+					"contatoEnderecosNumero": 7829,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Rita",
+					"contatoEnderecosCEP": "91155-737",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Devoe Street",
+					"contatoEnderecosNumero": 7830,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Rowe",
+					"contatoEnderecosCEP": "90150-827",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "92052-4294",
+					"contatoTelefonesRamal": 799
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Alison Church",
+			"contatoEmail": "alisonchurch@makingway.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Bay Street",
+					"contatoEnderecosNumero": 5417,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Hood",
+					"contatoEnderecosCEP": "83942-630",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "95154-5209",
+					"contatoTelefonesRamal": 450
+				},
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "86344-5223",
+					"contatoTelefonesRamal": 809
+				},
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "97459-2210",
+					"contatoTelefonesRamal": 768
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "cillum",
+			"regioesDescricao": "In ex voluptate aliqua enim nostrud elit laborum id eiusmod eiusmod culpa et."
+		},
+		{
+			"regioesCodigo": "tempor",
+			"regioesDescricao": "Aliquip in anim cillum ea."
+		},
+		{
+			"regioesCodigo": "adipisicing",
+			"regioesDescricao": "Ad ullamco elit qui quis dolor."
+		}
+	]
+}

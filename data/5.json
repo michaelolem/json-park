@@ -1,0 +1,181 @@
+{
+	"clienteID": 5,
+	"nomeExibicao": "Retrack",
+	"nome": "Retrack",
+	"cnpj": "94.357.226/0001-30",
+	"inscricaoEstadual": "86.141.02-22",
+	"razaoSocial": "Retrack S/A",
+	"website": "retrack.com.br",
+	"mercado": "SEGURADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "ACK",
+	"trabalhaRegioes": true,
+	"trabalhaClausulas": true,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Mari Molina",
+			"contatoEmail": "marimolina@retrack.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Rugby Road",
+					"contatoEnderecosNumero": 5633,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Terry",
+					"contatoEnderecosCEP": "85453-526",
+					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Vermont Court",
+					"contatoEnderecosNumero": 8463,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Vilma",
+					"contatoEnderecosCEP": "92953-220",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "91142-4300",
+					"contatoTelefonesRamal": 654
+				},
+				{
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "81656-5232",
+					"contatoTelefonesRamal": 621
+				},
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "84651-9229",
+					"contatoTelefonesRamal": 36
+				}
+			]
+		},
+		{
+			"contatoID": 1,
+			"contatoNome": "Katie Wolfe",
+			"contatoEmail": "katiewolfe@retrack.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Bushwick Court",
+					"contatoEnderecosNumero": 4077,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Shannon",
+					"contatoEnderecosCEP": "80644-621",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "96755-5202",
+					"contatoTelefonesRamal": 227
+				},
+				{
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "96346-4338",
+					"contatoTelefonesRamal": 930
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Cora Mcclure",
+			"contatoEmail": "coramcclure@retrack.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Ingraham Street",
+					"contatoEnderecosNumero": 2117,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Alisha",
+					"contatoEnderecosCEP": "86260-039",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Seigel Street",
+					"contatoEnderecosNumero": 2925,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Zelma",
+					"contatoEnderecosCEP": "93343-922",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosEndereco": "Christopher Avenue",
+					"contatoEnderecosNumero": 6955,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Carissa",
+					"contatoEnderecosCEP": "87450-522",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "94359-4211",
+					"contatoTelefonesRamal": 922
+				},
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "81840-0382",
+					"contatoTelefonesRamal": 462
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "dolor",
+			"regioesDescricao": "Cillum deserunt sunt exercitation veniam et in."
+		}
+	]
+}

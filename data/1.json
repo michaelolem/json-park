@@ -1,0 +1,78 @@
+{
+	"clienteID": 1,
+	"nomeExibicao": "Imant",
+	"nome": "Imant",
+	"cnpj": "81.843.330/0001-17",
+	"inscricaoEstadual": "82.853.03-17",
+	"razaoSocial": "Imant S/A",
+	"website": "imant.com.br",
+	"mercado": "MONTADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "T",
+	"trabalhaRegioes": true,
+	"trabalhaClausulas": true,
+	"contatos": [
+		{
+			"contatoID": 0,
+			"contatoNome": "Myrtle Pierce",
+			"contatoEmail": "myrtlepierce@imant.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosEndereco": "Bedell Lane",
+					"contatoEnderecosNumero": 3938,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Bonnie",
+					"contatoEnderecosCEP": "83641-736",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosEndereco": "Harway Avenue",
+					"contatoEnderecosNumero": 8038,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "George",
+					"contatoEnderecosCEP": "82641-832",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "98457-9373",
+					"contatoTelefonesRamal": 249
+				},
+				{
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "81258-3305",
+					"contatoTelefonesRamal": 426
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesCodigo": "qui",
+			"regioesDescricao": "Dolore commodo veniam quis nostrud eu culpa voluptate adipisicing ex eiusmod."
+		},
+		{
+			"regioesCodigo": "reprehenderit",
+			"regioesDescricao": "Lorem enim fugiat magna eiusmod ipsum velit exercitation in cupidatat deserunt tempor occaecat laboris."
+		}
+	]
+}
