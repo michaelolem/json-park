@@ -1,116 +1,71 @@
 {
 	"clienteID": 20,
-	"nomeCare": "Intradisk",
-	"nome": "Intradisk",
-	"cnpj": "98.588.886/0001-30",
-	"inscricaoEstadual": "85.652.43-55",
-	"razaoSocial": "Intradisk ME",
-	"website": "intradisk.com.br",
-	"mercado": "SEGURADORA",
+	"nomeCare": "Delphide",
+	"nome": "Delphide",
+	"cnpj": "11.109.328/0001-67",
+	"inscricaoEstadual": "84.945.23-20",
+	"razaoSocial": "Delphide LTDA.",
+	"website": "delphide.com.br",
+	"mercado": "MONTADORA",
 	"statusCliente": "ATIVO",
-	"contaContabil": "CONTABIL A",
-	"siglaCliente": "ADISK",
-	"trabalhaRegioes": true,
-	"trabalhaClausulas": true,
+	"contaContabil": "CONTABIL B",
+	"codigoSAP": "HF17Z-IB-557BBWPH8-QAX-D-72BEUGYEE8DE4T",
+	"siglaCliente": "HIDE",
+	"trabalhaRegioes": false,
+	"trabalhaClausulas": false,
 	"contatos": [
 		{
 			"contatoID": 1,
-			"contatoNome": "Rowe Mcdowell",
-			"contatoEmail": "rowemcdowell@intradisk.com",
+			"contatoNome": "Franklin Riddle",
+			"contatoEmail": "franklinriddle@delphide.com",
 			"contatoCargo": "Gerente",
 			"contatoDepartmento": "Jur\u00eddico",
-			"contatoResponsavel": true,
+			"contatoResponsavel": false,
 			"contatoVIP": true,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Seagate Avenue",
-					"contatoEnderecosNumero": 4658,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Todd",
-					"contatoEnderecosCEP": "99345-723",
+					"contatoEnderecosEndereco": "Ingraham Street",
+					"contatoEnderecosNumero": 6609,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Sykes",
+					"contatoEnderecosCEP": "83148-125",
 					"contatoEnderecosLOB": "VIAGEM",
 					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosCidade": "CIDADE 1",
 					"contatoEnderecosPais": "FRAN\u00c7A",
 					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
 				},
 				{
 					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Coyle Street",
-					"contatoEnderecosNumero": 4466,
+					"contatoEnderecosEndereco": "Knapp Street",
+					"contatoEnderecosNumero": 3945,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Barbra",
-					"contatoEnderecosCEP": "87743-020",
-					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosBairro": "Sybil",
+					"contatoEnderecosCEP": "94647-124",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
 					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": false
 				},
 				{
 					"contatoEnderecosID": 3,
-					"contatoEnderecosEndereco": "Gerry Street",
-					"contatoEnderecosNumero": 5871,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Leonard",
-					"contatoEnderecosCEP": "92856-029",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "95455-1207",
-					"contatoTelefonesRamal": 498
-				},
-				{
-					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "85245-1201",
-					"contatoTelefonesRamal": 410
-				},
-				{
-					"contatoTelefonesID": 3,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "93552-7215",
-					"contatoTelefonesRamal": 80
-				}
-			]
-		},
-		{
-			"contatoID": 2,
-			"contatoNome": "Rollins Wells",
-			"contatoEmail": "rollinswells@intradisk.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Jur\u00eddico",
-			"contatoResponsavel": false,
-			"contatoVIP": false,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Willoughby Avenue",
-					"contatoEnderecosNumero": 5068,
+					"contatoEnderecosEndereco": "Rewe Street",
+					"contatoEnderecosNumero": 5143,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Roslyn",
-					"contatoEnderecosCEP": "83144-539",
+					"contatoEnderecosBairro": "Antonia",
+					"contatoEnderecosCEP": "80255-527",
 					"contatoEnderecosLOB": "VIAGEM",
-					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosEstado": "ESTADO 2",
 					"contatoEnderecosCidade": "CIDADE 2",
 					"contatoEnderecosPais": "FRAN\u00c7A",
 					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
 				}
 			],
@@ -118,76 +73,112 @@
 				{
 					"contatoTelefonesID": 1,
 					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "82846-0308",
-					"contatoTelefonesRamal": 686
+					"contatoTelefonesTelefone": "81045-9359",
+					"contatoTelefonesRamal": 282
 				},
 				{
 					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "84242-4211",
-					"contatoTelefonesRamal": 63
-				},
-				{
-					"contatoTelefonesID": 3,
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "89440-6256",
-					"contatoTelefonesRamal": 8
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "86048-6219",
+					"contatoTelefonesRamal": 353
 				}
 			]
 		},
 		{
-			"contatoID": 3,
-			"contatoNome": "Darcy Gamble",
-			"contatoEmail": "darcygamble@intradisk.com",
-			"contatoCargo": "Assistente",
+			"contatoID": 2,
+			"contatoNome": "Mable Chambers",
+			"contatoEmail": "mablechambers@delphide.com",
+			"contatoCargo": "Gerente",
 			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": true,
-			"contatoVIP": true,
+			"contatoResponsavel": false,
+			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Albemarle Terrace",
-					"contatoEnderecosNumero": 3302,
+					"contatoEnderecosEndereco": "Channel Avenue",
+					"contatoEnderecosNumero": 991,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Bean",
-					"contatoEnderecosCEP": "91446-632",
+					"contatoEnderecosBairro": "Amparo",
+					"contatoEnderecosCEP": "93756-930",
 					"contatoEnderecosLOB": "VIAGEM",
 					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
+					"contatoEnderecosCobranca": false
 				}
 			],
 			"contatoTelefones": [
 				{
 					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "89250-0211",
-					"contatoTelefonesRamal": 875
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "99747-7250",
+					"contatoTelefonesRamal": 548
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "87451-7340",
+					"contatoTelefonesRamal": 869
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "96941-3392",
+					"contatoTelefonesRamal": 297
 				}
 			]
 		},
 		{
-			"contatoID": 4,
-			"contatoNome": "Frye Camacho",
-			"contatoEmail": "fryecamacho@intradisk.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Vendas",
+			"contatoID": 3,
+			"contatoNome": "Clarice Humphrey",
+			"contatoEmail": "claricehumphrey@delphide.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
 			"contatoResponsavel": true,
 			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Dahill Road",
-					"contatoEnderecosNumero": 7133,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Lorena",
-					"contatoEnderecosCEP": "97752-839",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosEndereco": "Holt Court",
+					"contatoEnderecosNumero": 8723,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Stark",
+					"contatoEnderecosCEP": "99759-027",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Bethel Loop",
+					"contatoEnderecosNumero": 5248,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Wilson",
+					"contatoEnderecosCEP": "99243-328",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Montgomery Street",
+					"contatoEnderecosNumero": 6699,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Odessa",
+					"contatoEnderecosCEP": "91248-534",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
 					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": false,
@@ -197,21 +188,137 @@
 			"contatoTelefones": [
 				{
 					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "88558-5256",
-					"contatoTelefonesRamal": 689
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "83354-3327",
+					"contatoTelefonesRamal": 717
 				},
 				{
 					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "90245-0252",
-					"contatoTelefonesRamal": 665
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "95747-7217",
+					"contatoTelefonesRamal": 747
+				}
+			]
+		},
+		{
+			"contatoID": 4,
+			"contatoNome": "Buck Hess",
+			"contatoEmail": "buckhess@delphide.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Orange Street",
+					"contatoEnderecosNumero": 6577,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Flowers",
+					"contatoEnderecosCEP": "83742-336",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "86648-6218",
+					"contatoTelefonesRamal": 313
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "94448-0206",
+					"contatoTelefonesRamal": 80
 				},
 				{
 					"contatoTelefonesID": 3,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "83554-1336",
-					"contatoTelefonesRamal": 688
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "87647-1341",
+					"contatoTelefonesRamal": 159
+				}
+			]
+		},
+		{
+			"contatoID": 5,
+			"contatoNome": "Celia Cline",
+			"contatoEmail": "celiacline@delphide.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Kermit Place",
+					"contatoEnderecosNumero": 1716,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Stout",
+					"contatoEnderecosCEP": "81754-424",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Ash Street",
+					"contatoEnderecosNumero": 1389,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Hurley",
+					"contatoEnderecosCEP": "97753-137",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Emmons Avenue",
+					"contatoEnderecosNumero": 2517,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Bette",
+					"contatoEnderecosCEP": "81850-923",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "83050-4391",
+					"contatoTelefonesRamal": 530
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "98643-1245",
+					"contatoTelefonesRamal": 115
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "91941-8387",
+					"contatoTelefonesRamal": 990
 				}
 			]
 		}
@@ -219,36 +326,103 @@
 	"regioes": [
 		{
 			"regioesID": 1,
-			"regioesCodigo": "laborum",
-			"regioesDescricao": "Nostrud pariatur dolor adipisicing reprehenderit excepteur reprehenderit labore officia nostrud velit nostrud dolor fugiat."
-		},
-		{
-			"regioesID": 2,
-			"regioesCodigo": "officia",
-			"regioesDescricao": "Sit anim incididunt nulla irure occaecat voluptate nulla proident ullamco ea ad in exercitation."
+			"regioesCodigo": "adipisicing",
+			"regioesDescricao": "Occaecat pariatur nulla officia nostrud est ea enim."
 		}
 	],
 	"arquivos": [
 		{
 			"arquivosID": 1,
-			"arquivosPath": "/userfiles/nulla.docx",
-			"arquivosDescricao": "Commodo minim deserunt labore voluptate ullamco ad cupidatat voluptate id fugiat incididunt.",
-			"arquivosDataCriacao": "2022-01-13 00:59:13"
+			"arquivosPath": "/userfiles/deserunt.xlsx",
+			"arquivosDescricao": "Quis non veniam qui laborum non ullamco consectetur.",
+			"arquivosDataCriacao": "2022-06-27 14:49:10"
 		}
 	],
 	"contratos": [
 		{
 			"contratosID": 1,
-			"contratosNome": "ut eiusmod",
+			"contratosNome": "anim reprehenderit",
 			"contratoLOBPrincipal": [
-				"AU",
-				"AUTO"
+				"RA",
+				"RAMOS ELEMENTARES"
 			],
-			"contratoInicioVigencia": "2021-12-16",
+			"contratoInicioVigencia": "2021-05-21",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "In excepteur nisi mollit sunt commodo dolor. Pariatur et ut occaecat duis consequat magna dolor ipsum quis dolore et nisi incididunt.",
+			"contratoInicioAtividades": "2021-05-22",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 2,
+			"contratosNome": "reprehenderit Lorem",
+			"contratoLOBPrincipal": [
+				"VI",
+				"VIAGEM"
+			],
+			"contratoInicioVigencia": "2019-05-27",
 			"contratoFimVigencia": "2025-01-01",
 			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
-			"contratoComentario": "Adipisicing in voluptate deserunt labore labore dolor consequat nisi duis amet id in. Id nulla culpa ullamco ut eiusmod labore dolore adipisicing eiusmod nostrud est Lorem velit.",
-			"contratoInicioAtividades": "2021-12-17",
+			"contratoComentario": "Esse nostrud consectetur voluptate ea elit irure velit ullamco laborum ea minim quis nisi. Sit minim cillum sit cillum in ea ut tempor ut anim cillum sint.",
+			"contratoInicioAtividades": "2019-05-28",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 3,
+			"contratosNome": "do ea",
+			"contratoLOBPrincipal": [
+				"RA",
+				"RAMOS ELEMENTARES"
+			],
+			"contratoInicioVigencia": "2020-08-17",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "In ut pariatur do anim laboris laborum laboris tempor aliqua laboris adipisicing labore. Excepteur occaecat tempor ea exercitation aliqua ex occaecat id cupidatat nulla do commodo fugiat occaecat.",
+			"contratoInicioAtividades": "2020-08-18",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
@@ -256,27 +430,19 @@
 						"AU",
 						"AUTO"
 					]
-				}
-			]
-		},
-		{
-			"contratosID": 2,
-			"contratosNome": "nostrud culpa",
-			"contratoLOBPrincipal": [
-				"AU",
-				"AUTO"
-			],
-			"contratoInicioVigencia": "2020-06-08",
-			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
-			"contratoComentario": "Elit consectetur labore exercitation adipisicing occaecat esse consectetur quis culpa quis esse nostrud. Anim incididunt velit officia reprehenderit quis est duis laborum adipisicing cupidatat ullamco.",
-			"contratoInicioAtividades": "2020-06-09",
-			"contratoLOBSecundarios": [
+				},
 				{
-					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosID": 2,
 					"contratoLOBSecundariosLOB": [
 						"AU",
 						"AUTO"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
 					]
 				}
 			]

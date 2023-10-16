@@ -1,22 +1,87 @@
 {
 	"clienteID": 9,
-	"nomeCare": "Exozent",
-	"nome": "Exozent",
-	"cnpj": "02.054.682/0001-40",
-	"inscricaoEstadual": "99.858.52-87",
-	"razaoSocial": "Exozent ME",
-	"website": "exozent.com.br",
+	"nomeCare": "Shopabout",
+	"nome": "Shopabout",
+	"cnpj": "57.970.341/0001-07",
+	"inscricaoEstadual": "84.245.43-50",
+	"razaoSocial": "Shopabout ME",
+	"website": "shopabout.com.br",
 	"mercado": "SEGURADORA",
-	"statusCliente": "ATIVO",
-	"contaContabil": "CONTABIL A",
-	"siglaCliente": "ENT",
-	"trabalhaRegioes": true,
-	"trabalhaClausulas": true,
+	"statusCliente": "INATIVO",
+	"contaContabil": "CONTABIL B",
+	"codigoSAP": "FBHIQ-ZD-IOF8UIOU-TN3-87-OI4UQ88LPMT7",
+	"siglaCliente": "ABOUT",
+	"trabalhaRegioes": false,
+	"trabalhaClausulas": false,
 	"contatos": [
 		{
 			"contatoID": 1,
-			"contatoNome": "Sims Nielsen",
-			"contatoEmail": "simsnielsen@exozent.com",
+			"contatoNome": "Baldwin Wynn",
+			"contatoEmail": "baldwinwynn@shopabout.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Lloyd Street",
+					"contatoEnderecosNumero": 4746,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Pratt",
+					"contatoEnderecosCEP": "94041-736",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Bulwer Place",
+					"contatoEnderecosNumero": 6668,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Opal",
+					"contatoEnderecosCEP": "90658-322",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Hendrickson Street",
+					"contatoEnderecosNumero": 7370,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Larsen",
+					"contatoEnderecosCEP": "81246-833",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "91245-2242",
+					"contatoTelefonesRamal": 224
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Allen Sampson",
+			"contatoEmail": "allensampson@shopabout.com",
 			"contatoCargo": "Assistente",
 			"contatoDepartmento": "Marketing",
 			"contatoResponsavel": false,
@@ -24,14 +89,14 @@
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Sullivan Street",
-					"contatoEnderecosNumero": 7629,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Kirby",
-					"contatoEnderecosCEP": "90357-030",
+					"contatoEnderecosEndereco": "Stillwell Place",
+					"contatoEnderecosNumero": 711,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Alice",
+					"contatoEnderecosCEP": "82851-626",
 					"contatoEnderecosLOB": "VIAGEM",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
 					"contatoEnderecosPais": "FRAN\u00c7A",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
@@ -39,108 +104,38 @@
 				},
 				{
 					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Doscher Street",
-					"contatoEnderecosNumero": 227,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Payne",
-					"contatoEnderecosCEP": "82450-225",
-					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEndereco": "Devoe Street",
+					"contatoEnderecosNumero": 6368,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Arnold",
+					"contatoEnderecosCEP": "84943-932",
+					"contatoEnderecosLOB": "VIAGEM",
 					"contatoEnderecosEstado": "ESTADO 3",
 					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
+					"contatoEnderecosCobranca": true
 				}
 			],
 			"contatoTelefones": [
 				{
 					"contatoTelefonesID": 1,
 					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "86842-1294",
-					"contatoTelefonesRamal": 727
+					"contatoTelefonesTelefone": "95146-4288",
+					"contatoTelefonesRamal": 627
 				},
 				{
 					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "98650-2392",
-					"contatoTelefonesRamal": 143
-				}
-			]
-		},
-		{
-			"contatoID": 2,
-			"contatoNome": "Singleton Vargas",
-			"contatoEmail": "singletonvargas@exozent.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Financeiro",
-			"contatoResponsavel": true,
-			"contatoVIP": false,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "School Lane",
-					"contatoEnderecosNumero": 121,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Leona",
-					"contatoEnderecosCEP": "94450-920",
-					"contatoEnderecosLOB": "FUNERAL",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Karweg Place",
-					"contatoEnderecosNumero": 937,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Conner",
-					"contatoEnderecosCEP": "94050-933",
-					"contatoEnderecosLOB": "VIAGEM",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosID": 3,
-					"contatoEnderecosEndereco": "Dare Court",
-					"contatoEnderecosNumero": 2472,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Watts",
-					"contatoEnderecosCEP": "84345-539",
-					"contatoEnderecosLOB": "FUNERAL",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "83056-2218",
-					"contatoTelefonesRamal": 369
-				},
-				{
-					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "96846-8364",
-					"contatoTelefonesRamal": 810
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "95241-6212",
+					"contatoTelefonesRamal": 51
 				},
 				{
 					"contatoTelefonesID": 3,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "89256-4260",
-					"contatoTelefonesRamal": 791
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "98158-5223",
+					"contatoTelefonesRamal": 359
 				}
 			]
 		}
@@ -148,92 +143,81 @@
 	"regioes": [
 		{
 			"regioesID": 1,
-			"regioesCodigo": "mollit",
-			"regioesDescricao": "Reprehenderit incididunt incididunt reprehenderit ad eu tempor ad ullamco deserunt voluptate ad velit."
-		},
-		{
-			"regioesID": 2,
-			"regioesCodigo": "elit",
-			"regioesDescricao": "Qui fugiat cupidatat cupidatat dolor aliquip id excepteur occaecat aute nostrud quis ullamco."
+			"regioesCodigo": "et",
+			"regioesDescricao": "In ex mollit et occaecat commodo deserunt officia."
 		}
 	],
 	"arquivos": [
 		{
 			"arquivosID": 1,
-			"arquivosPath": "/userfiles/consequat.docx",
-			"arquivosDescricao": "Reprehenderit voluptate ipsum adipisicing fugiat.",
-			"arquivosDataCriacao": "2022-09-30 01:47:35"
+			"arquivosPath": "/userfiles/nulla.docx",
+			"arquivosDescricao": "Magna id esse voluptate laboris anim Lorem irure.",
+			"arquivosDataCriacao": "2022-03-13 09:15:51"
 		},
 		{
 			"arquivosID": 2,
-			"arquivosPath": "/userfiles/cupidatat.docx",
-			"arquivosDescricao": "Aliquip sunt in veniam ut Lorem ex nisi.",
-			"arquivosDataCriacao": "2022-05-10 21:57:38"
+			"arquivosPath": "/userfiles/sit.pdf",
+			"arquivosDescricao": "Et enim nulla anim sit ut et pariatur id officia cillum commodo laborum.",
+			"arquivosDataCriacao": "2022-06-30 22:21:39"
 		},
 		{
 			"arquivosID": 3,
-			"arquivosPath": "/userfiles/officia.docx",
-			"arquivosDescricao": "Consectetur consectetur elit ex ipsum aliqua.",
-			"arquivosDataCriacao": "2022-01-13 14:35:13"
+			"arquivosPath": "/userfiles/nostrud.pdf",
+			"arquivosDescricao": "Ipsum irure reprehenderit duis esse eiusmod exercitation labore.",
+			"arquivosDataCriacao": "2022-03-01 19:28:40"
 		},
 		{
 			"arquivosID": 4,
-			"arquivosPath": "/userfiles/magna.pdf",
-			"arquivosDescricao": "Elit cillum exercitation velit sit sit.",
-			"arquivosDataCriacao": "2022-01-16 21:18:33"
-		},
-		{
-			"arquivosID": 5,
-			"arquivosPath": "/userfiles/nostrud.pdf",
-			"arquivosDescricao": "Veniam ut eiusmod aliqua exercitation.",
-			"arquivosDataCriacao": "2022-09-09 07:28:01"
+			"arquivosPath": "/userfiles/aute.pdf",
+			"arquivosDescricao": "Proident non cupidatat ad ad minim irure nisi ut pariatur qui aute.",
+			"arquivosDataCriacao": "2022-05-18 05:50:52"
 		}
 	],
 	"contratos": [
 		{
 			"contratosID": 1,
-			"contratosNome": "esse aliquip",
+			"contratosNome": "minim minim",
 			"contratoLOBPrincipal": [
-				"FU",
-				"FUNERAL"
+				"AU",
+				"AUTO"
 			],
-			"contratoInicioVigencia": "2022-07-01",
+			"contratoInicioVigencia": "2019-03-23",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
-			"contratoComentario": "Pariatur cupidatat amet nulla non labore eu aliquip ullamco. Labore anim ad velit reprehenderit magna dolor.",
-			"contratoInicioAtividades": "2022-07-02",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Excepteur velit sint mollit nulla fugiat occaecat veniam ut aliqua deserunt sunt nostrud. Lorem sit ullamco pariatur commodo enim minim ullamco nostrud.",
+			"contratoInicioAtividades": "2019-03-24",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
 					"contratoLOBSecundariosLOB": [
-						"VI",
-						"VIAGEM"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 2,
-					"contratoLOBSecundariosLOB": [
-						"FU",
-						"FUNERAL"
+						"AU",
+						"AUTO"
 					]
 				}
 			]
 		},
 		{
 			"contratosID": 2,
-			"contratosNome": "quis magna",
+			"contratosNome": "et do",
 			"contratoLOBPrincipal": [
-				"VI",
-				"VIAGEM"
+				"FU",
+				"FUNERAL"
 			],
-			"contratoInicioVigencia": "2022-12-15",
+			"contratoInicioVigencia": "2021-02-24",
 			"contratoFimVigencia": "2025-01-01",
 			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
-			"contratoComentario": "Duis excepteur laborum ullamco eu dolor et cillum occaecat enim ut. Magna dolor ipsum laborum ad voluptate velit Lorem enim consectetur occaecat non commodo nostrud id.",
-			"contratoInicioAtividades": "2022-12-16",
+			"contratoComentario": "Ea minim adipisicing dolore exercitation ut id occaecat et sit et duis proident. Et eu enim pariatur ut commodo culpa excepteur consequat aute aliquip et est.",
+			"contratoInicioAtividades": "2021-02-25",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
 					"contratoLOBSecundariosLOB": [
 						"VI",
 						"VIAGEM"
