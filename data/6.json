@@ -1,61 +1,91 @@
 {
 	"clienteID": 6,
-	"nomeExibicao": "Tasmania",
-	"nome": "Tasmania",
-	"cnpj": "05.347.183/0001-30",
-	"inscricaoEstadual": "92.751.52-21",
-	"razaoSocial": "Tasmania LTDA.",
-	"website": "tasmania.com.br",
+	"nomeCare": "Intergeek",
+	"nome": "Intergeek",
+	"cnpj": "42.139.654/0001-40",
+	"inscricaoEstadual": "97.446.43-76",
+	"razaoSocial": "Intergeek ME",
+	"website": "intergeek.com",
 	"mercado": "SEGURADORA",
 	"statusCliente": "ATIVO",
-	"contaContabil": "CONTABIL B",
-	"siglaCliente": "ANIA",
-	"trabalhaRegioes": true,
-	"trabalhaClausulas": true,
+	"contaContabil": "CONTABIL A",
+	"siglaCliente": "RGEEK",
+	"trabalhaRegioes": false,
+	"trabalhaClausulas": false,
 	"contatos": [
 		{
 			"contatoID": 1,
-			"contatoNome": "Watts Mcknight",
-			"contatoEmail": "wattsmcknight@tasmania.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Marketing",
+			"contatoNome": "Pratt Compton",
+			"contatoEmail": "prattcompton@intergeek.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Financeiro",
 			"contatoResponsavel": false,
-			"contatoVIP": true,
+			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "McKinley Avenue",
-					"contatoEnderecosNumero": 8832,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Marva",
-					"contatoEnderecosCEP": "87341-326",
+					"contatoEnderecosEndereco": "Clifton Place",
+					"contatoEnderecosNumero": 4140,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Dianna",
+					"contatoEnderecosCEP": "94755-625",
 					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Cypress Avenue",
+					"contatoEnderecosNumero": 3284,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Thelma",
+					"contatoEnderecosCEP": "91944-223",
+					"contatoEnderecosLOB": "FUNERAL",
 					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosCidade": "CIDADE 1",
 					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Willow Street",
+					"contatoEnderecosNumero": 979,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Michael",
+					"contatoEnderecosCEP": "86247-331",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
+					"contatoEnderecosCobranca": false
 				}
 			],
 			"contatoTelefones": [
 				{
 					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "98755-6376",
-					"contatoTelefonesRamal": 834
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "83759-2317",
+					"contatoTelefonesRamal": 467
 				},
 				{
 					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "83656-9378",
-					"contatoTelefonesRamal": 975
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "93654-1290",
+					"contatoTelefonesRamal": 146
 				},
 				{
 					"contatoTelefonesID": 3,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "84654-7297",
-					"contatoTelefonesRamal": 958
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "86048-7367",
+					"contatoTelefonesRamal": 423
 				}
 			]
 		}
@@ -63,49 +93,77 @@
 	"regioes": [
 		{
 			"regioesID": 1,
-			"regioesCodigo": "dolor",
-			"regioesDescricao": "Voluptate Lorem fugiat culpa velit minim ex eiusmod qui."
+			"regioesCodigo": "in",
+			"regioesDescricao": "Sunt exercitation velit mollit adipisicing ipsum duis minim ut nostrud ex ullamco."
+		},
+		{
+			"regioesID": 2,
+			"regioesCodigo": "consequat",
+			"regioesDescricao": "Adipisicing ad quis veniam eu culpa culpa Lorem."
 		}
 	],
 	"arquivos": [
 		{
 			"arquivosID": 1,
-			"arquivosPath": "/userfiles/do.xlsx",
-			"arquivosDescricao": "Aliquip amet incididunt cupidatat quis veniam enim aliquip ad officia Lorem deserunt ullamco.",
-			"arquivosDataCriacao": "2022-10-25 10:56:54"
+			"arquivosPath": "/userfiles/et.pdf",
+			"arquivosDescricao": "Exercitation non est sunt occaecat consequat incididunt Lorem irure ad excepteur ipsum voluptate eu irure.",
+			"arquivosDataCriacao": "2022-01-13 04:17:42"
 		},
 		{
 			"arquivosID": 2,
-			"arquivosPath": "/userfiles/veniam.pdf",
-			"arquivosDescricao": "Cupidatat amet laborum deserunt mollit do in exercitation pariatur.",
-			"arquivosDataCriacao": "2022-12-03 21:17:39"
-		},
-		{
-			"arquivosID": 3,
-			"arquivosPath": "/userfiles/officia.xlsx",
-			"arquivosDescricao": "Ut aliqua occaecat sit ullamco deserunt ipsum reprehenderit exercitation sunt velit anim sint ex sit.",
-			"arquivosDataCriacao": "2022-02-05 09:21:44"
+			"arquivosPath": "/userfiles/dolor.docx",
+			"arquivosDescricao": "Qui culpa commodo nulla ullamco laborum fugiat ut esse nulla in consectetur occaecat duis ad.",
+			"arquivosDataCriacao": "2022-02-28 14:15:53"
 		}
 	],
 	"contratos": [
 		{
 			"contratosID": 1,
-			"contratosNome": "consectetur exercitation",
+			"contratosNome": "do est",
 			"contratoLOBPrincipal": [
-				"FU",
-				"FUNERAL"
+				"RA",
+				"RAMOS ELEMENTARES"
 			],
-			"contratoInicioVigencia": "2022-06-20",
+			"contratoInicioVigencia": "2020-11-05",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
-			"contratoComentario": "Fugiat anim aliqua sit nisi cillum consequat enim sunt eiusmod. Ipsum culpa excepteur consectetur fugiat nisi excepteur occaecat.",
-			"contratoInicioAtividades": "2022-06-21",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Incididunt Lorem minim amet dolor ullamco ipsum culpa esse id amet laboris tempor tempor. Cillum nulla pariatur elit aute proident est fugiat in magna anim non.",
+			"contratoInicioAtividades": "2020-11-06",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
 					"contratoLOBSecundariosLOB": [
-						"AU",
-						"AUTO"
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 2,
+			"contratosNome": "magna minim",
+			"contratoLOBPrincipal": [
+				"AU",
+				"AUTO"
+			],
+			"contratoInicioVigencia": "2021-09-29",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Eiusmod anim consectetur est et nostrud eiusmod non deserunt amet proident sunt dolore ea enim. Laborum non est ea adipisicing eiusmod amet.",
+			"contratoInicioAtividades": "2021-09-30",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
 					]
 				}
 			]

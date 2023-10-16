@@ -1,37 +1,101 @@
 {
 	"clienteID": 16,
-	"nomeExibicao": "Suremax",
-	"nome": "Suremax",
-	"cnpj": "51.784.281/0001-51",
-	"inscricaoEstadual": "87.852.82-80",
-	"razaoSocial": "Suremax ME",
-	"website": "suremax.com",
-	"mercado": "SEGURADORA",
+	"nomeCare": "Comtest",
+	"nome": "Comtest",
+	"cnpj": "61.644.186/0001-06",
+	"inscricaoEstadual": "84.451.63-39",
+	"razaoSocial": "Comtest LTDA.",
+	"website": "comtest.com.br",
+	"mercado": "MONTADORA",
 	"statusCliente": "ATIVO",
 	"contaContabil": "CONTABIL B",
-	"siglaCliente": "MAX",
+	"siglaCliente": "EST",
 	"trabalhaRegioes": true,
-	"trabalhaClausulas": false,
+	"trabalhaClausulas": true,
 	"contatos": [
 		{
 			"contatoID": 1,
-			"contatoNome": "Mercer Levy",
-			"contatoEmail": "mercerlevy@suremax.com",
+			"contatoNome": "Coleen Willis",
+			"contatoEmail": "coleenwillis@comtest.com",
 			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Financeiro",
-			"contatoResponsavel": false,
-			"contatoVIP": true,
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Dodworth Street",
-					"contatoEnderecosNumero": 5744,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Liliana",
-					"contatoEnderecosCEP": "95843-530",
+					"contatoEnderecosEndereco": "Hamilton Avenue",
+					"contatoEnderecosNumero": 9408,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Celina",
+					"contatoEnderecosCEP": "96949-030",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Rewe Street",
+					"contatoEnderecosNumero": 3129,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Key",
+					"contatoEnderecosCEP": "93545-832",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Linwood Street",
+					"contatoEnderecosNumero": 1105,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Carlene",
+					"contatoEnderecosCEP": "91153-922",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "84854-3388",
+					"contatoTelefonesRamal": 217
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Watson Heath",
+			"contatoEmail": "watsonheath@comtest.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Kenmore Court",
+					"contatoEnderecosNumero": 5847,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Janice",
+					"contatoEnderecosCEP": "95447-426",
 					"contatoEnderecosLOB": "FUNERAL",
 					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosCidade": "CIDADE 3",
 					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": false,
@@ -41,21 +105,277 @@
 			"contatoTelefones": [
 				{
 					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "80950-2305",
-					"contatoTelefonesRamal": 570
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "91155-5227",
+					"contatoTelefonesRamal": 121
 				},
 				{
 					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "90458-0367",
-					"contatoTelefonesRamal": 358
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "87045-6274",
+					"contatoTelefonesRamal": 115
 				},
 				{
 					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "89443-4273",
+					"contatoTelefonesRamal": 494
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Holman Henderson",
+			"contatoEmail": "holmanhenderson@comtest.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Neptune Court",
+					"contatoEnderecosNumero": 8515,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Cassandra",
+					"contatoEnderecosCEP": "95446-033",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Hazel Court",
+					"contatoEnderecosNumero": 6653,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Nola",
+					"contatoEnderecosCEP": "82941-922",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Remsen Avenue",
+					"contatoEnderecosNumero": 4035,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Sherrie",
+					"contatoEnderecosCEP": "90957-832",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "87152-3342",
+					"contatoTelefonesRamal": 576
+				},
+				{
+					"contatoTelefonesID": 2,
 					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "82051-9305",
-					"contatoTelefonesRamal": 612
+					"contatoTelefonesTelefone": "88342-5236",
+					"contatoTelefonesRamal": 875
+				}
+			]
+		},
+		{
+			"contatoID": 4,
+			"contatoNome": "Hilary Wilder",
+			"contatoEmail": "hilarywilder@comtest.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Seaview Court",
+					"contatoEnderecosNumero": 2495,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Christy",
+					"contatoEnderecosCEP": "85650-224",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Cleveland Street",
+					"contatoEnderecosNumero": 8116,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Annette",
+					"contatoEnderecosCEP": "89043-331",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "94151-3352",
+					"contatoTelefonesRamal": 689
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "93348-4377",
+					"contatoTelefonesRamal": 976
+				}
+			]
+		},
+		{
+			"contatoID": 5,
+			"contatoNome": "Hatfield Decker",
+			"contatoEmail": "hatfielddecker@comtest.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Narrows Avenue",
+					"contatoEnderecosNumero": 1821,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Hensley",
+					"contatoEnderecosCEP": "92158-026",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Burnett Street",
+					"contatoEnderecosNumero": 9988,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Jeanie",
+					"contatoEnderecosCEP": "96041-428",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "84142-9325",
+					"contatoTelefonesRamal": 447
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "80354-3300",
+					"contatoTelefonesRamal": 79
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "83044-3338",
+					"contatoTelefonesRamal": 340
+				}
+			]
+		},
+		{
+			"contatoID": 6,
+			"contatoNome": "Karina Durham",
+			"contatoEmail": "karinadurham@comtest.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Florence Avenue",
+					"contatoEnderecosNumero": 5413,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Morton",
+					"contatoEnderecosCEP": "93753-134",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Dodworth Street",
+					"contatoEnderecosNumero": 7113,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Cheryl",
+					"contatoEnderecosCEP": "93956-422",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Kathleen Court",
+					"contatoEnderecosNumero": 1491,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Christian",
+					"contatoEnderecosCEP": "80348-530",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "87342-8346",
+					"contatoTelefonesRamal": 554
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "98741-8337",
+					"contatoTelefonesRamal": 337
 				}
 			]
 		}
@@ -63,49 +383,79 @@
 	"regioes": [
 		{
 			"regioesID": 1,
-			"regioesCodigo": "exercitation",
-			"regioesDescricao": "Velit aute in ullamco non esse et ut eiusmod."
+			"regioesCodigo": "ut",
+			"regioesDescricao": "Lorem incididunt commodo ullamco culpa dolore non fugiat reprehenderit dolor non."
 		}
 	],
 	"arquivos": [
 		{
 			"arquivosID": 1,
-			"arquivosPath": "/userfiles/est.xlsx",
-			"arquivosDescricao": "Do nulla commodo voluptate sunt sunt enim consequat mollit nisi.",
-			"arquivosDataCriacao": "2022-08-16 23:03:56"
+			"arquivosPath": "/userfiles/occaecat.docx",
+			"arquivosDescricao": "In amet labore aliquip culpa laboris labore id dolore.",
+			"arquivosDataCriacao": "2022-12-10 19:12:28"
 		},
 		{
 			"arquivosID": 2,
-			"arquivosPath": "/userfiles/sint.xlsx",
-			"arquivosDescricao": "Commodo nulla dolore excepteur nisi adipisicing tempor reprehenderit excepteur.",
-			"arquivosDataCriacao": "2022-10-27 02:29:47"
-		},
-		{
-			"arquivosID": 3,
-			"arquivosPath": "/userfiles/esse.docx",
-			"arquivosDescricao": "Duis aliquip aliqua voluptate duis exercitation.",
-			"arquivosDataCriacao": "2022-06-06 06:08:56"
+			"arquivosPath": "/userfiles/nisi.docx",
+			"arquivosDescricao": "Excepteur nulla irure occaecat mollit dolore tempor.",
+			"arquivosDataCriacao": "2022-10-16 18:54:57"
 		}
 	],
 	"contratos": [
 		{
 			"contratosID": 1,
-			"contratosNome": "ut sit",
+			"contratosNome": "aliquip laborum",
 			"contratoLOBPrincipal": [
-				"AU",
-				"AUTO"
+				"FU",
+				"FUNERAL"
 			],
-			"contratoInicioVigencia": "2020-12-27",
+			"contratoInicioVigencia": "2021-04-06",
 			"contratoFimVigencia": "2025-01-01",
 			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
-			"contratoComentario": "Culpa aliquip qui sit elit magna laboris ut aliqua magna eu. Aliquip nisi ipsum velit velit sunt ipsum do aliqua.",
-			"contratoInicioAtividades": "2020-12-28",
+			"contratoComentario": "Aute adipisicing proident id ullamco voluptate mollit enim. Laborum et voluptate laboris dolor anim adipisicing enim sunt ipsum deserunt amet sunt tempor non.",
+			"contratoInicioAtividades": "2021-04-07",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
 					"contratoLOBSecundariosLOB": [
 						"FU",
 						"FUNERAL"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 2,
+			"contratosNome": "labore pariatur",
+			"contratoLOBPrincipal": [
+				"AU",
+				"AUTO"
+			],
+			"contratoInicioVigencia": "2022-03-05",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Ipsum mollit est culpa exercitation reprehenderit consequat irure culpa qui nulla eiusmod. Sit eu labore sint sit deserunt ut ut.",
+			"contratoInicioAtividades": "2022-03-06",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
 					]
 				}
 			]

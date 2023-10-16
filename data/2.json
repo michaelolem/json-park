@@ -1,39 +1,149 @@
 {
 	"clienteID": 2,
-	"nomeExibicao": "Cubix",
-	"nome": "Cubix",
-	"cnpj": "32.848.810/0001-99",
-	"inscricaoEstadual": "87.949.42-99",
-	"razaoSocial": "Cubix LTDA.",
-	"website": "cubix.com.br",
+	"nomeCare": "Gleamink",
+	"nome": "Gleamink",
+	"cnpj": "30.311.014/0001-97",
+	"inscricaoEstadual": "96.650.83-26",
+	"razaoSocial": "Gleamink LTDA.",
+	"website": "gleamink.com.br",
 	"mercado": "SEGURADORA",
-	"statusCliente": "INATIVO",
-	"contaContabil": "CONTABIL B",
-	"siglaCliente": "X",
-	"trabalhaRegioes": true,
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL A",
+	"siglaCliente": "MINK",
+	"trabalhaRegioes": false,
 	"trabalhaClausulas": true,
 	"contatos": [
 		{
 			"contatoID": 1,
-			"contatoNome": "Lea Kline",
-			"contatoEmail": "leakline@cubix.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Financeiro",
+			"contatoNome": "Mcdaniel Shaw",
+			"contatoEmail": "mcdanielshaw@gleamink.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
 			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Crown Street",
+					"contatoEnderecosNumero": 5161,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Kristi",
+					"contatoEnderecosCEP": "91947-738",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "91057-9225",
+					"contatoTelefonesRamal": 531
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "85749-7284",
+					"contatoTelefonesRamal": 540
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "80959-6346",
+					"contatoTelefonesRamal": 468
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Claudia Daniel",
+			"contatoEmail": "claudiadaniel@gleamink.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Forest Place",
+					"contatoEnderecosNumero": 5034,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Bartlett",
+					"contatoEnderecosCEP": "85250-835",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Bedell Lane",
+					"contatoEnderecosNumero": 2213,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Mendez",
+					"contatoEnderecosCEP": "83649-134",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Dunne Court",
+					"contatoEnderecosNumero": 7364,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Gomez",
+					"contatoEnderecosCEP": "88345-425",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "96242-7207",
+					"contatoTelefonesRamal": 579
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Ellis Ball",
+			"contatoEmail": "ellisball@gleamink.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
 			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Bethel Loop",
-					"contatoEnderecosNumero": 5001,
+					"contatoEnderecosEndereco": "Glendale Court",
+					"contatoEnderecosNumero": 458,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Bette",
-					"contatoEnderecosCEP": "98345-435",
-					"contatoEnderecosLOB": "VIAGEM",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosBairro": "Jana",
+					"contatoEnderecosCEP": "95752-622",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": false
 				}
@@ -41,15 +151,21 @@
 			"contatoTelefones": [
 				{
 					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "96943-0286",
-					"contatoTelefonesRamal": 469
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "85055-0257",
+					"contatoTelefonesRamal": 194
 				},
 				{
 					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "96247-2311",
-					"contatoTelefonesRamal": 47
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "96047-0389",
+					"contatoTelefonesRamal": 558
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "81456-5281",
+					"contatoTelefonesRamal": 784
 				}
 			]
 		}
@@ -57,37 +173,123 @@
 	"regioes": [
 		{
 			"regioesID": 1,
-			"regioesCodigo": "elit",
-			"regioesDescricao": "Esse ullamco tempor magna eu Lorem occaecat."
+			"regioesCodigo": "in",
+			"regioesDescricao": "Eu voluptate anim id occaecat mollit laboris nulla est."
+		},
+		{
+			"regioesID": 2,
+			"regioesCodigo": "in",
+			"regioesDescricao": "Veniam dolore pariatur proident est aliqua qui nisi sunt irure."
+		},
+		{
+			"regioesID": 3,
+			"regioesCodigo": "veniam",
+			"regioesDescricao": "Id laboris aliquip enim sint aliqua cillum non."
 		}
 	],
 	"arquivos": [
 		{
 			"arquivosID": 1,
-			"arquivosPath": "/userfiles/aliqua.xlsx",
-			"arquivosDescricao": "Consectetur laborum eiusmod non cupidatat.",
-			"arquivosDataCriacao": "2022-12-26 21:22:02"
+			"arquivosPath": "/userfiles/tempor.xlsx",
+			"arquivosDescricao": "Sit cupidatat est in consectetur anim exercitation deserunt est ex mollit eiusmod ex aute ex.",
+			"arquivosDataCriacao": "2022-11-29 08:50:52"
+		},
+		{
+			"arquivosID": 2,
+			"arquivosPath": "/userfiles/commodo.xlsx",
+			"arquivosDescricao": "Voluptate incididunt consectetur aliquip ad nulla ad minim nisi aliqua.",
+			"arquivosDataCriacao": "2022-12-19 00:14:53"
+		},
+		{
+			"arquivosID": 3,
+			"arquivosPath": "/userfiles/pariatur.pdf",
+			"arquivosDescricao": "Reprehenderit id amet nisi exercitation dolor.",
+			"arquivosDataCriacao": "2022-06-05 19:41:10"
+		},
+		{
+			"arquivosID": 4,
+			"arquivosPath": "/userfiles/proident.xlsx",
+			"arquivosDescricao": "Nisi esse ex minim aute.",
+			"arquivosDataCriacao": "2022-09-08 08:42:52"
 		}
 	],
 	"contratos": [
 		{
 			"contratosID": 1,
-			"contratosNome": "nulla anim",
+			"contratosNome": "amet do",
 			"contratoLOBPrincipal": [
-				"RA",
-				"RAMOS ELEMENTARES"
+				"AU",
+				"AUTO"
 			],
-			"contratoInicioVigencia": "2022-10-23",
+			"contratoInicioVigencia": "2021-06-29",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
-			"contratoComentario": "Nostrud aliquip velit dolore minim occaecat sit excepteur pariatur ut dolor. Tempor aliquip mollit aute aliquip reprehenderit aute ullamco quis.",
-			"contratoInicioAtividades": "2022-10-24",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Consectetur proident velit tempor consectetur magna eu ipsum aliquip dolore pariatur adipisicing enim do. Nulla ut laboris nisi nulla aute commodo veniam reprehenderit.",
+			"contratoInicioAtividades": "2021-06-30",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
 					"contratoLOBSecundariosLOB": [
-						"FU",
-						"FUNERAL"
+						"VI",
+						"VIAGEM"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 2,
+			"contratosNome": "dolor tempor",
+			"contratoLOBPrincipal": [
+				"AU",
+				"AUTO"
+			],
+			"contratoInicioVigencia": "2021-12-10",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Eu aute sint id sint sit sunt sunt anim dolor exercitation amet ipsum. Sunt reprehenderit voluptate elit deserunt do labore excepteur mollit ipsum culpa.",
+			"contratoInicioAtividades": "2021-12-11",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 3,
+			"contratosNome": "non ad",
+			"contratoLOBPrincipal": [
+				"FU",
+				"FUNERAL"
+			],
+			"contratoInicioVigencia": "2019-04-16",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Incididunt ex tempor ex enim. Minim esse quis ut ipsum nulla nisi ex et fugiat anim qui in ipsum.",
+			"contratoInicioAtividades": "2019-04-17",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
 					]
 				},
 				{
@@ -100,8 +302,59 @@
 				{
 					"contratoLOBSecundariosID": 3,
 					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 4,
+			"contratosNome": "veniam ad",
+			"contratoLOBPrincipal": [
+				"AU",
+				"AUTO"
+			],
+			"contratoInicioVigencia": "2019-01-02",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Tempor sit consectetur deserunt dolor commodo magna pariatur cillum cillum veniam consequat consectetur id amet. Laboris pariatur duis est cupidatat quis ad nisi dolore ex.",
+			"contratoInicioAtividades": "2019-01-03",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
 						"VI",
 						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 5,
+			"contratosNome": "ullamco minim",
+			"contratoLOBPrincipal": [
+				"VI",
+				"VIAGEM"
+			],
+			"contratoInicioVigencia": "2022-10-31",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Cupidatat veniam et tempor ut cupidatat anim. Tempor et aute quis enim ipsum aliqua pariatur reprehenderit est.",
+			"contratoInicioAtividades": "2022-11-01",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
 					]
 				}
 			]

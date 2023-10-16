@@ -1,326 +1,49 @@
 {
 	"clienteID": 1,
-	"nomeExibicao": "Tribalog",
-	"nome": "Tribalog",
-	"cnpj": "23.746.910/0001-13",
-	"inscricaoEstadual": "84.654.42-50",
-	"razaoSocial": "Tribalog S/A",
-	"website": "tribalog.com.br",
-	"mercado": "SEGURADORA",
+	"nomeCare": "Tropoli",
+	"nome": "Tropoli",
+	"cnpj": "37.888.622/0001-08",
+	"inscricaoEstadual": "85.859.13-44",
+	"razaoSocial": "Tropoli ME",
+	"website": "tropoli.com.br",
+	"mercado": "MONTADORA",
 	"statusCliente": "ATIVO",
-	"contaContabil": "CONTABIL B",
-	"siglaCliente": "ALOG",
+	"contaContabil": "CONTABIL A",
+	"siglaCliente": "OLI",
 	"trabalhaRegioes": false,
-	"trabalhaClausulas": false,
+	"trabalhaClausulas": true,
 	"contatos": [
 		{
 			"contatoID": 1,
-			"contatoNome": "Barton Mooney",
-			"contatoEmail": "bartonmooney@tribalog.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": false,
-			"contatoVIP": false,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Brooklyn Road",
-					"contatoEnderecosNumero": 9553,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Margaret",
-					"contatoEnderecosCEP": "92155-425",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "98456-6321",
-					"contatoTelefonesRamal": 594
-				},
-				{
-					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "87951-3201",
-					"contatoTelefonesRamal": 477
-				},
-				{
-					"contatoTelefonesID": 3,
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "84741-1362",
-					"contatoTelefonesRamal": 144
-				}
-			]
-		},
-		{
-			"contatoID": 2,
-			"contatoNome": "Francine Meyers",
-			"contatoEmail": "francinemeyers@tribalog.com",
+			"contatoNome": "Jodie Andrews",
+			"contatoEmail": "jodieandrews@tropoli.com",
 			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Financeiro",
-			"contatoResponsavel": false,
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": true,
 			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Harman Street",
-					"contatoEnderecosNumero": 5875,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Amie",
-					"contatoEnderecosCEP": "88457-927",
+					"contatoEnderecosEndereco": "Moffat Street",
+					"contatoEnderecosNumero": 5412,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Kemp",
+					"contatoEnderecosCEP": "98757-824",
 					"contatoEnderecosLOB": "AUTO",
 					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": true
-				},
-				{
-					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Clifton Place",
-					"contatoEnderecosNumero": 240,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Mccarthy",
-					"contatoEnderecosCEP": "86059-524",
-					"contatoEnderecosLOB": "FUNERAL",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosID": 3,
-					"contatoEnderecosEndereco": "Elm Avenue",
-					"contatoEnderecosNumero": 9813,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Downs",
-					"contatoEnderecosCEP": "92843-420",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
 				}
 			],
 			"contatoTelefones": [
 				{
 					"contatoTelefonesID": 1,
 					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "87953-4248",
-					"contatoTelefonesRamal": 740
-				}
-			]
-		},
-		{
-			"contatoID": 3,
-			"contatoNome": "Celina Harris",
-			"contatoEmail": "celinaharris@tribalog.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Marketing",
-			"contatoResponsavel": true,
-			"contatoVIP": false,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Tampa Court",
-					"contatoEnderecosNumero": 3507,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Higgins",
-					"contatoEnderecosCEP": "97249-635",
-					"contatoEnderecosLOB": "VIAGEM",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Judge Street",
-					"contatoEnderecosNumero": 1236,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Bailey",
-					"contatoEnderecosCEP": "94843-535",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosID": 3,
-					"contatoEnderecosEndereco": "Seigel Street",
-					"contatoEnderecosNumero": 7645,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Clarissa",
-					"contatoEnderecosCEP": "86757-925",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "85145-5353",
-					"contatoTelefonesRamal": 615
-				},
-				{
-					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "92940-0371",
-					"contatoTelefonesRamal": 952
-				},
-				{
-					"contatoTelefonesID": 3,
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "85749-8224",
-					"contatoTelefonesRamal": 8
-				}
-			]
-		},
-		{
-			"contatoID": 4,
-			"contatoNome": "Paulette Tanner",
-			"contatoEmail": "paulettetanner@tribalog.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": false,
-			"contatoVIP": true,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Herbert Street",
-					"contatoEnderecosNumero": 589,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Underwood",
-					"contatoEnderecosCEP": "83455-135",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Elm Place",
-					"contatoEnderecosNumero": 464,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Nadine",
-					"contatoEnderecosCEP": "92858-936",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosID": 3,
-					"contatoEnderecosEndereco": "Plymouth Street",
-					"contatoEnderecosNumero": 1695,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Cabrera",
-					"contatoEnderecosCEP": "98758-838",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "99253-5209",
-					"contatoTelefonesRamal": 168
-				},
-				{
-					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "98150-5380",
-					"contatoTelefonesRamal": 43
-				}
-			]
-		},
-		{
-			"contatoID": 5,
-			"contatoNome": "Marlene Lindsey",
-			"contatoEmail": "marlenelindsey@tribalog.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Financeiro",
-			"contatoResponsavel": true,
-			"contatoVIP": false,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Mill Avenue",
-					"contatoEnderecosNumero": 8767,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Rosemary",
-					"contatoEnderecosCEP": "97545-930",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Irvington Place",
-					"contatoEnderecosNumero": 7889,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Raquel",
-					"contatoEnderecosCEP": "95756-135",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "98948-1397",
-					"contatoTelefonesRamal": 254
-				},
-				{
-					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "83747-0252",
-					"contatoTelefonesRamal": 576
+					"contatoTelefonesTelefone": "84150-7331",
+					"contatoTelefonesRamal": 543
 				}
 			]
 		}
@@ -328,53 +51,65 @@
 	"regioes": [
 		{
 			"regioesID": 1,
-			"regioesCodigo": "consectetur",
-			"regioesDescricao": "Tempor exercitation pariatur cupidatat laboris exercitation anim incididunt aliqua aliqua nisi eu pariatur."
+			"regioesCodigo": "sunt",
+			"regioesDescricao": "Amet elit id ipsum fugiat officia adipisicing adipisicing labore eiusmod in ex."
 		},
 		{
 			"regioesID": 2,
-			"regioesCodigo": "cillum",
-			"regioesDescricao": "Id exercitation veniam ex est adipisicing elit aute magna."
+			"regioesCodigo": "reprehenderit",
+			"regioesDescricao": "Officia fugiat reprehenderit dolore enim ea proident consequat sunt cupidatat."
 		},
 		{
 			"regioesID": 3,
-			"regioesCodigo": "amet",
-			"regioesDescricao": "Veniam voluptate minim consequat ipsum tempor incididunt duis nulla."
+			"regioesCodigo": "irure",
+			"regioesDescricao": "Id non elit pariatur aute cillum id occaecat non."
 		}
 	],
 	"arquivos": [
 		{
 			"arquivosID": 1,
-			"arquivosPath": "/userfiles/adipisicing.xlsx",
-			"arquivosDescricao": "Eiusmod est commodo ipsum enim aute ut in.",
-			"arquivosDataCriacao": "2022-12-08 17:32:08"
+			"arquivosPath": "/userfiles/occaecat.pdf",
+			"arquivosDescricao": "Lorem dolor aute elit consectetur fugiat aliqua consequat deserunt aliqua commodo.",
+			"arquivosDataCriacao": "2022-04-13 16:20:21"
 		},
 		{
 			"arquivosID": 2,
-			"arquivosPath": "/userfiles/id.xlsx",
-			"arquivosDescricao": "Aute irure eiusmod cillum non ullamco enim mollit nulla veniam deserunt.",
-			"arquivosDataCriacao": "2022-08-04 07:19:56"
+			"arquivosPath": "/userfiles/ullamco.pdf",
+			"arquivosDescricao": "Minim sit tempor consequat nisi laboris adipisicing fugiat ex id.",
+			"arquivosDataCriacao": "2022-06-30 06:57:42"
 		},
 		{
 			"arquivosID": 3,
-			"arquivosPath": "/userfiles/sint.pdf",
-			"arquivosDescricao": "Et veniam sunt ex enim aliquip cillum sit exercitation aliqua eiusmod.",
-			"arquivosDataCriacao": "2022-07-28 21:53:18"
+			"arquivosPath": "/userfiles/ad.pdf",
+			"arquivosDescricao": "Elit ad elit cupidatat cupidatat mollit.",
+			"arquivosDataCriacao": "2022-02-12 13:24:11"
+		},
+		{
+			"arquivosID": 4,
+			"arquivosPath": "/userfiles/enim.pdf",
+			"arquivosDescricao": "Sunt incididunt anim dolor non velit labore duis non.",
+			"arquivosDataCriacao": "2022-04-22 06:11:20"
+		},
+		{
+			"arquivosID": 5,
+			"arquivosPath": "/userfiles/fugiat.xlsx",
+			"arquivosDescricao": "Nostrud dolor ipsum quis mollit qui.",
+			"arquivosDataCriacao": "2022-01-19 09:18:07"
 		}
 	],
 	"contratos": [
 		{
 			"contratosID": 1,
-			"contratosNome": "irure minim",
+			"contratosNome": "dolor ad",
 			"contratoLOBPrincipal": [
 				"AU",
 				"AUTO"
 			],
-			"contratoInicioVigencia": "2021-08-16",
+			"contratoInicioVigencia": "2020-11-27",
 			"contratoFimVigencia": "2025-01-01",
 			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
-			"contratoComentario": "Aute esse cillum in anim enim velit. Reprehenderit cillum enim tempor et.",
-			"contratoInicioAtividades": "2021-08-17",
+			"contratoComentario": "Nulla cillum deserunt irure id qui deserunt aliquip amet. Fugiat exercitation occaecat cillum commodo quis elit est.",
+			"contratoInicioAtividades": "2020-11-28",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
@@ -382,35 +117,43 @@
 						"VI",
 						"VIAGEM"
 					]
-				},
-				{
-					"contratoLOBSecundariosID": 2,
-					"contratoLOBSecundariosLOB": [
-						"RA",
-						"RAMOS ELEMENTARES"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 3,
-					"contratoLOBSecundariosLOB": [
-						"FU",
-						"FUNERAL"
-					]
 				}
 			]
 		},
 		{
 			"contratosID": 2,
-			"contratosNome": "anim do",
+			"contratosNome": "anim amet",
 			"contratoLOBPrincipal": [
-				"RA",
-				"RAMOS ELEMENTARES"
+				"FU",
+				"FUNERAL"
 			],
-			"contratoInicioVigencia": "2020-04-14",
+			"contratoInicioVigencia": "2021-11-09",
 			"contratoFimVigencia": "2025-01-01",
 			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
-			"contratoComentario": "Esse laborum ipsum anim voluptate non officia Lorem non mollit ipsum. Ea occaecat in cupidatat irure nisi pariatur ipsum.",
-			"contratoInicioAtividades": "2020-04-15",
+			"contratoComentario": "Ipsum non velit laboris veniam nisi proident tempor. Occaecat occaecat velit laboris ad excepteur aliqua do est reprehenderit sunt amet sit.",
+			"contratoInicioAtividades": "2021-11-10",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 3,
+			"contratosNome": "aliquip ipsum",
+			"contratoLOBPrincipal": [
+				"AU",
+				"AUTO"
+			],
+			"contratoInicioVigencia": "2022-11-16",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Esse nisi sunt nostrud ex exercitation nulla laboris nisi. Irure in irure aute commodo deserunt ut cupidatat irure sit.",
+			"contratoInicioAtividades": "2022-11-17",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
@@ -424,13 +167,6 @@
 					"contratoLOBSecundariosLOB": [
 						"FU",
 						"FUNERAL"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 3,
-					"contratoLOBSecundariosLOB": [
-						"AU",
-						"AUTO"
 					]
 				}
 			]

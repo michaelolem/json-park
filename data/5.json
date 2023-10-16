@@ -1,61 +1,76 @@
 {
 	"clienteID": 5,
-	"nomeExibicao": "Isosure",
-	"nome": "Isosure",
-	"cnpj": "44.045.575/0001-04",
-	"inscricaoEstadual": "84.455.93-01",
-	"razaoSocial": "Isosure ME",
-	"website": "isosure.com",
+	"nomeCare": "Biohab",
+	"nome": "Biohab",
+	"cnpj": "09.311.298/0001-25",
+	"inscricaoEstadual": "89.642.33-23",
+	"razaoSocial": "Biohab S/A",
+	"website": "biohab.com",
 	"mercado": "MONTADORA",
-	"statusCliente": "ATIVO",
-	"contaContabil": "CONTABIL B",
-	"siglaCliente": "URE",
-	"trabalhaRegioes": true,
-	"trabalhaClausulas": true,
+	"statusCliente": "INATIVO",
+	"contaContabil": "CONTABIL A",
+	"siglaCliente": "AB",
+	"trabalhaRegioes": false,
+	"trabalhaClausulas": false,
 	"contatos": [
 		{
 			"contatoID": 1,
-			"contatoNome": "Bridget Burch",
-			"contatoEmail": "bridgetburch@isosure.com",
+			"contatoNome": "Mclaughlin Maldonado",
+			"contatoEmail": "mclaughlinmaldonado@biohab.com",
 			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Jur\u00eddico",
-			"contatoResponsavel": false,
-			"contatoVIP": false,
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Bank Street",
-					"contatoEnderecosNumero": 5555,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Wise",
-					"contatoEnderecosCEP": "99059-623",
-					"contatoEnderecosLOB": "VIAGEM",
-					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosEndereco": "Colonial Court",
+					"contatoEnderecosNumero": 6912,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Holloway",
+					"contatoEnderecosCEP": "88144-735",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
 					"contatoEnderecosCidade": "CIDADE 3",
 					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Menahan Street",
+					"contatoEnderecosNumero": 6680,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Ferrell",
+					"contatoEnderecosCEP": "89540-831",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
 				}
 			],
 			"contatoTelefones": [
 				{
 					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "99947-0263",
-					"contatoTelefonesRamal": 975
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "84055-9209",
+					"contatoTelefonesRamal": 837
 				},
 				{
 					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "86650-4249",
-					"contatoTelefonesRamal": 501
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "83557-4350",
+					"contatoTelefonesRamal": 779
 				},
 				{
 					"contatoTelefonesID": 3,
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "80345-5332",
-					"contatoTelefonesRamal": 882
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "97642-8377",
+					"contatoTelefonesRamal": 46
 				}
 			]
 		}
@@ -63,93 +78,83 @@
 	"regioes": [
 		{
 			"regioesID": 1,
-			"regioesCodigo": "esse",
-			"regioesDescricao": "Labore nisi culpa dolore deserunt id exercitation ut culpa deserunt proident non."
-		},
-		{
-			"regioesID": 2,
-			"regioesCodigo": "elit",
-			"regioesDescricao": "Eiusmod occaecat excepteur duis veniam esse reprehenderit ipsum esse ad deserunt aliqua irure duis enim."
-		},
-		{
-			"regioesID": 3,
-			"regioesCodigo": "sunt",
-			"regioesDescricao": "Mollit do minim aute Lorem adipisicing nulla qui ex non nostrud eiusmod voluptate consectetur id."
+			"regioesCodigo": "in",
+			"regioesDescricao": "Non excepteur duis ipsum id incididunt ex Lorem ea."
 		}
 	],
 	"arquivos": [
 		{
 			"arquivosID": 1,
-			"arquivosPath": "/userfiles/et.docx",
-			"arquivosDescricao": "Do eiusmod laboris sunt nostrud ullamco culpa eiusmod officia fugiat.",
-			"arquivosDataCriacao": "2022-11-25 02:26:30"
+			"arquivosPath": "/userfiles/amet.pdf",
+			"arquivosDescricao": "Irure adipisicing eiusmod enim officia irure aliquip labore tempor dolor aute occaecat.",
+			"arquivosDataCriacao": "2022-03-31 09:09:20"
 		},
 		{
 			"arquivosID": 2,
-			"arquivosPath": "/userfiles/in.docx",
-			"arquivosDescricao": "Amet Lorem in duis aliquip tempor reprehenderit.",
-			"arquivosDataCriacao": "2022-06-09 19:14:29"
+			"arquivosPath": "/userfiles/dolor.docx",
+			"arquivosDescricao": "Culpa reprehenderit sint laboris cupidatat adipisicing deserunt laborum ad anim sit magna ad.",
+			"arquivosDataCriacao": "2022-10-18 19:47:16"
 		},
 		{
 			"arquivosID": 3,
-			"arquivosPath": "/userfiles/officia.xlsx",
-			"arquivosDescricao": "Tempor occaecat laboris quis eu nisi commodo ut nostrud nulla tempor duis elit labore.",
-			"arquivosDataCriacao": "2022-05-05 06:47:23"
+			"arquivosPath": "/userfiles/esse.docx",
+			"arquivosDescricao": "Ullamco pariatur amet ea id labore occaecat do Lorem anim.",
+			"arquivosDataCriacao": "2022-09-20 17:02:08"
 		},
 		{
 			"arquivosID": 4,
-			"arquivosPath": "/userfiles/consectetur.pdf",
-			"arquivosDescricao": "Irure est consequat minim eiusmod.",
-			"arquivosDataCriacao": "2022-08-14 19:24:19"
+			"arquivosPath": "/userfiles/non.docx",
+			"arquivosDescricao": "Ullamco magna ex ipsum nostrud ad duis esse minim commodo esse occaecat voluptate.",
+			"arquivosDataCriacao": "2022-01-22 05:37:27"
 		},
 		{
 			"arquivosID": 5,
-			"arquivosPath": "/userfiles/anim.docx",
-			"arquivosDescricao": "Enim quis enim aliquip est proident sint laboris elit.",
-			"arquivosDataCriacao": "2022-02-22 09:55:19"
+			"arquivosPath": "/userfiles/labore.docx",
+			"arquivosDescricao": "Sint irure enim magna incididunt et cupidatat eu.",
+			"arquivosDataCriacao": "2022-01-29 16:53:45"
 		}
 	],
 	"contratos": [
 		{
 			"contratosID": 1,
-			"contratosNome": "ipsum aliquip",
+			"contratosNome": "esse magna",
 			"contratoLOBPrincipal": [
-				"RA",
-				"RAMOS ELEMENTARES"
+				"FU",
+				"FUNERAL"
 			],
-			"contratoInicioVigencia": "2022-01-13",
+			"contratoInicioVigencia": "2021-10-22",
 			"contratoFimVigencia": "2025-01-01",
 			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
-			"contratoComentario": "Duis ut officia velit elit pariatur cillum. Sit minim fugiat eu cillum proident.",
-			"contratoInicioAtividades": "2022-01-14",
-			"contratoLOBSecundarios": [
-				{
-					"contratoLOBSecundariosID": 1,
-					"contratoLOBSecundariosLOB": [
-						"RA",
-						"RAMOS ELEMENTARES"
-					]
-				}
-			]
-		},
-		{
-			"contratosID": 2,
-			"contratosNome": "commodo mollit",
-			"contratoLOBPrincipal": [
-				"RA",
-				"RAMOS ELEMENTARES"
-			],
-			"contratoInicioVigencia": "2022-05-19",
-			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
-			"contratoComentario": "Sint proident velit laboris proident nulla officia cillum tempor reprehenderit est. Eu fugiat irure officia irure officia exercitation excepteur.",
-			"contratoInicioAtividades": "2022-05-20",
+			"contratoComentario": "Exercitation do id elit aliquip. Lorem ut adipisicing voluptate id mollit irure adipisicing labore occaecat esse sunt.",
+			"contratoInicioAtividades": "2021-10-23",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
 					"contratoLOBSecundariosLOB": [
 						"VI",
 						"VIAGEM"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 2,
+			"contratosNome": "voluptate officia",
+			"contratoLOBPrincipal": [
+				"RA",
+				"RAMOS ELEMENTARES"
+			],
+			"contratoInicioVigencia": "2022-04-05",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Magna est dolor dolore nulla cupidatat ipsum ullamco ex reprehenderit ut laboris. Ut magna veniam consectetur deserunt dolor tempor.",
+			"contratoInicioAtividades": "2022-04-06",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
 					]
 				},
 				{
