@@ -33,7 +33,7 @@
 					"contatoEnderecosLOB": "AUTO",
 					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
@@ -42,7 +42,7 @@
 					"contatoEnderecosID": 2,
 					"contatoEnderecosEndereco": "Underhill Avenue",
 					"contatoEnderecosNumero": 5817,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosComplemento": "Térreo",
 					"contatoEnderecosBairro": "Justice",
 					"contatoEnderecosCEP": "92359-235",
 					"contatoEnderecosLOB": "AUTO",
@@ -74,7 +74,7 @@
 			"contatoNome": "Farmer Hood",
 			"contatoEmail": "farmerhood@datacator.com",
 			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Jur\u00eddico",
+			"contatoDepartmento": "Jurídico",
 			"contatoResponsavel": false,
 			"contatoVIP": false,
 			"contatoEnderecos": [
@@ -88,7 +88,7 @@
 					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
 					"contatoEnderecosEstado": "ESTADO 3",
 					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": true
@@ -143,7 +143,7 @@
 					"contatoEnderecosLOB": "VIAGEM",
 					"contatoEnderecosEstado": "ESTADO 3",
 					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
@@ -163,7 +163,7 @@
 			"contatoNome": "Brittany Mccall",
 			"contatoEmail": "brittanymccall@datacator.com",
 			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Jur\u00eddico",
+			"contatoDepartmento": "Jurídico",
 			"contatoResponsavel": true,
 			"contatoVIP": true,
 			"contatoEnderecos": [
@@ -207,7 +207,7 @@
 					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
 					"contatoEnderecosEstado": "ESTADO 3",
 					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": true
@@ -247,7 +247,7 @@
 					"contatoEnderecosLOB": "FUNERAL",
 					"contatoEnderecosEstado": "ESTADO 3",
 					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": true
@@ -305,7 +305,7 @@
 			],
 			"contratoInicioVigencia": "2021-06-19",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
 			"contratoComentario": "Aute eiusmod commodo qui sunt sunt et minim mollit. Aute labore voluptate sunt aute sit elit qui laborum ad magna ut exercitation.",
 			"contratoInicioAtividades": "2021-06-20",
 			"contratoLOBSecundarios": [
@@ -341,7 +341,7 @@
 			],
 			"contratoInicioVigencia": "2019-09-17",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
 			"contratoComentario": "Quis occaecat incididunt nostrud aliqua do quis irure ipsum pariatur ut amet ipsum veniam non. Do aliquip id irure ad fugiat aliqua aute nostrud labore eu proident exercitation laborum.",
 			"contratoInicioAtividades": "2019-09-18",
 			"contratoLOBSecundarios": [
@@ -370,7 +370,7 @@
 			],
 			"contratoInicioVigencia": "2020-09-17",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
 			"contratoComentario": "Labore eu Lorem pariatur Lorem consectetur est dolore aute. Ullamco consectetur commodo laboris est nulla voluptate velit est nostrud dolore.",
 			"contratoInicioAtividades": "2020-09-18",
 			"contratoLOBSecundarios": [
@@ -399,7 +399,7 @@
 			],
 			"contratoInicioVigencia": "2019-03-03",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
 			"contratoComentario": "Velit exercitation pariatur sit consequat velit sunt anim cupidatat dolore nulla in officia velit eiusmod. Nostrud magna magna sit Lorem cupidatat ut minim aute veniam reprehenderit aliqua incididunt.",
 			"contratoInicioAtividades": "2019-03-04",
 			"contratoLOBSecundarios": [
@@ -421,7 +421,7 @@
 			],
 			"contratoInicioVigencia": "2020-07-09",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
 			"contratoComentario": "Esse officia nostrud dolor elit sint. Magna incididunt velit sunt mollit eu enim do qui pariatur qui minim proident consectetur aliquip.",
 			"contratoInicioAtividades": "2020-07-10",
 			"contratoLOBSecundarios": [

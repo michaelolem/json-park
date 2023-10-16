@@ -63,7 +63,7 @@
 					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
 					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": true
@@ -95,7 +95,7 @@
 			"contatoNome": "Ferguson Mullins",
 			"contatoEmail": "fergusonmullins@naxdis.com",
 			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Jur\u00eddico",
+			"contatoDepartmento": "Jurídico",
 			"contatoResponsavel": true,
 			"contatoVIP": true,
 			"contatoEnderecos": [
@@ -109,7 +109,7 @@
 					"contatoEnderecosLOB": "VIAGEM",
 					"contatoEnderecosEstado": "ESTADO 2",
 					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": true
@@ -139,7 +139,7 @@
 					"contatoEnderecosLOB": "FUNERAL",
 					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": true
@@ -182,7 +182,7 @@
 					"contatoEnderecosID": 2,
 					"contatoEnderecosEndereco": "Dakota Place",
 					"contatoEnderecosNumero": 2121,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosComplemento": "Térreo",
 					"contatoEnderecosBairro": "Vaughan",
 					"contatoEnderecosCEP": "99359-639",
 					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
@@ -203,7 +203,7 @@
 					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
 					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": true
@@ -255,7 +255,7 @@
 			],
 			"contratoInicioVigencia": "2021-02-10",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
 			"contratoComentario": "Minim labore ad aute quis nulla. Reprehenderit sint fugiat ad laborum.",
 			"contratoInicioAtividades": "2021-02-11",
 			"contratoLOBSecundarios": [
@@ -277,7 +277,7 @@
 			],
 			"contratoInicioVigencia": "2021-01-18",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
 			"contratoComentario": "Consequat commodo deserunt enim reprehenderit consectetur culpa reprehenderit eu excepteur incididunt culpa consequat duis tempor. Officia qui esse do velit minim commodo ex pariatur duis magna esse esse veniam aliquip.",
 			"contratoInicioAtividades": "2021-01-19",
 			"contratoLOBSecundarios": [

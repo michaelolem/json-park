@@ -27,7 +27,7 @@
 					"contatoEnderecosID": 1,
 					"contatoEnderecosEndereco": "Roosevelt Place",
 					"contatoEnderecosNumero": 1426,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosComplemento": "Térreo",
 					"contatoEnderecosBairro": "Ilene",
 					"contatoEnderecosCEP": "94254-636",
 					"contatoEnderecosLOB": "FUNERAL",
@@ -48,7 +48,7 @@
 					"contatoEnderecosLOB": "FUNERAL",
 					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": true
@@ -94,7 +94,7 @@
 					"contatoEnderecosLOB": "FUNERAL",
 					"contatoEnderecosEstado": "ESTADO 3",
 					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
@@ -222,7 +222,7 @@
 			],
 			"contratoInicioVigencia": "2020-05-10",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
 			"contratoComentario": "Officia non eiusmod irure aliqua anim commodo nostrud laboris cupidatat sit tempor ullamco esse. Consectetur deserunt fugiat pariatur ut quis sunt.",
 			"contratoInicioAtividades": "2020-05-11",
 			"contratoLOBSecundarios": [
@@ -251,7 +251,7 @@
 			],
 			"contratoInicioVigencia": "2022-05-01",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
 			"contratoComentario": "Ea duis labore velit mollit dolore veniam ipsum deserunt. Cillum commodo ullamco sint aliquip elit sit cupidatat irure nostrud.",
 			"contratoInicioAtividades": "2022-05-02",
 			"contratoLOBSecundarios": [
@@ -273,7 +273,7 @@
 			],
 			"contratoInicioVigencia": "2020-08-13",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
 			"contratoComentario": "Labore quis exercitation sit aliquip sunt nostrud aliquip exercitation eu ad aliquip id. Eu Lorem anim pariatur labore non ullamco.",
 			"contratoInicioAtividades": "2020-08-14",
 			"contratoLOBSecundarios": [

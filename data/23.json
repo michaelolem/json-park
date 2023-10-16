@@ -19,7 +19,7 @@
 			"contatoNome": "Lucille Kent",
 			"contatoEmail": "lucillekent@valpreal.com",
 			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Jur\u00eddico",
+			"contatoDepartmento": "Jurídico",
 			"contatoResponsavel": false,
 			"contatoVIP": true,
 			"contatoEnderecos": [
@@ -48,7 +48,7 @@
 					"contatoEnderecosLOB": "FUNERAL",
 					"contatoEnderecosEstado": "ESTADO 2",
 					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": false
@@ -63,7 +63,7 @@
 					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
 					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": true
@@ -134,7 +134,7 @@
 			],
 			"contratoInicioVigencia": "2022-09-10",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
 			"contratoComentario": "Ea esse sit qui voluptate nulla fugiat deserunt. Officia do aliqua consequat ut esse in.",
 			"contratoInicioAtividades": "2022-09-11",
 			"contratoLOBSecundarios": [
@@ -170,7 +170,7 @@
 			],
 			"contratoInicioVigencia": "2020-09-21",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
 			"contratoComentario": "Eu consequat id proident nisi proident anim enim. Reprehenderit sunt ea aute aute culpa aute exercitation minim ex cillum ex mollit sit.",
 			"contratoInicioAtividades": "2020-09-22",
 			"contratoLOBSecundarios": [
@@ -192,7 +192,7 @@
 			],
 			"contratoInicioVigencia": "2019-05-05",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
 			"contratoComentario": "Deserunt occaecat voluptate ullamco nostrud ut culpa laboris nisi do. Do aliqua et ea tempor.",
 			"contratoInicioAtividades": "2019-05-06",
 			"contratoLOBSecundarios": [
@@ -214,7 +214,7 @@
 			],
 			"contratoInicioVigencia": "2022-10-13",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
 			"contratoComentario": "Fugiat consectetur fugiat cillum qui nostrud et tempor eu dolor. Eiusmod nostrud deserunt incididunt eu duis ut minim tempor et amet veniam cillum.",
 			"contratoInicioAtividades": "2022-10-14",
 			"contratoLOBSecundarios": [

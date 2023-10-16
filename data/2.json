@@ -1,13 +1,13 @@
 {
 	"clienteID": 2,
-	"nomeCare": "Zillanet Online",
-	"nome": "Zillanet Online",
+	"nomeCare": "Zillanet",
+	"nome": "Zillanet",
 	"cnpj": "27.651.576/0001-75",
 	"inscricaoEstadual": "98.055.33-67",
-	"razaoSocial": "Zillanet Online ME",
+	"razaoSocial": "Zillanet ME",
 	"website": "zillanet.com.br",
 	"mercado": "MONTADORA",
-	"statusCliente": "INATIVO",
+	"statusCliente": "ATIVO",
 	"contaContabil": "CONTABIL A",
 	"codigoSAP": "4S6Y-XA-01YVV9F-NLYJ-E9-C62DW2OZ1TQY",
 	"siglaCliente": "ANET",
@@ -48,7 +48,7 @@
 					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
 					"contatoEnderecosEstado": "ESTADO 2",
 					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": false
@@ -124,7 +124,7 @@
 			],
 			"contratoInicioVigencia": "2020-07-07",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
 			"contratoComentario": "Pariatur voluptate exercitation eiusmod voluptate in reprehenderit irure cillum. Voluptate mollit anim nisi nulla sint eiusmod reprehenderit Lorem culpa minim.",
 			"contratoInicioAtividades": "2020-07-08",
 			"contratoLOBSecundarios": [
@@ -146,7 +146,7 @@
 			],
 			"contratoInicioVigencia": "2021-07-08",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
 			"contratoComentario": "Cupidatat sunt officia qui id deserunt aliqua culpa ea amet adipisicing excepteur dolor. Deserunt nostrud aliquip commodo amet.",
 			"contratoInicioAtividades": "2021-07-09",
 			"contratoLOBSecundarios": [
@@ -168,7 +168,7 @@
 			],
 			"contratoInicioVigencia": "2022-04-21",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
 			"contratoComentario": "Dolor sit sit amet dolor. Qui elit pariatur et reprehenderit et aliquip laborum duis aliquip pariatur dolor aliqua amet.",
 			"contratoInicioAtividades": "2022-04-22",
 			"contratoLOBSecundarios": [
@@ -197,7 +197,7 @@
 			],
 			"contratoInicioVigencia": "2020-12-31",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
 			"contratoComentario": "Officia amet officia amet elit irure ex consectetur voluptate eu. Dolore ipsum do ullamco cupidatat mollit proident mollit pariatur elit voluptate laboris.",
 			"contratoInicioAtividades": "2021-01-01",
 			"contratoLOBSecundarios": [

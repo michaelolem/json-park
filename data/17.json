@@ -19,7 +19,7 @@
 			"contatoNome": "Sheree Rutledge",
 			"contatoEmail": "shereerutledge@sloganaut.com",
 			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Jur\u00eddico",
+			"contatoDepartmento": "Jurídico",
 			"contatoResponsavel": true,
 			"contatoVIP": false,
 			"contatoEnderecos": [
@@ -33,7 +33,7 @@
 					"contatoEnderecosLOB": "VIAGEM",
 					"contatoEnderecosEstado": "ESTADO 3",
 					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
@@ -61,7 +61,7 @@
 					"contatoEnderecosID": 1,
 					"contatoEnderecosEndereco": "Greene Avenue",
 					"contatoEnderecosNumero": 4905,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosComplemento": "Térreo",
 					"contatoEnderecosBairro": "Carey",
 					"contatoEnderecosCEP": "99753-230",
 					"contatoEnderecosLOB": "AUTO",
@@ -97,7 +97,7 @@
 					"contatoEnderecosLOB": "VIAGEM",
 					"contatoEnderecosEstado": "ESTADO 3",
 					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
@@ -192,7 +192,7 @@
 					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
 					"contatoEnderecosEstado": "ESTADO 2",
 					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": true
@@ -254,7 +254,7 @@
 			"contatoNome": "Brittney Bernard",
 			"contatoEmail": "brittneybernard@sloganaut.com",
 			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Jur\u00eddico",
+			"contatoDepartmento": "Jurídico",
 			"contatoResponsavel": false,
 			"contatoVIP": true,
 			"contatoEnderecos": [
@@ -283,7 +283,7 @@
 					"contatoEnderecosLOB": "FUNERAL",
 					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": false
@@ -315,7 +315,7 @@
 			"contatoNome": "Hilda Mcfadden",
 			"contatoEmail": "hildamcfadden@sloganaut.com",
 			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Jur\u00eddico",
+			"contatoDepartmento": "Jurídico",
 			"contatoResponsavel": true,
 			"contatoVIP": true,
 			"contatoEnderecos": [
@@ -329,7 +329,7 @@
 					"contatoEnderecosLOB": "AUTO",
 					"contatoEnderecosEstado": "ESTADO 2",
 					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": true
@@ -438,7 +438,7 @@
 			],
 			"contratoInicioVigencia": "2022-09-27",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
 			"contratoComentario": "Est ad exercitation labore irure occaecat fugiat nisi. Commodo aliqua officia Lorem esse adipisicing culpa eu.",
 			"contratoInicioAtividades": "2022-09-28",
 			"contratoLOBSecundarios": [
@@ -474,7 +474,7 @@
 			],
 			"contratoInicioVigencia": "2019-04-26",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
 			"contratoComentario": "Commodo consectetur reprehenderit labore est eiusmod quis nostrud cupidatat qui sunt est enim. Consequat minim culpa reprehenderit consequat dolore ipsum et qui quis elit elit qui aute.",
 			"contratoInicioAtividades": "2019-04-27",
 			"contratoLOBSecundarios": [
@@ -510,7 +510,7 @@
 			],
 			"contratoInicioVigencia": "2021-01-31",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
 			"contratoComentario": "Exercitation amet magna pariatur duis mollit commodo reprehenderit. Sunt sint voluptate non cupidatat dolor mollit quis fugiat est ut.",
 			"contratoInicioAtividades": "2021-02-01",
 			"contratoLOBSecundarios": [
@@ -546,7 +546,7 @@
 			],
 			"contratoInicioVigencia": "2021-07-15",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
 			"contratoComentario": "Veniam incididunt commodo voluptate proident irure quis duis. Cupidatat tempor dolore consectetur labore ipsum reprehenderit pariatur do.",
 			"contratoInicioAtividades": "2021-07-16",
 			"contratoLOBSecundarios": [

@@ -33,7 +33,7 @@
 					"contatoEnderecosLOB": "FUNERAL",
 					"contatoEnderecosEstado": "ESTADO 2",
 					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": true
@@ -42,13 +42,13 @@
 					"contatoEnderecosID": 2,
 					"contatoEnderecosEndereco": "Jamaica Avenue",
 					"contatoEnderecosNumero": 2180,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosComplemento": "Térreo",
 					"contatoEnderecosBairro": "Lois",
 					"contatoEnderecosCEP": "93857-239",
 					"contatoEnderecosLOB": "AUTO",
 					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
@@ -88,7 +88,7 @@
 					"contatoEnderecosLOB": "FUNERAL",
 					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": true
@@ -149,7 +149,7 @@
 					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
 					"contatoEnderecosEstado": "ESTADO 2",
 					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
@@ -230,7 +230,7 @@
 			"contatoNome": "April Macias",
 			"contatoEmail": "aprilmacias@sulfax.com",
 			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Jur\u00eddico",
+			"contatoDepartmento": "Jurídico",
 			"contatoResponsavel": true,
 			"contatoVIP": true,
 			"contatoEnderecos": [
@@ -244,7 +244,7 @@
 					"contatoEnderecosLOB": "AUTO",
 					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
@@ -253,7 +253,7 @@
 					"contatoEnderecosID": 2,
 					"contatoEnderecosEndereco": "Columbia Place",
 					"contatoEnderecosNumero": 2700,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosComplemento": "Térreo",
 					"contatoEnderecosBairro": "Liliana",
 					"contatoEnderecosCEP": "88458-933",
 					"contatoEnderecosLOB": "FUNERAL",
@@ -293,7 +293,7 @@
 					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
 					"contatoEnderecosEstado": "ESTADO 3",
 					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": true
@@ -378,7 +378,7 @@
 			],
 			"contratoInicioVigencia": "2019-08-01",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
 			"contratoComentario": "Consectetur cillum culpa ut ex pariatur excepteur sunt mollit dolor. Amet Lorem deserunt tempor occaecat labore veniam mollit aliqua.",
 			"contratoInicioAtividades": "2019-08-02",
 			"contratoLOBSecundarios": [
@@ -407,7 +407,7 @@
 			],
 			"contratoInicioVigencia": "2019-09-02",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
 			"contratoComentario": "Id laborum nisi ut do dolore in labore eiusmod qui reprehenderit ut. Incididunt cillum eiusmod magna cupidatat veniam nisi elit.",
 			"contratoInicioAtividades": "2019-09-03",
 			"contratoLOBSecundarios": [
@@ -429,7 +429,7 @@
 			],
 			"contratoInicioVigencia": "2020-11-25",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
 			"contratoComentario": "Voluptate non ad laboris consequat ut quis et deserunt deserunt incididunt. Reprehenderit irure id adipisicing aliqua aute ea laboris adipisicing deserunt in.",
 			"contratoInicioAtividades": "2020-11-26",
 			"contratoLOBSecundarios": [
@@ -465,7 +465,7 @@
 			],
 			"contratoInicioVigencia": "2020-09-29",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
 			"contratoComentario": "Excepteur ad velit consequat dolor. Ex proident non sunt minim Lorem ad in enim nulla pariatur nulla reprehenderit nisi.",
 			"contratoInicioAtividades": "2020-09-30",
 			"contratoLOBSecundarios": [
