@@ -1,158 +1,212 @@
 {
 	"clienteID": 8,
-	"nomeExibicao": "Oceanica",
-	"nome": "Oceanica",
-	"cnpj": "88.347.937/0001-09",
-	"inscricaoEstadual": "83.442.33-69",
-	"razaoSocial": "Oceanica ME",
-	"website": "oceanica.com.br",
-	"mercado": "SEGURADORA",
+	"nomeExibicao": "Interloo",
+	"nome": "Interloo",
+	"cnpj": "54.034.222/0001-54",
+	"inscricaoEstadual": "99.746.42-64",
+	"razaoSocial": "Interloo ME",
+	"website": "interloo.com.br",
+	"mercado": "MONTADORA",
 	"statusCliente": "INATIVO",
-	"contaContabil": "CONTABIL B",
-	"siglaCliente": "NICA",
-	"trabalhaRegioes": true,
+	"contaContabil": "CONTABIL A",
+	"siglaCliente": "RLOO",
+	"trabalhaRegioes": false,
 	"trabalhaClausulas": true,
 	"contatos": [
 		{
-			"contatoID": 0,
-			"contatoNome": "Liz Hughes",
-			"contatoEmail": "lizhughes@oceanica.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Jur\u00eddico",
-			"contatoResponsavel": false,
-			"contatoVIP": true,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Eckford Street",
-					"contatoEnderecosNumero": 3836,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Nannie",
-					"contatoEnderecosCEP": "96853-333",
-					"contatoEnderecosLOB": "VIDA",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosEndereco": "Kenmore Terrace",
-					"contatoEnderecosNumero": 3727,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Kathie",
-					"contatoEnderecosCEP": "99649-224",
-					"contatoEnderecosLOB": "VIDA",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "98046-5233",
-					"contatoTelefonesRamal": 75
-				},
-				{
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "93551-3392",
-					"contatoTelefonesRamal": 34
-				},
-				{
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "84640-9264",
-					"contatoTelefonesRamal": 825
-				}
-			]
-		},
-		{
 			"contatoID": 1,
-			"contatoNome": "Marsh Nolan",
-			"contatoEmail": "marshnolan@oceanica.com",
+			"contatoNome": "Pacheco Cannon",
+			"contatoEmail": "pachecocannon@interloo.com",
 			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Marketing",
-			"contatoResponsavel": false,
-			"contatoVIP": true,
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
-					"contatoEnderecosEndereco": "Reed Street",
-					"contatoEnderecosNumero": 7697,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Craft",
-					"contatoEnderecosCEP": "86240-223",
-					"contatoEnderecosLOB": "VIDA",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Middagh Street",
+					"contatoEnderecosNumero": 1823,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Glass",
+					"contatoEnderecosCEP": "84645-026",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
 					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
+					"contatoEnderecosCobranca": false
 				},
 				{
-					"contatoEnderecosEndereco": "Dover Street",
-					"contatoEnderecosNumero": 7070,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Aimee",
-					"contatoEnderecosCEP": "90342-522",
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Boynton Place",
+					"contatoEnderecosNumero": 4528,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Knight",
+					"contatoEnderecosCEP": "99548-130",
 					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosEndereco": "Temple Court",
-					"contatoEnderecosNumero": 175,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Perez",
-					"contatoEnderecosCEP": "82840-322",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
 				}
 			],
 			"contatoTelefones": [
 				{
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "91147-0229",
-					"contatoTelefonesRamal": 937
-				},
-				{
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "87050-5271",
-					"contatoTelefonesRamal": 85
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "91852-7273",
+					"contatoTelefonesRamal": 371
 				}
 			]
 		},
 		{
 			"contatoID": 2,
-			"contatoNome": "Hobbs Moody",
-			"contatoEmail": "hobbsmoody@oceanica.com",
+			"contatoNome": "Inez Harper",
+			"contatoEmail": "inezharper@interloo.com",
 			"contatoCargo": "Assistente",
 			"contatoDepartmento": "Vendas",
 			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Village Road",
+					"contatoEnderecosNumero": 8991,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Fitzpatrick",
+					"contatoEnderecosCEP": "99142-328",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "National Drive",
+					"contatoEnderecosNumero": 8321,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Warren",
+					"contatoEnderecosCEP": "86351-227",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "88043-9343",
+					"contatoTelefonesRamal": 127
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "89149-1372",
+					"contatoTelefonesRamal": 938
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Willa Leonard",
+			"contatoEmail": "willaleonard@interloo.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
 			"contatoVIP": true,
 			"contatoEnderecos": [
 				{
-					"contatoEnderecosEndereco": "Herzl Street",
-					"contatoEnderecosNumero": 2059,
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Lafayette Avenue",
+					"contatoEnderecosNumero": 4198,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Karen",
+					"contatoEnderecosCEP": "91158-837",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "97356-1216",
+					"contatoTelefonesRamal": 455
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "93449-4215",
+					"contatoTelefonesRamal": 260
+				}
+			]
+		},
+		{
+			"contatoID": 4,
+			"contatoNome": "Johnnie Fernandez",
+			"contatoEmail": "johnniefernandez@interloo.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Ludlam Place",
+					"contatoEnderecosNumero": 4874,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Esmeralda",
-					"contatoEnderecosCEP": "83740-822",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosBairro": "Becker",
+					"contatoEnderecosCEP": "87744-638",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Gerry Street",
+					"contatoEnderecosNumero": 9194,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Verna",
+					"contatoEnderecosCEP": "98648-923",
+					"contatoEnderecosLOB": "FUNERAL",
 					"contatoEnderecosEstado": "ESTADO 3",
 					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Blake Avenue",
+					"contatoEnderecosNumero": 4642,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Mamie",
+					"contatoEnderecosCEP": "83048-437",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": true
@@ -160,26 +214,192 @@
 			],
 			"contatoTelefones": [
 				{
+					"contatoTelefonesID": 1,
 					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "92448-4334",
-					"contatoTelefonesRamal": 471
+					"contatoTelefonesTelefone": "87554-9210",
+					"contatoTelefonesRamal": 791
+				}
+			]
+		},
+		{
+			"contatoID": 5,
+			"contatoNome": "Scott Horton",
+			"contatoEmail": "scotthorton@interloo.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Keen Court",
+					"contatoEnderecosNumero": 4586,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Dena",
+					"contatoEnderecosCEP": "91358-136",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "95556-0328",
+					"contatoTelefonesRamal": 263
 				},
 				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "81741-7374",
+					"contatoTelefonesRamal": 371
+				},
+				{
+					"contatoTelefonesID": 3,
 					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "88341-8293",
-					"contatoTelefonesRamal": 324
+					"contatoTelefonesTelefone": "91747-9330",
+					"contatoTelefonesRamal": 195
 				}
 			]
 		}
 	],
 	"regioes": [
 		{
-			"regioesCodigo": "tempor",
-			"regioesDescricao": "Nulla reprehenderit veniam laboris cillum fugiat aliquip velit pariatur aliqua dolore."
+			"regioesID": 1,
+			"regioesCodigo": "in",
+			"regioesDescricao": "Qui elit proident velit culpa ullamco."
 		},
 		{
-			"regioesCodigo": "nisi",
-			"regioesDescricao": "Cupidatat sint et esse aute officia qui labore pariatur veniam consectetur ullamco minim ullamco."
+			"regioesID": 2,
+			"regioesCodigo": "consequat",
+			"regioesDescricao": "Quis proident voluptate anim cupidatat exercitation elit qui commodo."
+		},
+		{
+			"regioesID": 3,
+			"regioesCodigo": "adipisicing",
+			"regioesDescricao": "Amet excepteur ad ea et culpa ea sint."
+		}
+	],
+	"arquivos": [
+		{
+			"arquivosID": 1,
+			"arquivosPath": "/userfiles/nulla.pdf",
+			"arquivosDescricao": "Sint aute deserunt ex consectetur sit incididunt ullamco proident exercitation reprehenderit ullamco excepteur exercitation ut.",
+			"arquivosDataCriacao": "2022-05-16 20:06:49"
+		},
+		{
+			"arquivosID": 2,
+			"arquivosPath": "/userfiles/commodo.docx",
+			"arquivosDescricao": "Enim nulla commodo et adipisicing nisi tempor pariatur Lorem magna occaecat voluptate dolore quis non.",
+			"arquivosDataCriacao": "2022-07-23 00:50:22"
+		}
+	],
+	"contratos": [
+		{
+			"contratosID": 1,
+			"contratosNome": "veniam laborum",
+			"contratoLOBPrincipal": [
+				"FU",
+				"FUNERAL"
+			],
+			"contratoInicioVigencia": "2022-11-27",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Laborum in ut dolor eu. Occaecat eu Lorem sint quis irure ullamco deserunt sunt aliquip.",
+			"contratoInicioAtividades": "2022-11-28",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 2,
+			"contratosNome": "magna commodo",
+			"contratoLOBPrincipal": [
+				"RA",
+				"RAMOS ELEMENTARES"
+			],
+			"contratoInicioVigencia": "2022-07-07",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Occaecat elit qui ex aliqua. Lorem quis quis minim aliqua.",
+			"contratoInicioAtividades": "2022-07-08",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 3,
+			"contratosNome": "incididunt et",
+			"contratoLOBPrincipal": [
+				"AU",
+				"AUTO"
+			],
+			"contratoInicioVigencia": "2020-04-09",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Commodo voluptate occaecat dolore adipisicing consequat pariatur adipisicing excepteur cupidatat do cupidatat qui. Veniam occaecat elit eu laboris nulla ex ex do occaecat exercitation pariatur cupidatat occaecat.",
+			"contratoInicioAtividades": "2020-04-10",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				}
+			]
 		}
 	]
 }

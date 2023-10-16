@@ -1,0 +1,190 @@
+{
+	"clienteID": 28,
+	"nomeExibicao": "Isoswitch",
+	"nome": "Isoswitch",
+	"cnpj": "41.319.761/0001-98",
+	"inscricaoEstadual": "84.148.62-00",
+	"razaoSocial": "Isoswitch S/A",
+	"website": "isoswitch.com.br",
+	"mercado": "SEGURADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "WITCH",
+	"trabalhaRegioes": true,
+	"trabalhaClausulas": false,
+	"contatos": [
+		{
+			"contatoID": 1,
+			"contatoNome": "Young Ward",
+			"contatoEmail": "youngward@isoswitch.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Oakland Place",
+					"contatoEnderecosNumero": 3821,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Clark",
+					"contatoEnderecosCEP": "94049-820",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "96655-7256",
+					"contatoTelefonesRamal": 800
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "82143-9363",
+					"contatoTelefonesRamal": 531
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "89956-8282",
+					"contatoTelefonesRamal": 289
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesID": 1,
+			"regioesCodigo": "qui",
+			"regioesDescricao": "Aute cillum sunt incididunt velit."
+		},
+		{
+			"regioesID": 2,
+			"regioesCodigo": "eiusmod",
+			"regioesDescricao": "Mollit reprehenderit et id enim."
+		}
+	],
+	"arquivos": [
+		{
+			"arquivosID": 1,
+			"arquivosPath": "/userfiles/nisi.docx",
+			"arquivosDescricao": "Lorem cillum qui ut voluptate.",
+			"arquivosDataCriacao": "2022-06-16 00:56:51"
+		},
+		{
+			"arquivosID": 2,
+			"arquivosPath": "/userfiles/sit.docx",
+			"arquivosDescricao": "Esse occaecat labore est reprehenderit.",
+			"arquivosDataCriacao": "2022-05-14 01:40:37"
+		},
+		{
+			"arquivosID": 3,
+			"arquivosPath": "/userfiles/pariatur.pdf",
+			"arquivosDescricao": "Officia ullamco in nostrud eu id sint fugiat commodo laboris ad aliqua.",
+			"arquivosDataCriacao": "2022-12-28 04:55:51"
+		},
+		{
+			"arquivosID": 4,
+			"arquivosPath": "/userfiles/ut.xlsx",
+			"arquivosDescricao": "Amet minim anim magna dolore eiusmod in laborum quis elit quis enim dolore.",
+			"arquivosDataCriacao": "2022-01-24 08:48:10"
+		}
+	],
+	"contratos": [
+		{
+			"contratosID": 1,
+			"contratosNome": "enim consequat",
+			"contratoLOBPrincipal": [
+				"AU",
+				"AUTO"
+			],
+			"contratoInicioVigencia": "2020-05-17",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Nisi nostrud anim labore pariatur excepteur irure excepteur cupidatat. Esse id adipisicing sunt dolor minim quis Lorem consectetur adipisicing voluptate.",
+			"contratoInicioAtividades": "2020-05-18",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 2,
+			"contratosNome": "est eiusmod",
+			"contratoLOBPrincipal": [
+				"VI",
+				"VIAGEM"
+			],
+			"contratoInicioVigencia": "2021-12-25",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Laboris cupidatat eiusmod et officia cupidatat. Adipisicing veniam magna consequat esse.",
+			"contratoInicioAtividades": "2021-12-26",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 3,
+			"contratosNome": "amet esse",
+			"contratoLOBPrincipal": [
+				"VI",
+				"VIAGEM"
+			],
+			"contratoInicioVigencia": "2022-10-16",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Ipsum exercitation do proident veniam commodo et. Dolore tempor Lorem aute mollit magna sint elit in consequat in aliquip irure aliqua.",
+			"contratoInicioAtividades": "2022-10-17",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				}
+			]
+		}
+	]
+}

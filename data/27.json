@@ -1,0 +1,565 @@
+{
+	"clienteID": 27,
+	"nomeExibicao": "Waterbaby",
+	"nome": "Waterbaby",
+	"cnpj": "54.573.737/0001-22",
+	"inscricaoEstadual": "94.542.83-33",
+	"razaoSocial": "Waterbaby S/A",
+	"website": "waterbaby.com.br",
+	"mercado": "MONTADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "RBABY",
+	"trabalhaRegioes": false,
+	"trabalhaClausulas": false,
+	"contatos": [
+		{
+			"contatoID": 1,
+			"contatoNome": "Theresa Chan",
+			"contatoEmail": "theresachan@waterbaby.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Woodbine Street",
+					"contatoEnderecosNumero": 1519,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Angeline",
+					"contatoEnderecosCEP": "92458-728",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Cobek Court",
+					"contatoEnderecosNumero": 538,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Janelle",
+					"contatoEnderecosCEP": "87940-928",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Montague Terrace",
+					"contatoEnderecosNumero": 972,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Blair",
+					"contatoEnderecosCEP": "92450-126",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "84641-0327",
+					"contatoTelefonesRamal": 479
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "86749-2229",
+					"contatoTelefonesRamal": 194
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "90860-0356",
+					"contatoTelefonesRamal": 136
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Ella Hoffman",
+			"contatoEmail": "ellahoffman@waterbaby.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Erskine Loop",
+					"contatoEnderecosNumero": 4827,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Susan",
+					"contatoEnderecosCEP": "90260-034",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Flatbush Avenue",
+					"contatoEnderecosNumero": 2507,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Mable",
+					"contatoEnderecosCEP": "92944-732",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Prospect Place",
+					"contatoEnderecosNumero": 3218,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Byrd",
+					"contatoEnderecosCEP": "85353-938",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "86045-1270",
+					"contatoTelefonesRamal": 729
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Rios Lynch",
+			"contatoEmail": "rioslynch@waterbaby.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Billings Place",
+					"contatoEnderecosNumero": 7413,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Deana",
+					"contatoEnderecosCEP": "84049-526",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Bennet Court",
+					"contatoEnderecosNumero": 4158,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Stanton",
+					"contatoEnderecosCEP": "89244-932",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Hopkins Street",
+					"contatoEnderecosNumero": 1569,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Gonzales",
+					"contatoEnderecosCEP": "85850-329",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "94859-8264",
+					"contatoTelefonesRamal": 534
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "99141-9354",
+					"contatoTelefonesRamal": 23
+				}
+			]
+		},
+		{
+			"contatoID": 4,
+			"contatoNome": "Ada Hewitt",
+			"contatoEmail": "adahewitt@waterbaby.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Vandalia Avenue",
+					"contatoEnderecosNumero": 5038,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Yesenia",
+					"contatoEnderecosCEP": "90040-931",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "90651-0328",
+					"contatoTelefonesRamal": 553
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "88948-2323",
+					"contatoTelefonesRamal": 559
+				}
+			]
+		},
+		{
+			"contatoID": 5,
+			"contatoNome": "French Gilliam",
+			"contatoEmail": "frenchgilliam@waterbaby.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Irving Street",
+					"contatoEnderecosNumero": 3057,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Frieda",
+					"contatoEnderecosCEP": "90647-439",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Norman Avenue",
+					"contatoEnderecosNumero": 9092,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Jeannie",
+					"contatoEnderecosCEP": "80640-134",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "85240-3368",
+					"contatoTelefonesRamal": 738
+				}
+			]
+		},
+		{
+			"contatoID": 6,
+			"contatoNome": "Beverley Kane",
+			"contatoEmail": "beverleykane@waterbaby.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Schenck Court",
+					"contatoEnderecosNumero": 7411,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Alisha",
+					"contatoEnderecosCEP": "91758-238",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Stuart Street",
+					"contatoEnderecosNumero": 6106,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Jolene",
+					"contatoEnderecosCEP": "84245-028",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Lester Court",
+					"contatoEnderecosNumero": 3546,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Key",
+					"contatoEnderecosCEP": "84354-934",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "89440-2271",
+					"contatoTelefonesRamal": 765
+				}
+			]
+		},
+		{
+			"contatoID": 7,
+			"contatoNome": "Gates Ballard",
+			"contatoEmail": "gatesballard@waterbaby.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Buffalo Avenue",
+					"contatoEnderecosNumero": 2899,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Paul",
+					"contatoEnderecosCEP": "99646-433",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Gem Street",
+					"contatoEnderecosNumero": 2919,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Greta",
+					"contatoEnderecosCEP": "95445-628",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Driggs Avenue",
+					"contatoEnderecosNumero": 8924,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Wilma",
+					"contatoEnderecosCEP": "93140-220",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "80659-5342",
+					"contatoTelefonesRamal": 569
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "87040-7268",
+					"contatoTelefonesRamal": 424
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "89349-3229",
+					"contatoTelefonesRamal": 977
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesID": 1,
+			"regioesCodigo": "amet",
+			"regioesDescricao": "Adipisicing nisi cupidatat fugiat culpa aliqua amet."
+		}
+	],
+	"arquivos": [
+		{
+			"arquivosID": 1,
+			"arquivosPath": "/userfiles/enim.xlsx",
+			"arquivosDescricao": "Sunt minim ipsum dolor tempor culpa aliqua.",
+			"arquivosDataCriacao": "2022-10-10 04:27:41"
+		},
+		{
+			"arquivosID": 2,
+			"arquivosPath": "/userfiles/cupidatat.xlsx",
+			"arquivosDescricao": "Tempor labore id labore consequat.",
+			"arquivosDataCriacao": "2022-11-08 04:06:17"
+		},
+		{
+			"arquivosID": 3,
+			"arquivosPath": "/userfiles/consectetur.pdf",
+			"arquivosDescricao": "Fugiat veniam eu sunt non laboris dolor commodo nostrud nisi ut est.",
+			"arquivosDataCriacao": "2022-04-15 09:57:37"
+		}
+	],
+	"contratos": [
+		{
+			"contratosID": 1,
+			"contratosNome": "ut sint",
+			"contratoLOBPrincipal": [
+				"VI",
+				"VIAGEM"
+			],
+			"contratoInicioVigencia": "2022-06-07",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Ad excepteur sit officia duis nulla consectetur. Sit reprehenderit laborum mollit sint voluptate laborum reprehenderit irure ad.",
+			"contratoInicioAtividades": "2022-06-08",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 2,
+			"contratosNome": "id eiusmod",
+			"contratoLOBPrincipal": [
+				"VI",
+				"VIAGEM"
+			],
+			"contratoInicioVigencia": "2020-08-23",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Pariatur cillum commodo velit et culpa ad nostrud anim eiusmod anim voluptate. Deserunt elit duis ullamco id do incididunt officia sit amet cillum.",
+			"contratoInicioAtividades": "2020-08-24",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 3,
+			"contratosNome": "veniam id",
+			"contratoLOBPrincipal": [
+				"AU",
+				"AUTO"
+			],
+			"contratoInicioVigencia": "2021-02-12",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Ipsum ullamco ullamco id deserunt anim laboris velit elit ad proident. Laborum laborum nostrud in cupidatat occaecat sint fugiat excepteur.",
+			"contratoInicioAtividades": "2021-02-13",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				}
+			]
+		}
+	]
+}

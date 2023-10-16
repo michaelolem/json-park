@@ -1,73 +1,114 @@
 {
 	"clienteID": 16,
-	"nomeExibicao": "Furnitech",
-	"nome": "Furnitech",
-	"cnpj": "93.848.236/0001-28",
-	"inscricaoEstadual": "93.448.52-03",
-	"razaoSocial": "Furnitech ME",
-	"website": "furnitech.com",
-	"mercado": "MONTADORA",
+	"nomeExibicao": "Suremax",
+	"nome": "Suremax",
+	"cnpj": "51.784.281/0001-51",
+	"inscricaoEstadual": "87.852.82-80",
+	"razaoSocial": "Suremax ME",
+	"website": "suremax.com",
+	"mercado": "SEGURADORA",
 	"statusCliente": "ATIVO",
-	"contaContabil": "CONTABIL A",
-	"siglaCliente": "ITECH",
-	"trabalhaRegioes": false,
-	"trabalhaClausulas": true,
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "MAX",
+	"trabalhaRegioes": true,
+	"trabalhaClausulas": false,
 	"contatos": [
 		{
-			"contatoID": 0,
-			"contatoNome": "Rosanne Dickson",
-			"contatoEmail": "rosannedickson@furnitech.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Jur\u00eddico",
+			"contatoID": 1,
+			"contatoNome": "Mercer Levy",
+			"contatoEmail": "mercerlevy@suremax.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
 			"contatoResponsavel": false,
-			"contatoVIP": false,
+			"contatoVIP": true,
 			"contatoEnderecos": [
 				{
-					"contatoEnderecosEndereco": "Little Street",
-					"contatoEnderecosNumero": 3235,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Wallace",
-					"contatoEnderecosCEP": "83645-528",
-					"contatoEnderecosLOB": "VIDA",
-					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Dodworth Street",
+					"contatoEnderecosNumero": 5744,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Liliana",
+					"contatoEnderecosCEP": "95843-530",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 3",
 					"contatoEnderecosCidade": "CIDADE 1",
 					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": true
-				},
-				{
-					"contatoEnderecosEndereco": "Montieth Street",
-					"contatoEnderecosNumero": 9413,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Therese",
-					"contatoEnderecosCEP": "86155-827",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
+					"contatoEnderecosCobranca": false
 				}
 			],
 			"contatoTelefones": [
 				{
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "80845-5334",
-					"contatoTelefonesRamal": 882
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "80950-2305",
+					"contatoTelefonesRamal": 570
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "90458-0367",
+					"contatoTelefonesRamal": 358
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "82051-9305",
+					"contatoTelefonesRamal": 612
 				}
 			]
 		}
 	],
 	"regioes": [
 		{
-			"regioesCodigo": "excepteur",
-			"regioesDescricao": "Id amet amet aliqua deserunt magna enim enim aliquip labore adipisicing anim sit amet in."
+			"regioesID": 1,
+			"regioesCodigo": "exercitation",
+			"regioesDescricao": "Velit aute in ullamco non esse et ut eiusmod."
+		}
+	],
+	"arquivos": [
+		{
+			"arquivosID": 1,
+			"arquivosPath": "/userfiles/est.xlsx",
+			"arquivosDescricao": "Do nulla commodo voluptate sunt sunt enim consequat mollit nisi.",
+			"arquivosDataCriacao": "2022-08-16 23:03:56"
 		},
 		{
-			"regioesCodigo": "consequat",
-			"regioesDescricao": "Labore cupidatat ex nulla nisi sunt consectetur dolor occaecat tempor cillum qui ut."
+			"arquivosID": 2,
+			"arquivosPath": "/userfiles/sint.xlsx",
+			"arquivosDescricao": "Commodo nulla dolore excepteur nisi adipisicing tempor reprehenderit excepteur.",
+			"arquivosDataCriacao": "2022-10-27 02:29:47"
+		},
+		{
+			"arquivosID": 3,
+			"arquivosPath": "/userfiles/esse.docx",
+			"arquivosDescricao": "Duis aliquip aliqua voluptate duis exercitation.",
+			"arquivosDataCriacao": "2022-06-06 06:08:56"
+		}
+	],
+	"contratos": [
+		{
+			"contratosID": 1,
+			"contratosNome": "ut sit",
+			"contratoLOBPrincipal": [
+				"AU",
+				"AUTO"
+			],
+			"contratoInicioVigencia": "2020-12-27",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Culpa aliquip qui sit elit magna laboris ut aliqua magna eu. Aliquip nisi ipsum velit velit sunt ipsum do aliqua.",
+			"contratoInicioAtividades": "2020-12-28",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				}
+			]
 		}
 	]
 }

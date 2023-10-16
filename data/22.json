@@ -1,0 +1,210 @@
+{
+	"clienteID": 22,
+	"nomeExibicao": "Bluegrain",
+	"nome": "Bluegrain",
+	"cnpj": "76.865.430/0001-38",
+	"inscricaoEstadual": "81.853.72-06",
+	"razaoSocial": "Bluegrain ME",
+	"website": "bluegrain.com",
+	"mercado": "MONTADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "GRAIN",
+	"trabalhaRegioes": true,
+	"trabalhaClausulas": false,
+	"contatos": [
+		{
+			"contatoID": 1,
+			"contatoNome": "Sandy Reilly",
+			"contatoEmail": "sandyreilly@bluegrain.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Ross Street",
+					"contatoEnderecosNumero": 4668,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Tricia",
+					"contatoEnderecosCEP": "86651-332",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "97141-2311",
+					"contatoTelefonesRamal": 939
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Jessica Roman",
+			"contatoEmail": "jessicaroman@bluegrain.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Ashland Place",
+					"contatoEnderecosNumero": 985,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Greene",
+					"contatoEnderecosCEP": "91456-824",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Post Court",
+					"contatoEnderecosNumero": 4155,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Lynch",
+					"contatoEnderecosCEP": "85754-637",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Bushwick Place",
+					"contatoEnderecosNumero": 5174,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Genevieve",
+					"contatoEnderecosCEP": "99450-825",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "95253-8212",
+					"contatoTelefonesRamal": 173
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesID": 1,
+			"regioesCodigo": "ad",
+			"regioesDescricao": "Cillum dolor ea occaecat duis nisi tempor ipsum velit magna amet sint tempor incididunt consectetur."
+		}
+	],
+	"arquivos": [
+		{
+			"arquivosID": 1,
+			"arquivosPath": "/userfiles/cillum.pdf",
+			"arquivosDescricao": "Qui nulla do mollit magna labore do culpa.",
+			"arquivosDataCriacao": "2022-09-23 09:58:08"
+		},
+		{
+			"arquivosID": 2,
+			"arquivosPath": "/userfiles/dolore.xlsx",
+			"arquivosDescricao": "Sint quis tempor mollit laborum sunt laboris deserunt magna esse.",
+			"arquivosDataCriacao": "2022-08-02 11:01:59"
+		}
+	],
+	"contratos": [
+		{
+			"contratosID": 1,
+			"contratosNome": "nostrud est",
+			"contratoLOBPrincipal": [
+				"FU",
+				"FUNERAL"
+			],
+			"contratoInicioVigencia": "2020-01-13",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Sit tempor culpa minim duis adipisicing mollit minim aliqua amet. Tempor ipsum enim incididunt deserunt sint qui deserunt dolore nulla exercitation.",
+			"contratoInicioAtividades": "2020-01-14",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 2,
+			"contratosNome": "elit reprehenderit",
+			"contratoLOBPrincipal": [
+				"VI",
+				"VIAGEM"
+			],
+			"contratoInicioVigencia": "2022-07-15",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Id consectetur consequat enim est eiusmod enim minim veniam laboris aute amet. Ut irure et officia eiusmod est id laboris reprehenderit ullamco nulla qui amet ullamco dolor.",
+			"contratoInicioAtividades": "2022-07-16",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				}
+			]
+		}
+	]
+}

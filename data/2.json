@@ -1,283 +1,110 @@
 {
 	"clienteID": 2,
-	"nomeExibicao": "Uncorp",
-	"nome": "Uncorp",
-	"cnpj": "80.448.538/0001-39",
-	"inscricaoEstadual": "93.545.13-60",
-	"razaoSocial": "Uncorp S/A",
-	"website": "uncorp.com.br",
+	"nomeExibicao": "Cubix",
+	"nome": "Cubix",
+	"cnpj": "32.848.810/0001-99",
+	"inscricaoEstadual": "87.949.42-99",
+	"razaoSocial": "Cubix LTDA.",
+	"website": "cubix.com.br",
 	"mercado": "SEGURADORA",
 	"statusCliente": "INATIVO",
-	"contaContabil": "CONTABIL A",
-	"siglaCliente": "RP",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "X",
 	"trabalhaRegioes": true,
 	"trabalhaClausulas": true,
 	"contatos": [
 		{
-			"contatoID": 0,
-			"contatoNome": "Irene Miranda",
-			"contatoEmail": "irenemiranda@uncorp.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": true,
-			"contatoVIP": true,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Foster Avenue",
-					"contatoEnderecosNumero": 566,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Fisher",
-					"contatoEnderecosCEP": "80742-727",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
-				},
-				{
-					"contatoEnderecosEndereco": "Bank Street",
-					"contatoEnderecosNumero": 8799,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Blevins",
-					"contatoEnderecosCEP": "99545-723",
-					"contatoEnderecosLOB": "VIDA",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosEndereco": "Pulaski Street",
-					"contatoEnderecosNumero": 8625,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Wheeler",
-					"contatoEnderecosCEP": "89343-924",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "81956-1389",
-					"contatoTelefonesRamal": 551
-				},
-				{
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "94353-5388",
-					"contatoTelefonesRamal": 654
-				},
-				{
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "90757-6214",
-					"contatoTelefonesRamal": 905
-				}
-			]
-		},
-		{
 			"contatoID": 1,
-			"contatoNome": "Greta Solis",
-			"contatoEmail": "gretasolis@uncorp.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": true,
-			"contatoVIP": false,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Hastings Street",
-					"contatoEnderecosNumero": 1952,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Cathy",
-					"contatoEnderecosCEP": "93344-424",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosEndereco": "Truxton Street",
-					"contatoEnderecosNumero": 6349,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Maryann",
-					"contatoEnderecosCEP": "81754-637",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosEndereco": "Turnbull Avenue",
-					"contatoEnderecosNumero": 8865,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Cross",
-					"contatoEnderecosCEP": "97740-430",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "90156-0353",
-					"contatoTelefonesRamal": 946
-				},
-				{
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "86450-4267",
-					"contatoTelefonesRamal": 409
-				}
-			]
-		},
-		{
-			"contatoID": 2,
-			"contatoNome": "Wilkinson Charles",
-			"contatoEmail": "wilkinsoncharles@uncorp.com",
-			"contatoCargo": "Assistente",
+			"contatoNome": "Lea Kline",
+			"contatoEmail": "leakline@cubix.com",
+			"contatoCargo": "Gerente",
 			"contatoDepartmento": "Financeiro",
-			"contatoResponsavel": true,
+			"contatoResponsavel": false,
 			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
-					"contatoEnderecosEndereco": "Winthrop Street",
-					"contatoEnderecosNumero": 1275,
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Bethel Loop",
+					"contatoEnderecosNumero": 5001,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Baker",
-					"contatoEnderecosCEP": "90143-920",
-					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosBairro": "Bette",
+					"contatoEnderecosCEP": "98345-435",
+					"contatoEnderecosLOB": "VIAGEM",
 					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosCidade": "CIDADE 3",
 					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": true
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "80241-2252",
-					"contatoTelefonesRamal": 983
-				},
-				{
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "90348-4239",
-					"contatoTelefonesRamal": 398
-				},
-				{
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "98857-4347",
-					"contatoTelefonesRamal": 524
-				}
-			]
-		},
-		{
-			"contatoID": 3,
-			"contatoNome": "Robert Padilla",
-			"contatoEmail": "robertpadilla@uncorp.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": true,
-			"contatoVIP": true,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Exeter Street",
-					"contatoEnderecosNumero": 2865,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Laurie",
-					"contatoEnderecosCEP": "98754-936",
-					"contatoEnderecosLOB": "VIDA",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
 				}
 			],
 			"contatoTelefones": [
 				{
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "82750-4352",
-					"contatoTelefonesRamal": 909
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "96943-0286",
+					"contatoTelefonesRamal": 469
 				},
 				{
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "83841-0302",
-					"contatoTelefonesRamal": 660
-				}
-			]
-		},
-		{
-			"contatoID": 4,
-			"contatoNome": "Celeste Knowles",
-			"contatoEmail": "celesteknowles@uncorp.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Marketing",
-			"contatoResponsavel": true,
-			"contatoVIP": true,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Stockholm Street",
-					"contatoEnderecosNumero": 1597,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Carpenter",
-					"contatoEnderecosCEP": "87356-236",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": true
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "87446-0370",
-					"contatoTelefonesRamal": 178
-				},
-				{
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "80758-5205",
-					"contatoTelefonesRamal": 317
-				},
-				{
-					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "87757-6241",
-					"contatoTelefonesRamal": 582
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "96247-2311",
+					"contatoTelefonesRamal": 47
 				}
 			]
 		}
 	],
 	"regioes": [
 		{
-			"regioesCodigo": "do",
-			"regioesDescricao": "Eiusmod in veniam cupidatat reprehenderit velit qui qui sunt culpa."
-		},
+			"regioesID": 1,
+			"regioesCodigo": "elit",
+			"regioesDescricao": "Esse ullamco tempor magna eu Lorem occaecat."
+		}
+	],
+	"arquivos": [
 		{
-			"regioesCodigo": "dolor",
-			"regioesDescricao": "Tempor enim sit excepteur elit ea labore pariatur cillum mollit qui ex nisi Lorem."
+			"arquivosID": 1,
+			"arquivosPath": "/userfiles/aliqua.xlsx",
+			"arquivosDescricao": "Consectetur laborum eiusmod non cupidatat.",
+			"arquivosDataCriacao": "2022-12-26 21:22:02"
+		}
+	],
+	"contratos": [
+		{
+			"contratosID": 1,
+			"contratosNome": "nulla anim",
+			"contratoLOBPrincipal": [
+				"RA",
+				"RAMOS ELEMENTARES"
+			],
+			"contratoInicioVigencia": "2022-10-23",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Nostrud aliquip velit dolore minim occaecat sit excepteur pariatur ut dolor. Tempor aliquip mollit aute aliquip reprehenderit aute ullamco quis.",
+			"contratoInicioAtividades": "2022-10-24",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				}
+			]
 		}
 	]
 }

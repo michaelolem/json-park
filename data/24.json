@@ -1,0 +1,221 @@
+{
+	"clienteID": 24,
+	"nomeExibicao": "Xumonk",
+	"nome": "Xumonk",
+	"cnpj": "18.131.818/0001-09",
+	"inscricaoEstadual": "89.154.62-83",
+	"razaoSocial": "Xumonk LTDA.",
+	"website": "xumonk.com",
+	"mercado": "SEGURADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL A",
+	"siglaCliente": "NK",
+	"trabalhaRegioes": false,
+	"trabalhaClausulas": false,
+	"contatos": [
+		{
+			"contatoID": 1,
+			"contatoNome": "Lauren Little",
+			"contatoEmail": "laurenlittle@xumonk.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Harbor Court",
+					"contatoEnderecosNumero": 2908,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Lidia",
+					"contatoEnderecosCEP": "86658-325",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Benson Avenue",
+					"contatoEnderecosNumero": 7223,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Tonya",
+					"contatoEnderecosCEP": "80856-320",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Ainslie Street",
+					"contatoEnderecosNumero": 5860,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Reynolds",
+					"contatoEnderecosCEP": "89841-927",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "91249-3337",
+					"contatoTelefonesRamal": 780
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Lorrie Henry",
+			"contatoEmail": "lorriehenry@xumonk.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Remsen Street",
+					"contatoEnderecosNumero": 1081,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Roberson",
+					"contatoEnderecosCEP": "92848-723",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "93048-2203",
+					"contatoTelefonesRamal": 25
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "94856-4236",
+					"contatoTelefonesRamal": 634
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "98140-2282",
+					"contatoTelefonesRamal": 428
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Hooper Carroll",
+			"contatoEmail": "hoopercarroll@xumonk.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Meeker Avenue",
+					"contatoEnderecosNumero": 2122,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Jeri",
+					"contatoEnderecosCEP": "98444-731",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Woodhull Street",
+					"contatoEnderecosNumero": 1920,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Morrow",
+					"contatoEnderecosCEP": "86055-325",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "88650-1299",
+					"contatoTelefonesRamal": 458
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesID": 1,
+			"regioesCodigo": "elit",
+			"regioesDescricao": "Ipsum magna consequat mollit veniam exercitation reprehenderit laborum occaecat ipsum nisi veniam ullamco ad."
+		}
+	],
+	"arquivos": [
+		{
+			"arquivosID": 1,
+			"arquivosPath": "/userfiles/consequat.xlsx",
+			"arquivosDescricao": "Nisi fugiat veniam fugiat duis ullamco officia ipsum eiusmod et.",
+			"arquivosDataCriacao": "2022-09-26 06:04:20"
+		},
+		{
+			"arquivosID": 2,
+			"arquivosPath": "/userfiles/duis.xlsx",
+			"arquivosDescricao": "Aute consectetur laborum velit ad in culpa cillum occaecat.",
+			"arquivosDataCriacao": "2022-04-05 08:42:55"
+		}
+	],
+	"contratos": [
+		{
+			"contratosID": 1,
+			"contratosNome": "incididunt est",
+			"contratoLOBPrincipal": [
+				"RA",
+				"RAMOS ELEMENTARES"
+			],
+			"contratoInicioVigencia": "2021-09-06",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Exercitation et consectetur aliquip est laboris sint cupidatat fugiat. Elit laboris ipsum duis sunt ea voluptate consectetur excepteur ex laboris in deserunt anim ullamco.",
+			"contratoInicioAtividades": "2021-09-07",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				}
+			]
+		}
+	]
+}

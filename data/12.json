@@ -1,64 +1,37 @@
 {
 	"clienteID": 12,
-	"nomeExibicao": "Realysis",
-	"nome": "Realysis",
-	"cnpj": "80.845.224/0001-18",
-	"inscricaoEstadual": "90.055.02-26",
-	"razaoSocial": "Realysis LTDA.",
-	"website": "realysis.com",
+	"nomeExibicao": "Arctiq",
+	"nome": "Arctiq",
+	"cnpj": "06.475.198/0001-46",
+	"inscricaoEstadual": "92.350.23-64",
+	"razaoSocial": "Arctiq LTDA.",
+	"website": "arctiq.com",
 	"mercado": "MONTADORA",
 	"statusCliente": "ATIVO",
 	"contaContabil": "CONTABIL B",
-	"siglaCliente": "YSIS",
+	"siglaCliente": "IQ",
 	"trabalhaRegioes": false,
-	"trabalhaClausulas": true,
+	"trabalhaClausulas": false,
 	"contatos": [
 		{
-			"contatoID": 0,
-			"contatoNome": "Bailey Santana",
-			"contatoEmail": "baileysantana@realysis.com",
-			"contatoCargo": "Assistente",
+			"contatoID": 1,
+			"contatoNome": "Long Riddle",
+			"contatoEmail": "longriddle@arctiq.com",
+			"contatoCargo": "Gerente",
 			"contatoDepartmento": "Vendas",
 			"contatoResponsavel": true,
 			"contatoVIP": true,
 			"contatoEnderecos": [
 				{
-					"contatoEnderecosEndereco": "Joval Court",
-					"contatoEnderecosNumero": 7566,
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Douglass Street",
+					"contatoEnderecosNumero": 5456,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Melisa",
-					"contatoEnderecosCEP": "93446-721",
+					"contatoEnderecosBairro": "Young",
+					"contatoEnderecosCEP": "85754-523",
 					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosEndereco": "Junius Street",
-					"contatoEnderecosNumero": 4094,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Luann",
-					"contatoEnderecosCEP": "93444-635",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosEstado": "ESTADO 3",
 					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
-				},
-				{
-					"contatoEnderecosEndereco": "Kent Street",
-					"contatoEnderecosNumero": 9809,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Morton",
-					"contatoEnderecosCEP": "85549-427",
-					"contatoEnderecosLOB": "VIDA",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 2",
 					"contatoEnderecosPais": "FRAN\u00c7A",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
@@ -67,105 +40,334 @@
 			],
 			"contatoTelefones": [
 				{
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "98655-2302",
-					"contatoTelefonesRamal": 959
-				}
-			]
-		},
-		{
-			"contatoID": 1,
-			"contatoNome": "Moore Fox",
-			"contatoEmail": "moorefox@realysis.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": false,
-			"contatoVIP": true,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Lyme Avenue",
-					"contatoEnderecosNumero": 9821,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Savannah",
-					"contatoEnderecosCEP": "88858-521",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "86845-0228",
-					"contatoTelefonesRamal": 692
-				},
-				{
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "99755-7262",
-					"contatoTelefonesRamal": 146
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "96347-1346",
+					"contatoTelefonesRamal": 730
 				}
 			]
 		},
 		{
 			"contatoID": 2,
-			"contatoNome": "Rosales Paul",
-			"contatoEmail": "rosalespaul@realysis.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Financeiro",
+			"contatoNome": "Audra Alvarado",
+			"contatoEmail": "audraalvarado@arctiq.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Jur\u00eddico",
 			"contatoResponsavel": true,
-			"contatoVIP": true,
+			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
-					"contatoEnderecosEndereco": "Verona Street",
-					"contatoEnderecosNumero": 3107,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Lola",
-					"contatoEnderecosCEP": "82145-734",
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Harrison Avenue",
+					"contatoEnderecosNumero": 1484,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Marci",
+					"contatoEnderecosCEP": "81153-534",
 					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 3",
 					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": true
 				},
 				{
-					"contatoEnderecosEndereco": "Fuller Place",
-					"contatoEnderecosNumero": 602,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Debora",
-					"contatoEnderecosCEP": "96356-738",
-					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Willmohr Street",
+					"contatoEnderecosNumero": 6905,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Jo",
+					"contatoEnderecosCEP": "90955-921",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "80447-7279",
+					"contatoTelefonesRamal": 44
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Carpenter Ryan",
+			"contatoEmail": "carpenterryan@arctiq.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Dare Court",
+					"contatoEnderecosNumero": 3933,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Sharpe",
+					"contatoEnderecosCEP": "96248-038",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Burnett Street",
+					"contatoEnderecosNumero": 9937,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Ann",
+					"contatoEnderecosCEP": "89353-724",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "92440-2254",
+					"contatoTelefonesRamal": 85
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "85640-2212",
+					"contatoTelefonesRamal": 305
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "96942-6287",
+					"contatoTelefonesRamal": 771
+				}
+			]
+		},
+		{
+			"contatoID": 4,
+			"contatoNome": "Vargas Burks",
+			"contatoEmail": "vargasburks@arctiq.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Fair Street",
+					"contatoEnderecosNumero": 6469,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Murphy",
+					"contatoEnderecosCEP": "96642-830",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
 					"contatoEnderecosEstado": "ESTADO 2",
 					"contatoEnderecosCidade": "CIDADE 1",
 					"contatoEnderecosPais": "FRAN\u00c7A",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Gotham Avenue",
+					"contatoEnderecosNumero": 2641,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Evangeline",
+					"contatoEnderecosCEP": "90651-921",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
 				}
 			],
 			"contatoTelefones": [
 				{
+					"contatoTelefonesID": 1,
 					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "88950-3343",
-					"contatoTelefonesRamal": 361
+					"contatoTelefonesTelefone": "81440-4204",
+					"contatoTelefonesRamal": 756
+				}
+			]
+		},
+		{
+			"contatoID": 5,
+			"contatoNome": "Barnes Ramos",
+			"contatoEmail": "barnesramos@arctiq.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Lefferts Avenue",
+					"contatoEnderecosNumero": 2539,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Kirkland",
+					"contatoEnderecosCEP": "92954-134",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
 				},
 				{
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "87455-2228",
-					"contatoTelefonesRamal": 523
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Linden Boulevard",
+					"contatoEnderecosNumero": 7448,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Taylor",
+					"contatoEnderecosCEP": "91946-623",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Clinton Street",
+					"contatoEnderecosNumero": 2149,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Katherine",
+					"contatoEnderecosCEP": "84940-030",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "84245-7315",
+					"contatoTelefonesRamal": 195
 				}
 			]
 		}
 	],
 	"regioes": [
 		{
-			"regioesCodigo": "irure",
-			"regioesDescricao": "Culpa dolore velit sint proident."
+			"regioesID": 1,
+			"regioesCodigo": "voluptate",
+			"regioesDescricao": "Aliqua veniam duis deserunt adipisicing culpa cupidatat ipsum deserunt id irure amet officia irure."
+		}
+	],
+	"arquivos": [
+		{
+			"arquivosID": 1,
+			"arquivosPath": "/userfiles/officia.xlsx",
+			"arquivosDescricao": "Adipisicing enim do veniam irure.",
+			"arquivosDataCriacao": "2022-04-30 22:19:43"
+		},
+		{
+			"arquivosID": 2,
+			"arquivosPath": "/userfiles/sunt.pdf",
+			"arquivosDescricao": "Duis enim Lorem in Lorem id in tempor mollit commodo.",
+			"arquivosDataCriacao": "2022-02-22 13:34:10"
+		},
+		{
+			"arquivosID": 3,
+			"arquivosPath": "/userfiles/id.pdf",
+			"arquivosDescricao": "Ad do Lorem incididunt irure elit sunt aute sint.",
+			"arquivosDataCriacao": "2022-02-22 13:29:36"
+		},
+		{
+			"arquivosID": 4,
+			"arquivosPath": "/userfiles/cillum.pdf",
+			"arquivosDescricao": "Minim adipisicing pariatur est adipisicing in in non.",
+			"arquivosDataCriacao": "2022-01-19 22:05:54"
+		},
+		{
+			"arquivosID": 5,
+			"arquivosPath": "/userfiles/culpa.docx",
+			"arquivosDescricao": "Elit quis adipisicing aute fugiat eu sunt dolor excepteur consequat proident ad ea duis.",
+			"arquivosDataCriacao": "2022-09-25 02:22:26"
+		}
+	],
+	"contratos": [
+		{
+			"contratosID": 1,
+			"contratosNome": "in esse",
+			"contratoLOBPrincipal": [
+				"RA",
+				"RAMOS ELEMENTARES"
+			],
+			"contratoInicioVigencia": "2022-03-03",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Quis labore mollit sunt deserunt minim esse labore do exercitation cillum consequat. Ullamco fugiat pariatur do velit deserunt excepteur.",
+			"contratoInicioAtividades": "2022-03-04",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 2,
+			"contratosNome": "proident ut",
+			"contratoLOBPrincipal": [
+				"FU",
+				"FUNERAL"
+			],
+			"contratoInicioVigencia": "2019-04-22",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Sit do minim sit pariatur cillum proident Lorem veniam. Pariatur nulla ipsum consectetur tempor mollit dolore cillum consectetur.",
+			"contratoInicioAtividades": "2019-04-23",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				}
+			]
 		}
 	]
 }

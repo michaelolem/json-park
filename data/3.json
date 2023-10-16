@@ -1,250 +1,37 @@
 {
 	"clienteID": 3,
-	"nomeExibicao": "Mondicil",
-	"nome": "Mondicil",
-	"cnpj": "89.757.126/0001-37",
-	"inscricaoEstadual": "83.854.32-26",
-	"razaoSocial": "Mondicil ME",
-	"website": "mondicil.com.br",
-	"mercado": "SEGURADORA",
-	"statusCliente": "INATIVO",
+	"nomeExibicao": "Zillar",
+	"nome": "Zillar",
+	"cnpj": "91.495.126/0001-30",
+	"inscricaoEstadual": "89.543.93-01",
+	"razaoSocial": "Zillar S/A",
+	"website": "zillar.com.br",
+	"mercado": "MONTADORA",
+	"statusCliente": "ATIVO",
 	"contaContabil": "CONTABIL A",
-	"siglaCliente": "ICIL",
+	"siglaCliente": "AR",
 	"trabalhaRegioes": false,
-	"trabalhaClausulas": false,
+	"trabalhaClausulas": true,
 	"contatos": [
 		{
-			"contatoID": 0,
-			"contatoNome": "Carla Zamora",
-			"contatoEmail": "carlazamora@mondicil.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": true,
-			"contatoVIP": false,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Montgomery Street",
-					"contatoEnderecosNumero": 760,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Daisy",
-					"contatoEnderecosCEP": "99740-425",
-					"contatoEnderecosLOB": "VIDA",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosEndereco": "Lorimer Street",
-					"contatoEnderecosNumero": 9606,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Head",
-					"contatoEnderecosCEP": "91355-535",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "94040-2273",
-					"contatoTelefonesRamal": 243
-				},
-				{
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "90344-8370",
-					"contatoTelefonesRamal": 263
-				}
-			]
-		},
-		{
 			"contatoID": 1,
-			"contatoNome": "Helene Greer",
-			"contatoEmail": "helenegreer@mondicil.com",
+			"contatoNome": "Thelma Parker",
+			"contatoEmail": "thelmaparker@zillar.com",
 			"contatoCargo": "Gerente",
 			"contatoDepartmento": "Vendas",
 			"contatoResponsavel": false,
 			"contatoVIP": true,
 			"contatoEnderecos": [
 				{
-					"contatoEnderecosEndereco": "Martense Street",
-					"contatoEnderecosNumero": 8989,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Estrada",
-					"contatoEnderecosCEP": "83157-031",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": true
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "87441-5287",
-					"contatoTelefonesRamal": 557
-				},
-				{
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "82344-8360",
-					"contatoTelefonesRamal": 541
-				},
-				{
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "96946-6380",
-					"contatoTelefonesRamal": 438
-				}
-			]
-		},
-		{
-			"contatoID": 2,
-			"contatoNome": "Duffy Mack",
-			"contatoEmail": "duffymack@mondicil.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Financeiro",
-			"contatoResponsavel": true,
-			"contatoVIP": false,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Harrison Place",
-					"contatoEnderecosNumero": 3229,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Lucia",
-					"contatoEnderecosCEP": "80955-524",
-					"contatoEnderecosLOB": "VIDA",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": true
-				},
-				{
-					"contatoEnderecosEndereco": "Sullivan Street",
-					"contatoEnderecosNumero": 2161,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Lindsay",
-					"contatoEnderecosCEP": "84245-429",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosEndereco": "Chestnut Street",
-					"contatoEnderecosNumero": 4694,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Cheri",
-					"contatoEnderecosCEP": "90746-420",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "86744-3301",
-					"contatoTelefonesRamal": 44
-				},
-				{
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "91244-4200",
-					"contatoTelefonesRamal": 741
-				},
-				{
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "88147-3212",
-					"contatoTelefonesRamal": 223
-				}
-			]
-		},
-		{
-			"contatoID": 3,
-			"contatoNome": "Thornton Stephenson",
-			"contatoEmail": "thorntonstephenson@mondicil.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Financeiro",
-			"contatoResponsavel": true,
-			"contatoVIP": false,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Union Street",
-					"contatoEnderecosNumero": 2727,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Robbins",
-					"contatoEnderecosCEP": "89251-927",
-					"contatoEnderecosLOB": "VIDA",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "99048-7200",
-					"contatoTelefonesRamal": 285
-				},
-				{
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "84152-6331",
-					"contatoTelefonesRamal": 622
-				}
-			]
-		},
-		{
-			"contatoID": 4,
-			"contatoNome": "Riggs Burgess",
-			"contatoEmail": "riggsburgess@mondicil.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Jur\u00eddico",
-			"contatoResponsavel": false,
-			"contatoVIP": false,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Pitkin Avenue",
-					"contatoEnderecosNumero": 3066,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Hartman",
-					"contatoEnderecosCEP": "84140-428",
-					"contatoEnderecosLOB": "VIDA",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": true
-				},
-				{
-					"contatoEnderecosEndereco": "Stone Avenue",
-					"contatoEnderecosNumero": 7081,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Rodgers",
-					"contatoEnderecosCEP": "89655-536",
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Bragg Court",
+					"contatoEnderecosNumero": 8331,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Aguirre",
+					"contatoEnderecosCEP": "88448-824",
 					"contatoEnderecosLOB": "VIAGEM",
 					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosCidade": "CIDADE 2",
 					"contatoEnderecosPais": "FRAN\u00c7A",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
@@ -253,21 +40,242 @@
 			],
 			"contatoTelefones": [
 				{
+					"contatoTelefonesID": 1,
 					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "85151-3217",
-					"contatoTelefonesRamal": 174
+					"contatoTelefonesTelefone": "89740-5212",
+					"contatoTelefonesRamal": 796
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Lakisha Oliver",
+			"contatoEmail": "lakishaoliver@zillar.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Story Court",
+					"contatoEnderecosNumero": 5434,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Twila",
+					"contatoEnderecosCEP": "85346-635",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Montana Place",
+					"contatoEnderecosNumero": 7995,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Strong",
+					"contatoEnderecosCEP": "90453-627",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "93155-8341",
+					"contatoTelefonesRamal": 697
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "92851-5363",
+					"contatoTelefonesRamal": 895
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "90845-4303",
+					"contatoTelefonesRamal": 297
 				}
 			]
 		}
 	],
 	"regioes": [
 		{
-			"regioesCodigo": "velit",
-			"regioesDescricao": "Non ea aute qui commodo aliqua labore magna nostrud consequat proident anim dolor fugiat."
+			"regioesID": 1,
+			"regioesCodigo": "duis",
+			"regioesDescricao": "Aute do aliqua dolor sunt consequat laboris."
 		},
 		{
-			"regioesCodigo": "minim",
-			"regioesDescricao": "Consequat cupidatat sint velit et dolore excepteur do deserunt ullamco pariatur aliquip."
+			"regioesID": 2,
+			"regioesCodigo": "mollit",
+			"regioesDescricao": "Sint non cupidatat sunt adipisicing laborum."
+		},
+		{
+			"regioesID": 3,
+			"regioesCodigo": "esse",
+			"regioesDescricao": "Est tempor nisi occaecat ipsum."
+		}
+	],
+	"arquivos": [
+		{
+			"arquivosID": 1,
+			"arquivosPath": "/userfiles/commodo.pdf",
+			"arquivosDescricao": "Anim amet veniam ex voluptate do irure cillum id deserunt.",
+			"arquivosDataCriacao": "2022-11-28 00:43:33"
+		},
+		{
+			"arquivosID": 2,
+			"arquivosPath": "/userfiles/minim.pdf",
+			"arquivosDescricao": "Laboris quis cillum culpa eu est.",
+			"arquivosDataCriacao": "2022-03-16 20:30:19"
+		},
+		{
+			"arquivosID": 3,
+			"arquivosPath": "/userfiles/ullamco.pdf",
+			"arquivosDescricao": "Sit non est nisi anim consectetur nisi in ut enim consequat consequat dolor amet.",
+			"arquivosDataCriacao": "2022-02-14 12:13:18"
+		}
+	],
+	"contratos": [
+		{
+			"contratosID": 1,
+			"contratosNome": "mollit sunt",
+			"contratoLOBPrincipal": [
+				"AU",
+				"AUTO"
+			],
+			"contratoInicioVigencia": "2019-06-27",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Labore deserunt veniam Lorem est mollit aliqua in qui cillum elit reprehenderit. Labore id consectetur qui excepteur laborum cupidatat.",
+			"contratoInicioAtividades": "2019-06-28",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 2,
+			"contratosNome": "eiusmod et",
+			"contratoLOBPrincipal": [
+				"FU",
+				"FUNERAL"
+			],
+			"contratoInicioVigencia": "2022-02-24",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Officia et amet nulla nisi excepteur deserunt officia do adipisicing dolore. Aliqua exercitation aute aliqua ipsum id ea exercitation deserunt deserunt qui.",
+			"contratoInicioAtividades": "2022-02-25",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 3,
+			"contratosNome": "do nulla",
+			"contratoLOBPrincipal": [
+				"RA",
+				"RAMOS ELEMENTARES"
+			],
+			"contratoInicioVigencia": "2020-04-24",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Et quis ex id consequat labore est veniam duis eiusmod. Est adipisicing duis reprehenderit tempor consectetur quis aute occaecat ad amet.",
+			"contratoInicioAtividades": "2020-04-25",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 4,
+			"contratosNome": "mollit sint",
+			"contratoLOBPrincipal": [
+				"AU",
+				"AUTO"
+			],
+			"contratoInicioVigencia": "2019-09-07",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Sint proident enim ad nostrud qui veniam nostrud. Est laborum amet ut reprehenderit.",
+			"contratoInicioAtividades": "2019-09-08",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				}
+			]
 		}
 	]
 }

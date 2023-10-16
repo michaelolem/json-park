@@ -1,165 +1,149 @@
 {
 	"clienteID": 13,
-	"nomeExibicao": "Makingway",
-	"nome": "Makingway",
-	"cnpj": "97.755.730/0001-92",
-	"inscricaoEstadual": "96.455.22-19",
-	"razaoSocial": "Makingway ME",
-	"website": "makingway.com.br",
-	"mercado": "MONTADORA",
+	"nomeExibicao": "Ecraze",
+	"nome": "Ecraze",
+	"cnpj": "66.975.042/0001-56",
+	"inscricaoEstadual": "81.955.13-13",
+	"razaoSocial": "Ecraze LTDA.",
+	"website": "ecraze.com.br",
+	"mercado": "SEGURADORA",
 	"statusCliente": "ATIVO",
-	"contaContabil": "CONTABIL A",
-	"siglaCliente": "NGWAY",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "ZE",
 	"trabalhaRegioes": false,
-	"trabalhaClausulas": false,
+	"trabalhaClausulas": true,
 	"contatos": [
 		{
-			"contatoID": 0,
-			"contatoNome": "Hooper Cobb",
-			"contatoEmail": "hoopercobb@makingway.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Marketing",
+			"contatoID": 1,
+			"contatoNome": "Jacqueline Baldwin",
+			"contatoEmail": "jacquelinebaldwin@ecraze.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Financeiro",
 			"contatoResponsavel": true,
-			"contatoVIP": true,
+			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
-					"contatoEnderecosEndereco": "Willoughby Avenue",
-					"contatoEnderecosNumero": 3611,
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Cox Place",
+					"contatoEnderecosNumero": 5769,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Claudia",
-					"contatoEnderecosCEP": "97152-334",
+					"contatoEnderecosBairro": "Tammie",
+					"contatoEnderecosCEP": "80441-124",
 					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": true
-				},
-				{
-					"contatoEnderecosEndereco": "Polar Street",
-					"contatoEnderecosNumero": 6227,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Madge",
-					"contatoEnderecosCEP": "97454-925",
-					"contatoEnderecosLOB": "VIDA",
 					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosCidade": "CIDADE 3",
 					"contatoEnderecosPais": "FRAN\u00c7A",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
+				},
 				{
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "85845-2273",
-					"contatoTelefonesRamal": 781
-				}
-			]
-		},
-		{
-			"contatoID": 1,
-			"contatoNome": "Letha Bishop",
-			"contatoEmail": "lethabishop@makingway.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Marketing",
-			"contatoResponsavel": false,
-			"contatoVIP": true,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Whitty Lane",
-					"contatoEnderecosNumero": 7829,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Rita",
-					"contatoEnderecosCEP": "91155-737",
-					"contatoEnderecosLOB": "VIDA",
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Micieli Place",
+					"contatoEnderecosNumero": 9147,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Kristen",
+					"contatoEnderecosCEP": "90944-934",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
 					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Vandam Street",
+					"contatoEnderecosNumero": 1112,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Clements",
+					"contatoEnderecosCEP": "98643-720",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
 					"contatoEnderecosCidade": "CIDADE 3",
 					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosEndereco": "Devoe Street",
-					"contatoEnderecosNumero": 7830,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Rowe",
-					"contatoEnderecosCEP": "90150-827",
-					"contatoEnderecosLOB": "VIDA",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
+					"contatoEnderecosCobranca": true
 				}
 			],
 			"contatoTelefones": [
 				{
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "92052-4294",
-					"contatoTelefonesRamal": 799
-				}
-			]
-		},
-		{
-			"contatoID": 2,
-			"contatoNome": "Alison Church",
-			"contatoEmail": "alisonchurch@makingway.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": false,
-			"contatoVIP": true,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Bay Street",
-					"contatoEnderecosNumero": 5417,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Hood",
-					"contatoEnderecosCEP": "83942-630",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
-				{
+					"contatoTelefonesID": 1,
 					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "95154-5209",
-					"contatoTelefonesRamal": 450
+					"contatoTelefonesTelefone": "96647-8301",
+					"contatoTelefonesRamal": 684
 				},
 				{
-					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "86344-5223",
-					"contatoTelefonesRamal": 809
-				},
-				{
+					"contatoTelefonesID": 2,
 					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "97459-2210",
-					"contatoTelefonesRamal": 768
+					"contatoTelefonesTelefone": "96557-2348",
+					"contatoTelefonesRamal": 614
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "93759-6295",
+					"contatoTelefonesRamal": 390
 				}
 			]
 		}
 	],
 	"regioes": [
 		{
-			"regioesCodigo": "cillum",
-			"regioesDescricao": "In ex voluptate aliqua enim nostrud elit laborum id eiusmod eiusmod culpa et."
+			"regioesID": 1,
+			"regioesCodigo": "occaecat",
+			"regioesDescricao": "Irure nostrud anim laboris anim."
 		},
 		{
-			"regioesCodigo": "tempor",
-			"regioesDescricao": "Aliquip in anim cillum ea."
+			"regioesID": 2,
+			"regioesCodigo": "aliquip",
+			"regioesDescricao": "Velit labore id voluptate esse eiusmod velit in amet commodo excepteur labore sint mollit."
+		}
+	],
+	"arquivos": [
+		{
+			"arquivosID": 1,
+			"arquivosPath": "/userfiles/proident.docx",
+			"arquivosDescricao": "Ex velit incididunt dolor laborum incididunt ea.",
+			"arquivosDataCriacao": "2022-08-27 20:41:22"
 		},
 		{
-			"regioesCodigo": "adipisicing",
-			"regioesDescricao": "Ad ullamco elit qui quis dolor."
+			"arquivosID": 2,
+			"arquivosPath": "/userfiles/est.xlsx",
+			"arquivosDescricao": "Proident exercitation officia cillum quis culpa voluptate dolor proident amet ut amet.",
+			"arquivosDataCriacao": "2022-03-05 00:11:39"
+		},
+		{
+			"arquivosID": 3,
+			"arquivosPath": "/userfiles/mollit.docx",
+			"arquivosDescricao": "Qui ea dolor ipsum minim adipisicing cupidatat excepteur irure elit laboris.",
+			"arquivosDataCriacao": "2022-05-17 21:37:38"
+		}
+	],
+	"contratos": [
+		{
+			"contratosID": 1,
+			"contratosNome": "amet cupidatat",
+			"contratoLOBPrincipal": [
+				"RA",
+				"RAMOS ELEMENTARES"
+			],
+			"contratoInicioVigencia": "2019-06-15",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Excepteur aute non cillum pariatur Lorem sunt aliqua reprehenderit est nulla sunt. Sunt aliquip voluptate mollit minim elit commodo eiusmod ex eiusmod aliquip culpa fugiat.",
+			"contratoInicioAtividades": "2019-06-16",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				}
+			]
 		}
 	]
 }

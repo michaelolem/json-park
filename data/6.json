@@ -1,175 +1,114 @@
 {
 	"clienteID": 6,
-	"nomeExibicao": "Valreda",
-	"nome": "Valreda",
-	"cnpj": "90.653.136/0001-07",
-	"inscricaoEstadual": "87.042.02-83",
-	"razaoSocial": "Valreda LTDA.",
-	"website": "valreda.com.br",
-	"mercado": "MONTADORA",
+	"nomeExibicao": "Tasmania",
+	"nome": "Tasmania",
+	"cnpj": "05.347.183/0001-30",
+	"inscricaoEstadual": "92.751.52-21",
+	"razaoSocial": "Tasmania LTDA.",
+	"website": "tasmania.com.br",
+	"mercado": "SEGURADORA",
 	"statusCliente": "ATIVO",
-	"contaContabil": "CONTABIL A",
-	"siglaCliente": "EDA",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "ANIA",
 	"trabalhaRegioes": true,
 	"trabalhaClausulas": true,
 	"contatos": [
 		{
-			"contatoID": 0,
-			"contatoNome": "Malinda Sutton",
-			"contatoEmail": "malindasutton@valreda.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Financeiro",
-			"contatoResponsavel": false,
-			"contatoVIP": false,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Bay Avenue",
-					"contatoEnderecosNumero": 4619,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Aida",
-					"contatoEnderecosCEP": "97545-636",
-					"contatoEnderecosLOB": "VIAGEM",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "85040-2359",
-					"contatoTelefonesRamal": 119
-				},
-				{
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "88555-4287",
-					"contatoTelefonesRamal": 580
-				},
-				{
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "82640-8319",
-					"contatoTelefonesRamal": 789
-				}
-			]
-		},
-		{
 			"contatoID": 1,
-			"contatoNome": "Rosa George",
-			"contatoEmail": "rosageorge@valreda.com",
+			"contatoNome": "Watts Mcknight",
+			"contatoEmail": "wattsmcknight@tasmania.com",
 			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Financeiro",
-			"contatoResponsavel": false,
-			"contatoVIP": false,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Celeste Court",
-					"contatoEnderecosNumero": 3602,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Burris",
-					"contatoEnderecosCEP": "97650-221",
-					"contatoEnderecosLOB": "VIAGEM",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": true
-				},
-				{
-					"contatoEnderecosEndereco": "Columbus Place",
-					"contatoEnderecosNumero": 1146,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Chavez",
-					"contatoEnderecosCEP": "83555-127",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosEndereco": "Colby Court",
-					"contatoEnderecosNumero": 2302,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Cash",
-					"contatoEnderecosCEP": "89758-639",
-					"contatoEnderecosLOB": "VIAGEM",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": true
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "90144-7255",
-					"contatoTelefonesRamal": 146
-				}
-			]
-		},
-		{
-			"contatoID": 2,
-			"contatoNome": "Hensley Kane",
-			"contatoEmail": "hensleykane@valreda.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Vendas",
+			"contatoDepartmento": "Marketing",
 			"contatoResponsavel": false,
 			"contatoVIP": true,
 			"contatoEnderecos": [
 				{
-					"contatoEnderecosEndereco": "Ocean Avenue",
-					"contatoEnderecosNumero": 6595,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Jacobson",
-					"contatoEnderecosCEP": "81856-629",
-					"contatoEnderecosLOB": "VIAGEM",
-					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "McKinley Avenue",
+					"contatoEnderecosNumero": 8832,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Marva",
+					"contatoEnderecosCEP": "87341-326",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 2",
 					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": true
 				}
 			],
 			"contatoTelefones": [
 				{
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "99354-3386",
-					"contatoTelefonesRamal": 183
-				},
-				{
+					"contatoTelefonesID": 1,
 					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "99252-1214",
-					"contatoTelefonesRamal": 84
+					"contatoTelefonesTelefone": "98755-6376",
+					"contatoTelefonesRamal": 834
 				},
 				{
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "85352-0303",
-					"contatoTelefonesRamal": 758
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "83656-9378",
+					"contatoTelefonesRamal": 975
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "84654-7297",
+					"contatoTelefonesRamal": 958
 				}
 			]
 		}
 	],
 	"regioes": [
 		{
-			"regioesCodigo": "sint",
-			"regioesDescricao": "Est laboris esse veniam dolore."
+			"regioesID": 1,
+			"regioesCodigo": "dolor",
+			"regioesDescricao": "Voluptate Lorem fugiat culpa velit minim ex eiusmod qui."
+		}
+	],
+	"arquivos": [
+		{
+			"arquivosID": 1,
+			"arquivosPath": "/userfiles/do.xlsx",
+			"arquivosDescricao": "Aliquip amet incididunt cupidatat quis veniam enim aliquip ad officia Lorem deserunt ullamco.",
+			"arquivosDataCriacao": "2022-10-25 10:56:54"
 		},
 		{
-			"regioesCodigo": "ex",
-			"regioesDescricao": "Laborum mollit ipsum non esse cillum cupidatat consequat laborum cillum ea non velit velit cillum."
+			"arquivosID": 2,
+			"arquivosPath": "/userfiles/veniam.pdf",
+			"arquivosDescricao": "Cupidatat amet laborum deserunt mollit do in exercitation pariatur.",
+			"arquivosDataCriacao": "2022-12-03 21:17:39"
 		},
 		{
-			"regioesCodigo": "occaecat",
-			"regioesDescricao": "Laboris aliqua adipisicing et sit aliquip minim laborum ad quis."
+			"arquivosID": 3,
+			"arquivosPath": "/userfiles/officia.xlsx",
+			"arquivosDescricao": "Ut aliqua occaecat sit ullamco deserunt ipsum reprehenderit exercitation sunt velit anim sint ex sit.",
+			"arquivosDataCriacao": "2022-02-05 09:21:44"
+		}
+	],
+	"contratos": [
+		{
+			"contratosID": 1,
+			"contratosNome": "consectetur exercitation",
+			"contratoLOBPrincipal": [
+				"FU",
+				"FUNERAL"
+			],
+			"contratoInicioVigencia": "2022-06-20",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Fugiat anim aliqua sit nisi cillum consequat enim sunt eiusmod. Ipsum culpa excepteur consectetur fugiat nisi excepteur occaecat.",
+			"contratoInicioAtividades": "2022-06-21",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				}
+			]
 		}
 	]
 }

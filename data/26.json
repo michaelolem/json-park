@@ -1,0 +1,339 @@
+{
+	"clienteID": 26,
+	"nomeExibicao": "Sonique",
+	"nome": "Sonique",
+	"cnpj": "22.836.789/0001-58",
+	"inscricaoEstadual": "98.541.82-33",
+	"razaoSocial": "Sonique ME",
+	"website": "sonique.com",
+	"mercado": "MONTADORA",
+	"statusCliente": "INATIVO",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "QUE",
+	"trabalhaRegioes": false,
+	"trabalhaClausulas": true,
+	"contatos": [
+		{
+			"contatoID": 1,
+			"contatoNome": "Myra Solomon",
+			"contatoEmail": "myrasolomon@sonique.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Doscher Street",
+					"contatoEnderecosNumero": 6985,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Duncan",
+					"contatoEnderecosCEP": "92351-632",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "84450-5363",
+					"contatoTelefonesRamal": 965
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Antoinette Sweeney",
+			"contatoEmail": "antoinettesweeney@sonique.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Colin Place",
+					"contatoEnderecosNumero": 7887,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Craft",
+					"contatoEnderecosCEP": "85059-030",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Lenox Road",
+					"contatoEnderecosNumero": 6018,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Hawkins",
+					"contatoEnderecosCEP": "80640-724",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Bleecker Street",
+					"contatoEnderecosNumero": 4466,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Leblanc",
+					"contatoEnderecosCEP": "94151-224",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "98140-9232",
+					"contatoTelefonesRamal": 902
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "84756-0262",
+					"contatoTelefonesRamal": 850
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "98146-9381",
+					"contatoTelefonesRamal": 401
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Mia Hays",
+			"contatoEmail": "miahays@sonique.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Rockaway Avenue",
+					"contatoEnderecosNumero": 2309,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Dunlap",
+					"contatoEnderecosCEP": "90942-135",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Degraw Street",
+					"contatoEnderecosNumero": 7472,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Luisa",
+					"contatoEnderecosCEP": "98744-135",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "89144-9240",
+					"contatoTelefonesRamal": 574
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "85443-1319",
+					"contatoTelefonesRamal": 968
+				}
+			]
+		},
+		{
+			"contatoID": 4,
+			"contatoNome": "Ernestine Franco",
+			"contatoEmail": "ernestinefranco@sonique.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Suydam Place",
+					"contatoEnderecosNumero": 4387,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Hayden",
+					"contatoEnderecosCEP": "96155-227",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Hinckley Place",
+					"contatoEnderecosNumero": 1839,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Humphrey",
+					"contatoEnderecosCEP": "88854-525",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Verona Street",
+					"contatoEnderecosNumero": 7465,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Gregory",
+					"contatoEnderecosCEP": "93151-536",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "93849-8202",
+					"contatoTelefonesRamal": 862
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "86055-2326",
+					"contatoTelefonesRamal": 605
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesID": 1,
+			"regioesCodigo": "sit",
+			"regioesDescricao": "Incididunt aliqua aliqua consequat do sit laborum culpa magna exercitation."
+		},
+		{
+			"regioesID": 2,
+			"regioesCodigo": "ea",
+			"regioesDescricao": "Occaecat officia sunt fugiat sint nulla commodo laborum veniam nisi velit aliqua."
+		}
+	],
+	"arquivos": [
+		{
+			"arquivosID": 1,
+			"arquivosPath": "/userfiles/incididunt.pdf",
+			"arquivosDescricao": "Quis qui et dolore officia dolore velit quis.",
+			"arquivosDataCriacao": "2022-06-08 08:23:53"
+		}
+	],
+	"contratos": [
+		{
+			"contratosID": 1,
+			"contratosNome": "minim sunt",
+			"contratoLOBPrincipal": [
+				"FU",
+				"FUNERAL"
+			],
+			"contratoInicioVigencia": "2020-09-23",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Elit est consequat enim laborum consequat enim ad reprehenderit tempor ex ipsum. Aliquip excepteur proident ad eiusmod magna duis ipsum magna esse.",
+			"contratoInicioAtividades": "2020-09-24",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 2,
+			"contratosNome": "enim excepteur",
+			"contratoLOBPrincipal": [
+				"FU",
+				"FUNERAL"
+			],
+			"contratoInicioVigencia": "2022-11-21",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Duis tempor aliqua ea esse quis sit veniam sunt eiusmod incididunt voluptate. Consequat sint dolor do quis consequat aute culpa magna nulla incididunt.",
+			"contratoInicioAtividades": "2022-11-22",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				}
+			]
+		}
+	]
+}

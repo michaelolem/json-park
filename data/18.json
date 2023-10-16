@@ -1,65 +1,197 @@
 {
 	"clienteID": 18,
-	"nomeExibicao": "Helixo",
-	"nome": "Helixo",
-	"cnpj": "99.052.829/0001-69",
-	"inscricaoEstadual": "87.842.32-45",
-	"razaoSocial": "Helixo ME",
-	"website": "helixo.com",
+	"nomeExibicao": "Geostele",
+	"nome": "Geostele",
+	"cnpj": "18.366.733/0001-00",
+	"inscricaoEstadual": "88.949.23-08",
+	"razaoSocial": "Geostele LTDA.",
+	"website": "geostele.com",
 	"mercado": "MONTADORA",
-	"statusCliente": "ATIVO",
-	"contaContabil": "CONTABIL A",
-	"siglaCliente": "IXO",
+	"statusCliente": "INATIVO",
+	"contaContabil": "CONTABIL B",
+	"siglaCliente": "TELE",
 	"trabalhaRegioes": true,
 	"trabalhaClausulas": true,
 	"contatos": [
 		{
-			"contatoID": 0,
-			"contatoNome": "Brianna Morris",
-			"contatoEmail": "briannamorris@helixo.com",
+			"contatoID": 1,
+			"contatoNome": "Lynnette Stuart",
+			"contatoEmail": "lynnettestuart@geostele.com",
 			"contatoCargo": "Assistente",
 			"contatoDepartmento": "Vendas",
 			"contatoResponsavel": true,
 			"contatoVIP": true,
 			"contatoEnderecos": [
 				{
-					"contatoEnderecosEndereco": "Doughty Street",
-					"contatoEnderecosNumero": 4794,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Walter",
-					"contatoEnderecosCEP": "91943-530",
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Empire Boulevard",
+					"contatoEnderecosNumero": 8973,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Janie",
+					"contatoEnderecosCEP": "89449-439",
 					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosEndereco": "Loring Avenue",
-					"contatoEnderecosNumero": 8992,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Page",
-					"contatoEnderecosCEP": "91545-627",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
 					"contatoEnderecosPais": "FRAN\u00c7A",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": true
 				},
 				{
-					"contatoEnderecosEndereco": "Girard Street",
-					"contatoEnderecosNumero": 4142,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Nolan",
-					"contatoEnderecosCEP": "86759-634",
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Clark Street",
+					"contatoEnderecosNumero": 3154,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Ashley",
+					"contatoEnderecosCEP": "83547-530",
 					"contatoEnderecosLOB": "VIAGEM",
 					"contatoEnderecosEstado": "ESTADO 2",
 					"contatoEnderecosCidade": "CIDADE 1",
 					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Mayfair Drive",
+					"contatoEnderecosNumero": 4457,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Bradford",
+					"contatoEnderecosCEP": "90451-037",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "97445-5303",
+					"contatoTelefonesRamal": 854
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "88443-9298",
+					"contatoTelefonesRamal": 538
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "87054-2323",
+					"contatoTelefonesRamal": 942
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Pitts Holder",
+			"contatoEmail": "pittsholder@geostele.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Devoe Street",
+					"contatoEnderecosNumero": 2166,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Estelle",
+					"contatoEnderecosCEP": "97550-520",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "91348-1338",
+					"contatoTelefonesRamal": 796
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Tracey Alexander",
+			"contatoEmail": "traceyalexander@geostele.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Dunne Court",
+					"contatoEnderecosNumero": 6228,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Merritt",
+					"contatoEnderecosCEP": "88646-135",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Arlington Place",
+					"contatoEnderecosNumero": 9980,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Odessa",
+					"contatoEnderecosCEP": "92140-833",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "98253-5208",
+					"contatoTelefonesRamal": 849
+				}
+			]
+		},
+		{
+			"contatoID": 4,
+			"contatoNome": "Lang Everett",
+			"contatoEmail": "langeverett@geostele.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Box Street",
+					"contatoEnderecosNumero": 7219,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Jill",
+					"contatoEnderecosCEP": "82151-531",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
@@ -67,25 +199,185 @@
 			],
 			"contatoTelefones": [
 				{
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "97451-5362",
-					"contatoTelefonesRamal": 5
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "89656-5376",
+					"contatoTelefonesRamal": 96
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "83152-9368",
+					"contatoTelefonesRamal": 814
 				}
 			]
 		}
 	],
 	"regioes": [
 		{
-			"regioesCodigo": "laboris",
-			"regioesDescricao": "Ipsum incididunt pariatur dolore excepteur duis magna labore aliqua laborum veniam id sunt eiusmod culpa."
+			"regioesID": 1,
+			"regioesCodigo": "esse",
+			"regioesDescricao": "Nostrud quis commodo proident officia elit ex ipsum."
 		},
 		{
-			"regioesCodigo": "aliqua",
-			"regioesDescricao": "Nulla sunt cupidatat cillum quis esse aliquip ea irure duis nulla laborum dolore."
+			"regioesID": 2,
+			"regioesCodigo": "minim",
+			"regioesDescricao": "Dolore id duis id irure fugiat officia elit velit commodo consectetur et consectetur."
+		}
+	],
+	"arquivos": [
+		{
+			"arquivosID": 1,
+			"arquivosPath": "/userfiles/labore.xlsx",
+			"arquivosDescricao": "Do eu dolor mollit aute.",
+			"arquivosDataCriacao": "2022-08-13 05:53:22"
+		}
+	],
+	"contratos": [
+		{
+			"contratosID": 1,
+			"contratosNome": "veniam amet",
+			"contratoLOBPrincipal": [
+				"VI",
+				"VIAGEM"
+			],
+			"contratoInicioVigencia": "2022-10-24",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Enim consequat nostrud adipisicing deserunt aute. Elit elit id quis excepteur sunt elit ex nisi quis cupidatat pariatur.",
+			"contratoInicioAtividades": "2022-10-25",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				}
+			]
 		},
 		{
-			"regioesCodigo": "nostrud",
-			"regioesDescricao": "Proident exercitation esse exercitation nostrud eiusmod consequat enim anim dolore ipsum irure nisi elit esse."
+			"contratosID": 2,
+			"contratosNome": "proident commodo",
+			"contratoLOBPrincipal": [
+				"FU",
+				"FUNERAL"
+			],
+			"contratoInicioVigencia": "2022-05-15",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Laborum laborum nostrud adipisicing ad ea nisi amet deserunt. Occaecat sunt minim ipsum consequat magna commodo nostrud tempor pariatur ut commodo.",
+			"contratoInicioAtividades": "2022-05-16",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 3,
+			"contratosNome": "eu ullamco",
+			"contratoLOBPrincipal": [
+				"AU",
+				"AUTO"
+			],
+			"contratoInicioVigencia": "2022-06-15",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Irure dolore sit in Lorem laboris ut eu. Amet aliqua ea sint in cillum cupidatat.",
+			"contratoInicioAtividades": "2022-06-16",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 4,
+			"contratosNome": "veniam sunt",
+			"contratoLOBPrincipal": [
+				"VI",
+				"VIAGEM"
+			],
+			"contratoInicioVigencia": "2020-07-05",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Sit pariatur cupidatat magna sunt nostrud anim. Ipsum laborum ullamco nisi anim ut sunt veniam veniam id.",
+			"contratoInicioAtividades": "2020-07-06",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 5,
+			"contratosNome": "nisi culpa",
+			"contratoLOBPrincipal": [
+				"RA",
+				"RAMOS ELEMENTARES"
+			],
+			"contratoInicioVigencia": "2022-07-03",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Eiusmod est exercitation sit amet cupidatat ex sint sint aliqua sunt. Exercitation aliqua exercitation ut incididunt commodo irure deserunt mollit labore.",
+			"contratoInicioAtividades": "2022-07-04",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				}
+			]
 		}
 	]
 }

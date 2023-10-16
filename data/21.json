@@ -1,0 +1,576 @@
+{
+	"clienteID": 21,
+	"nomeExibicao": "Kiosk",
+	"nome": "Kiosk",
+	"cnpj": "22.770.764/0001-07",
+	"inscricaoEstadual": "99.956.22-62",
+	"razaoSocial": "Kiosk S/A",
+	"website": "kiosk.com.br",
+	"mercado": "SEGURADORA",
+	"statusCliente": "ATIVO",
+	"contaContabil": "CONTABIL A",
+	"siglaCliente": "K",
+	"trabalhaRegioes": false,
+	"trabalhaClausulas": true,
+	"contatos": [
+		{
+			"contatoID": 1,
+			"contatoNome": "Elvia Jimenez",
+			"contatoEmail": "elviajimenez@kiosk.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Lawton Street",
+					"contatoEnderecosNumero": 4144,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Ortega",
+					"contatoEnderecosCEP": "90451-521",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Rodney Street",
+					"contatoEnderecosNumero": 3320,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Staci",
+					"contatoEnderecosCEP": "91558-631",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Kingsland Avenue",
+					"contatoEnderecosNumero": 6294,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Carly",
+					"contatoEnderecosCEP": "80757-920",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "81460-0315",
+					"contatoTelefonesRamal": 73
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "99546-0238",
+					"contatoTelefonesRamal": 603
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "99458-4296",
+					"contatoTelefonesRamal": 54
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Lloyd Harrell",
+			"contatoEmail": "lloydharrell@kiosk.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Hicks Street",
+					"contatoEnderecosNumero": 7971,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Arnold",
+					"contatoEnderecosCEP": "81440-834",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Covert Street",
+					"contatoEnderecosNumero": 2303,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Nelson",
+					"contatoEnderecosCEP": "93953-033",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "90549-8366",
+					"contatoTelefonesRamal": 132
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "94740-0380",
+					"contatoTelefonesRamal": 231
+				}
+			]
+		},
+		{
+			"contatoID": 3,
+			"contatoNome": "Evans Mendez",
+			"contatoEmail": "evansmendez@kiosk.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Gunther Place",
+					"contatoEnderecosNumero": 2056,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Rhodes",
+					"contatoEnderecosCEP": "86741-026",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "89341-0260",
+					"contatoTelefonesRamal": 102
+				}
+			]
+		},
+		{
+			"contatoID": 4,
+			"contatoNome": "Mckenzie Vang",
+			"contatoEmail": "mckenzievang@kiosk.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Hampton Place",
+					"contatoEnderecosNumero": 9219,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Aileen",
+					"contatoEnderecosCEP": "88943-328",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Schenck Street",
+					"contatoEnderecosNumero": 7901,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Floyd",
+					"contatoEnderecosCEP": "84358-333",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "90247-9370",
+					"contatoTelefonesRamal": 305
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "80140-2329",
+					"contatoTelefonesRamal": 537
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "95957-9356",
+					"contatoTelefonesRamal": 212
+				}
+			]
+		},
+		{
+			"contatoID": 5,
+			"contatoNome": "Garcia House",
+			"contatoEmail": "garciahouse@kiosk.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Monroe Place",
+					"contatoEnderecosNumero": 5557,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Snow",
+					"contatoEnderecosCEP": "98648-125",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Main Street",
+					"contatoEnderecosNumero": 230,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Iva",
+					"contatoEnderecosCEP": "83653-138",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "96854-6326",
+					"contatoTelefonesRamal": 356
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "80044-7315",
+					"contatoTelefonesRamal": 799
+				}
+			]
+		},
+		{
+			"contatoID": 6,
+			"contatoNome": "Carrillo Gamble",
+			"contatoEmail": "carrillogamble@kiosk.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Vendas",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Taaffe Place",
+					"contatoEnderecosNumero": 7478,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Lindsey",
+					"contatoEnderecosCEP": "89846-731",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "86444-2301",
+					"contatoTelefonesRamal": 372
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "94644-0383",
+					"contatoTelefonesRamal": 94
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "99940-5344",
+					"contatoTelefonesRamal": 292
+				}
+			]
+		},
+		{
+			"contatoID": 7,
+			"contatoNome": "Colleen Guzman",
+			"contatoEmail": "colleenguzman@kiosk.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Jur\u00eddico",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Ellery Street",
+					"contatoEnderecosNumero": 9816,
+					"contatoEnderecosComplemento": "T\u00e9rreo",
+					"contatoEnderecosBairro": "Hogan",
+					"contatoEnderecosCEP": "96952-436",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Columbus Place",
+					"contatoEnderecosNumero": 1219,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Johns",
+					"contatoEnderecosCEP": "91643-536",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "80457-0230",
+					"contatoTelefonesRamal": 959
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "90152-2396",
+					"contatoTelefonesRamal": 315
+				}
+			]
+		}
+	],
+	"regioes": [
+		{
+			"regioesID": 1,
+			"regioesCodigo": "id",
+			"regioesDescricao": "Sit cupidatat sunt eiusmod eiusmod."
+		},
+		{
+			"regioesID": 2,
+			"regioesCodigo": "adipisicing",
+			"regioesDescricao": "In culpa fugiat tempor ad enim cupidatat occaecat nostrud."
+		},
+		{
+			"regioesID": 3,
+			"regioesCodigo": "elit",
+			"regioesDescricao": "Nisi esse elit quis ea laboris."
+		}
+	],
+	"arquivos": [
+		{
+			"arquivosID": 1,
+			"arquivosPath": "/userfiles/officia.xlsx",
+			"arquivosDescricao": "Veniam ipsum excepteur et dolor do do elit veniam velit sunt et.",
+			"arquivosDataCriacao": "2022-02-16 07:18:13"
+		},
+		{
+			"arquivosID": 2,
+			"arquivosPath": "/userfiles/commodo.pdf",
+			"arquivosDescricao": "Est ipsum laborum consectetur aute quis ut veniam magna fugiat magna do.",
+			"arquivosDataCriacao": "2022-12-10 15:24:41"
+		},
+		{
+			"arquivosID": 3,
+			"arquivosPath": "/userfiles/in.xlsx",
+			"arquivosDescricao": "Eu reprehenderit reprehenderit est et aliquip fugiat quis Lorem pariatur ea id ullamco nulla cillum.",
+			"arquivosDataCriacao": "2022-03-01 23:48:33"
+		}
+	],
+	"contratos": [
+		{
+			"contratosID": 1,
+			"contratosNome": "ea enim",
+			"contratoLOBPrincipal": [
+				"RA",
+				"RAMOS ELEMENTARES"
+			],
+			"contratoInicioVigencia": "2019-06-20",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Occaecat non labore laborum quis duis ullamco cillum consectetur sint. Occaecat excepteur dolore occaecat dolore in dolor eiusmod irure ad sint occaecat cupidatat nisi minim.",
+			"contratoInicioAtividades": "2019-06-21",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 2,
+			"contratosNome": "duis esse",
+			"contratoLOBPrincipal": [
+				"VI",
+				"VIAGEM"
+			],
+			"contratoInicioVigencia": "2021-07-20",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Tempor sint consequat tempor qui eiusmod laborum id consectetur labore sit. Proident id esse commodo culpa enim voluptate incididunt.",
+			"contratoInicioAtividades": "2021-07-21",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 3,
+			"contratosNome": "aliquip voluptate",
+			"contratoLOBPrincipal": [
+				"VI",
+				"VIAGEM"
+			],
+			"contratoInicioVigencia": "2019-11-10",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Do ipsum sit sunt sit amet occaecat tempor dolor nisi quis eu. Sit in ullamco est duis officia sint laborum duis incididunt pariatur magna.",
+			"contratoInicioAtividades": "2019-11-11",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 4,
+			"contratosNome": "elit exercitation",
+			"contratoLOBPrincipal": [
+				"VI",
+				"VIAGEM"
+			],
+			"contratoInicioVigencia": "2021-09-03",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Nisi commodo nulla commodo amet. Mollit veniam laborum mollit nulla proident quis.",
+			"contratoInicioAtividades": "2021-09-04",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 5,
+			"contratosNome": "consequat veniam",
+			"contratoLOBPrincipal": [
+				"AU",
+				"AUTO"
+			],
+			"contratoInicioVigencia": "2020-10-08",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Ut quis anim aliquip incididunt ipsum aute incididunt reprehenderit qui consectetur. Laboris labore dolor est labore cillum tempor non anim nisi voluptate labore et elit ipsum.",
+			"contratoInicioAtividades": "2020-10-09",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				}
+			]
+		}
+	]
+}

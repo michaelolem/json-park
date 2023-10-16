@@ -1,236 +1,278 @@
 {
 	"clienteID": 14,
-	"nomeExibicao": "Oronoko",
-	"nome": "Oronoko",
-	"cnpj": "86.857.530/0001-05",
-	"inscricaoEstadual": "91.054.02-26",
-	"razaoSocial": "Oronoko S/A",
-	"website": "oronoko.com.br",
-	"mercado": "MONTADORA",
+	"nomeExibicao": "Hairport",
+	"nome": "Hairport",
+	"cnpj": "86.227.024/0001-01",
+	"inscricaoEstadual": "97.953.22-50",
+	"razaoSocial": "Hairport ME",
+	"website": "hairport.com",
+	"mercado": "SEGURADORA",
 	"statusCliente": "ATIVO",
 	"contaContabil": "CONTABIL A",
-	"siglaCliente": "OKO",
-	"trabalhaRegioes": true,
+	"siglaCliente": "PORT",
+	"trabalhaRegioes": false,
 	"trabalhaClausulas": false,
 	"contatos": [
 		{
-			"contatoID": 0,
-			"contatoNome": "Rosella Green",
-			"contatoEmail": "rosellagreen@oronoko.com",
+			"contatoID": 1,
+			"contatoNome": "Tamra Carrillo",
+			"contatoEmail": "tamracarrillo@hairport.com",
 			"contatoCargo": "Assistente",
 			"contatoDepartmento": "Marketing",
-			"contatoResponsavel": true,
+			"contatoResponsavel": false,
 			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
-					"contatoEnderecosEndereco": "Bay Parkway",
-					"contatoEnderecosNumero": 1646,
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Ralph Avenue",
+					"contatoEnderecosNumero": 261,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Kimberly",
-					"contatoEnderecosCEP": "82856-720",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "83045-6326",
-					"contatoTelefonesRamal": 55
-				},
-				{
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "87456-3214",
-					"contatoTelefonesRamal": 832
-				},
-				{
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "91252-9329",
-					"contatoTelefonesRamal": 585
-				}
-			]
-		},
-		{
-			"contatoID": 1,
-			"contatoNome": "Golden Pennington",
-			"contatoEmail": "goldenpennington@oronoko.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": true,
-			"contatoVIP": true,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Grant Avenue",
-					"contatoEnderecosNumero": 9634,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Bryant",
-					"contatoEnderecosCEP": "90745-139",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosBairro": "Lane",
+					"contatoEnderecosCEP": "85959-731",
+					"contatoEnderecosLOB": "AUTO",
 					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "84540-3253",
-					"contatoTelefonesRamal": 552
-				},
-				{
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "93952-1229",
-					"contatoTelefonesRamal": 101
-				}
-			]
-		},
-		{
-			"contatoID": 2,
-			"contatoNome": "Janette Cross",
-			"contatoEmail": "janettecross@oronoko.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": true,
-			"contatoVIP": false,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Lott Avenue",
-					"contatoEnderecosNumero": 8991,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Roth",
-					"contatoEnderecosCEP": "90241-028",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosEndereco": "Tabor Court",
-					"contatoEnderecosNumero": 4172,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Tanya",
-					"contatoEnderecosCEP": "90348-525",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 3",
 					"contatoEnderecosPais": "FRAN\u00c7A",
 					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "88047-2205",
-					"contatoTelefonesRamal": 868
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
 				},
 				{
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "83850-8315",
-					"contatoTelefonesRamal": 778
-				},
-				{
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "90354-2224",
-					"contatoTelefonesRamal": 611
-				}
-			]
-		},
-		{
-			"contatoID": 3,
-			"contatoNome": "Britney Figueroa",
-			"contatoEmail": "britneyfigueroa@oronoko.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": true,
-			"contatoVIP": false,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Jefferson Avenue",
-					"contatoEnderecosNumero": 6881,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Josephine",
-					"contatoEnderecosCEP": "81551-520",
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Falmouth Street",
+					"contatoEnderecosNumero": 3603,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Camille",
+					"contatoEnderecosCEP": "80542-037",
 					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
 					"contatoEnderecosEstado": "ESTADO 2",
 					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosPais": "FRAN\u00c7A",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": true
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "91950-9333",
-					"contatoTelefonesRamal": 534
-				}
-			]
-		},
-		{
-			"contatoID": 4,
-			"contatoNome": "Cara Rodgers",
-			"contatoEmail": "cararodgers@oronoko.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Financeiro",
-			"contatoResponsavel": true,
-			"contatoVIP": true,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosEndereco": "Milton Street",
-					"contatoEnderecosNumero": 3422,
-					"contatoEnderecosComplemento": "T\u00e9rreo",
-					"contatoEnderecosBairro": "Jerri",
-					"contatoEnderecosCEP": "98557-625",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
 				},
 				{
-					"contatoEnderecosEndereco": "Erskine Loop",
-					"contatoEnderecosNumero": 1830,
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Lake Street",
+					"contatoEnderecosNumero": 1725,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Fanny",
-					"contatoEnderecosCEP": "88457-930",
+					"contatoEnderecosBairro": "Stafford",
+					"contatoEnderecosCEP": "82451-929",
 					"contatoEnderecosLOB": "VIAGEM",
-					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRAN\u00c7A",
+					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
+					"contatoEnderecosCobranca": true
 				}
 			],
 			"contatoTelefones": [
 				{
+					"contatoTelefonesID": 1,
 					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "88742-7374",
-					"contatoTelefonesRamal": 525
+					"contatoTelefonesTelefone": "98158-1284",
+					"contatoTelefonesRamal": 817
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "99547-5331",
+					"contatoTelefonesRamal": 381
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "90848-9208",
+					"contatoTelefonesRamal": 123
 				}
 			]
 		}
 	],
 	"regioes": [
 		{
-			"regioesCodigo": "velit",
-			"regioesDescricao": "Esse deserunt non elit excepteur consequat sunt commodo reprehenderit aliqua."
+			"regioesID": 1,
+			"regioesCodigo": "ut",
+			"regioesDescricao": "Proident nulla adipisicing cupidatat dolor aliqua elit qui irure consequat nulla exercitation nulla deserunt ullamco."
+		},
+		{
+			"regioesID": 2,
+			"regioesCodigo": "Lorem",
+			"regioesDescricao": "Irure officia sit aute magna ut ex Lorem irure anim est eiusmod mollit cupidatat."
+		},
+		{
+			"regioesID": 3,
+			"regioesCodigo": "deserunt",
+			"regioesDescricao": "Tempor labore consequat sunt nisi consectetur aliqua cillum ad officia irure ex duis."
+		}
+	],
+	"arquivos": [
+		{
+			"arquivosID": 1,
+			"arquivosPath": "/userfiles/laborum.docx",
+			"arquivosDescricao": "Minim nostrud pariatur excepteur occaecat consectetur reprehenderit.",
+			"arquivosDataCriacao": "2022-01-16 15:07:29"
+		},
+		{
+			"arquivosID": 2,
+			"arquivosPath": "/userfiles/est.docx",
+			"arquivosDescricao": "Et veniam nostrud aliqua reprehenderit mollit id.",
+			"arquivosDataCriacao": "2022-12-11 11:49:28"
+		}
+	],
+	"contratos": [
+		{
+			"contratosID": 1,
+			"contratosNome": "elit dolore",
+			"contratoLOBPrincipal": [
+				"AU",
+				"AUTO"
+			],
+			"contratoInicioVigencia": "2019-04-27",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Nisi anim elit enim sit dolore. Minim esse amet sunt laborum est qui ullamco velit ipsum sint.",
+			"contratoInicioAtividades": "2019-04-28",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 2,
+			"contratosNome": "irure laborum",
+			"contratoLOBPrincipal": [
+				"RA",
+				"RAMOS ELEMENTARES"
+			],
+			"contratoInicioVigencia": "2019-11-25",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Lorem tempor aute elit est irure ad occaecat laboris fugiat. Lorem in mollit laboris voluptate Lorem esse ut tempor proident amet aute.",
+			"contratoInicioAtividades": "2019-11-26",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 3,
+					"contratoLOBSecundariosLOB": [
+						"VI",
+						"VIAGEM"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 3,
+			"contratosNome": "reprehenderit quis",
+			"contratoLOBPrincipal": [
+				"RA",
+				"RAMOS ELEMENTARES"
+			],
+			"contratoInicioVigencia": "2022-10-08",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES GERAIS",
+			"contratoComentario": "Pariatur nulla aliqua velit magna enim et voluptate. Incididunt irure labore velit duis eiusmod ex magna sit sit adipisicing.",
+			"contratoInicioAtividades": "2022-10-09",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"RA",
+						"RAMOS ELEMENTARES"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"FU",
+						"FUNERAL"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 4,
+			"contratosNome": "enim dolore",
+			"contratoLOBPrincipal": [
+				"AU",
+				"AUTO"
+			],
+			"contratoInicioVigencia": "2020-10-13",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Commodo anim eu nisi ea ipsum elit do proident magna reprehenderit minim aliquip velit. Quis exercitation laboris ullamco tempor in dolore non voluptate eiusmod esse.",
+			"contratoInicioAtividades": "2020-10-14",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				}
+			]
+		},
+		{
+			"contratosID": 5,
+			"contratosNome": "quis esse",
+			"contratoLOBPrincipal": [
+				"AU",
+				"AUTO"
+			],
+			"contratoInicioVigencia": "2021-05-19",
+			"contratoFimVigencia": "2025-01-01",
+			"contratoInformacoes": "INFORMA\u00c7\u00d5ES COMPLEMENTARES",
+			"contratoComentario": "Eu officia proident officia excepteur do anim non. Lorem excepteur et ullamco labore incididunt eu ad tempor et esse esse.",
+			"contratoInicioAtividades": "2021-05-20",
+			"contratoLOBSecundarios": [
+				{
+					"contratoLOBSecundariosID": 1,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				},
+				{
+					"contratoLOBSecundariosID": 2,
+					"contratoLOBSecundariosLOB": [
+						"AU",
+						"AUTO"
+					]
+				}
+			]
 		}
 	]
 }
