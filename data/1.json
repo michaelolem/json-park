@@ -1,53 +1,38 @@
 {
 	"clienteID": 1,
-	"nomeCare": "Digiprint",
-	"nome": "Digiprint",
-	"cnpj": "73.942.086/0001-45",
-	"inscricaoEstadual": "95.544.62-53",
-	"razaoSocial": "Digiprint S/A",
-	"website": "digiprint.com.br",
-	"mercado": "SEGURADORA",
+	"nomeCare": "Manufact",
+	"nome": "Manufact",
+	"cnpj": "43.846.258/0001-16",
+	"inscricaoEstadual": "94.052.02-73",
+	"razaoSocial": "Manufact ME",
+	"website": "manufact.com",
+	"mercado": "MONTADORA",
 	"statusCliente": "ATIVO",
-	"contaContabil": "CONTABIL B",
-	"codigoSAP": "SRJWJ-X-577RQYOL-OZI-3C-W5WZYL0U1T5F",
-	"siglaCliente": "PRINT",
-	"trabalhaRegioes": false,
-	"trabalhaClausulas": false,
+	"contaContabil": "CONTABIL A",
+	"codigoSAP": "9MGBI-GW-9LSLFQSX8-Z5IQ-DS-8S2W1REA8L4SL",
+	"siglaCliente": "FACT",
+	"trabalhaRegioes": true,
+	"trabalhaClausulas": true,
 	"contatos": [
 		{
 			"contatoID": 1,
-			"contatoNome": "Felicia Olson",
-			"contatoEmail": "feliciaolson@digiprint.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Financeiro",
+			"contatoNome": "Rosales Collier",
+			"contatoEmail": "rosalescollier@manufact.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Jurídico",
 			"contatoResponsavel": true,
 			"contatoVIP": true,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Cleveland Street",
-					"contatoEnderecosNumero": 2981,
+					"contatoEnderecosEndereco": "Hancock Street",
+					"contatoEnderecosNumero": 3063,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "York",
-					"contatoEnderecosCEP": "95750-635",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosBairro": "Lara",
+					"contatoEnderecosCEP": "84954-439",
+					"contatoEnderecosLOB": "AUTO",
 					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRANÇA",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": true
-				},
-				{
-					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Sedgwick Street",
-					"contatoEnderecosNumero": 6090,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Spencer",
-					"contatoEnderecosCEP": "89552-438",
-					"contatoEnderecosLOB": "FUNERAL",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosCidade": "CIDADE 1",
 					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
@@ -57,15 +42,55 @@
 			"contatoTelefones": [
 				{
 					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "90651-8330",
-					"contatoTelefonesRamal": 319
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "88274-5430",
+					"contatoTelefonesRamal": ""
 				},
 				{
 					"contatoTelefonesID": 2,
 					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "87951-3233",
-					"contatoTelefonesRamal": 339
+					"contatoTelefonesTelefone": "6993-4512",
+					"contatoTelefonesRamal": ""
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "4894-5673",
+					"contatoTelefonesRamal": ""
+				}
+			]
+		},
+		{
+			"contatoID": 2,
+			"contatoNome": "Walter Munoz",
+			"contatoEmail": "waltermunoz@manufact.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Jurídico",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Roosevelt Court",
+					"contatoEnderecosNumero": 7876,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Lavonne",
+					"contatoEnderecosCEP": "80043-737",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRANÇA",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "3977-5473",
+					"contatoTelefonesRamal": 193
 				}
 			]
 		}
@@ -73,59 +98,42 @@
 	"regioes": [
 		{
 			"regioesID": 1,
-			"regioesCodigo": "exercitation",
-			"regioesDescricao": "Ex et anim aliquip sunt reprehenderit sit exercitation aute duis."
+			"regioesCodigo": "culpa",
+			"regioesDescricao": "Anim esse cupidatat dolor nisi dolore cillum consectetur nulla in adipisicing aliquip."
 		},
 		{
 			"regioesID": 2,
-			"regioesCodigo": "ullamco",
-			"regioesDescricao": "Laborum ullamco commodo magna dolor voluptate."
+			"regioesCodigo": "ea",
+			"regioesDescricao": "Pariatur tempor nisi sit irure labore consequat dolor ipsum ex esse dolor reprehenderit."
 		},
 		{
 			"regioesID": 3,
-			"regioesCodigo": "anim",
-			"regioesDescricao": "Nostrud do amet excepteur laboris aute nostrud id laborum anim aute."
+			"regioesCodigo": "consequat",
+			"regioesDescricao": "Sint et adipisicing ex elit laborum anim quis ipsum non."
 		}
 	],
 	"arquivos": [
 		{
 			"arquivosID": 1,
-			"arquivosPath": "/userfiles/deserunt.docx",
-			"arquivosDescricao": "Laborum velit do eiusmod fugiat aliquip magna labore culpa.",
-			"arquivosDataCriacao": "2022-12-27 08:29:00"
-		},
-		{
-			"arquivosID": 2,
-			"arquivosPath": "/userfiles/elit.xlsx",
-			"arquivosDescricao": "Sint veniam quis minim esse excepteur enim anim ullamco irure qui consectetur fugiat qui.",
-			"arquivosDataCriacao": "2022-12-09 16:29:18"
-		},
-		{
-			"arquivosID": 3,
-			"arquivosPath": "/userfiles/ipsum.pdf",
-			"arquivosDescricao": "Ullamco anim laborum deserunt sint est est labore consectetur.",
-			"arquivosDataCriacao": "2022-06-28 11:52:43"
-		},
-		{
-			"arquivosID": 4,
-			"arquivosPath": "/userfiles/velit.docx",
-			"arquivosDescricao": "Sunt do nostrud esse eu in excepteur commodo in ad eu labore cillum ea fugiat.",
-			"arquivosDataCriacao": "2022-11-28 21:59:41"
+			"arquivosPath": "/userfiles/minim.docx",
+			"arquivosDescricao": "Nostrud cillum exercitation est tempor tempor officia exercitation irure ex esse enim commodo non in.",
+			"arquivosDataCriacao": "2022-12-14 20:50:16",
+			"arquivosFileSize": 5594598
 		}
 	],
 	"contratos": [
 		{
 			"contratosID": 1,
-			"contratosNome": "pariatur laborum",
+			"contratosNome": "exercitation ut",
 			"contratoLOBPrincipal": [
 				"FU",
 				"FUNERAL"
 			],
-			"contratoInicioVigencia": "2022-01-29",
-			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
-			"contratoComentario": "Dolore magna ex fugiat ea cupidatat nulla enim ea deserunt dolore mollit dolor. Mollit laboris culpa tempor proident irure velit deserunt dolor ut sint anim ex.",
-			"contratoInicioAtividades": "2022-01-30",
+			"contratoInicioVigencia": "2022-10-09",
+			"contratoFimVigencia": "2025-01-15",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
+			"contratoComentario": "Eu eu id fugiat reprehenderit eiusmod esse pariatur elit et velit ea pariatur mollit aliqua. Do id est mollit excepteur ad sunt Lorem eiusmod proident quis.",
+			"contratoInicioAtividades": "2022-10-10",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
@@ -137,31 +145,24 @@
 				{
 					"contratoLOBSecundariosID": 2,
 					"contratoLOBSecundariosLOB": [
-						"FU",
-						"FUNERAL"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 3,
-					"contratoLOBSecundariosLOB": [
-						"VI",
-						"VIAGEM"
+						"AU",
+						"AUTO"
 					]
 				}
 			]
 		},
 		{
 			"contratosID": 2,
-			"contratosNome": "aute nulla",
+			"contratosNome": "enim deserunt",
 			"contratoLOBPrincipal": [
-				"AU",
-				"AUTO"
+				"FU",
+				"FUNERAL"
 			],
-			"contratoInicioVigencia": "2021-06-11",
+			"contratoInicioVigencia": "2022-03-13",
 			"contratoFimVigencia": "2025-01-01",
 			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
-			"contratoComentario": "Sit Lorem consectetur voluptate irure anim enim proident ut Lorem excepteur ea fugiat quis. Velit consequat anim minim proident ipsum eiusmod cupidatat et adipisicing est ad cillum consectetur mollit.",
-			"contratoInicioAtividades": "2021-06-12",
+			"contratoComentario": "Deserunt qui cillum minim magna voluptate nulla commodo minim nulla sit quis incididunt dolore. Est elit eiusmod sunt do amet.",
+			"contratoInicioAtividades": "2022-03-14",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
@@ -174,26 +175,19 @@
 		},
 		{
 			"contratosID": 3,
-			"contratosNome": "qui irure",
+			"contratosNome": "magna duis",
 			"contratoLOBPrincipal": [
-				"RA",
-				"RAMOS ELEMENTARES"
+				"VI",
+				"VIAGEM"
 			],
-			"contratoInicioVigencia": "2021-10-14",
+			"contratoInicioVigencia": "2019-10-03",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMAÇÕES GERAIS",
-			"contratoComentario": "Ullamco laboris irure elit consequat Lorem laborum labore minim magna duis aliqua cillum cupidatat. Irure adipisicing in ea incididunt ad ea irure adipisicing veniam est.",
-			"contratoInicioAtividades": "2021-10-15",
+			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
+			"contratoComentario": "Pariatur consectetur nostrud aliquip sint ipsum. Duis dolore officia aliqua irure elit et duis.",
+			"contratoInicioAtividades": "2019-10-04",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
-					"contratoLOBSecundariosLOB": [
-						"AU",
-						"AUTO"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 2,
 					"contratoLOBSecundariosLOB": [
 						"FU",
 						"FUNERAL"
@@ -203,29 +197,22 @@
 		},
 		{
 			"contratosID": 4,
-			"contratosNome": "eu labore",
+			"contratosNome": "nisi reprehenderit",
 			"contratoLOBPrincipal": [
-				"AU",
-				"AUTO"
+				"RA",
+				"RAMOS ELEMENTARES"
 			],
-			"contratoInicioVigencia": "2021-01-09",
-			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
-			"contratoComentario": "Anim cupidatat velit laborum sunt laborum exercitation consectetur ex anim ad enim. Consectetur et nisi pariatur dolore tempor aliqua nisi eu veniam occaecat.",
-			"contratoInicioAtividades": "2021-01-10",
+			"contratoInicioVigencia": "2021-06-17",
+			"contratoFimVigencia": "2024-01-01",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
+			"contratoComentario": "Pariatur et aliqua pariatur anim aliqua adipisicing. Aute tempor dolor aliqua qui quis consequat.",
+			"contratoInicioAtividades": "2021-06-18",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
 					"contratoLOBSecundariosLOB": [
-						"FU",
-						"FUNERAL"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 2,
-					"contratoLOBSecundariosLOB": [
-						"RA",
-						"RAMOS ELEMENTARES"
+						"VI",
+						"VIAGEM"
 					]
 				}
 			]

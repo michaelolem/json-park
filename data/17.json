@@ -1,291 +1,120 @@
 {
 	"clienteID": 17,
-	"nomeCare": "Sloganaut",
-	"nome": "Sloganaut",
-	"cnpj": "34.720.234/0001-25",
-	"inscricaoEstadual": "82.153.13-13",
-	"razaoSocial": "Sloganaut S/A",
-	"website": "sloganaut.com.br",
+	"nomeCare": "Electonic",
+	"nome": "Electonic",
+	"cnpj": "31.596.678/0001-02",
+	"inscricaoEstadual": "85.642.82-68",
+	"razaoSocial": "Electonic S/A",
+	"website": "electonic.com",
 	"mercado": "MONTADORA",
-	"statusCliente": "INATIVO",
+	"statusCliente": "ATIVO",
 	"contaContabil": "CONTABIL A",
-	"codigoSAP": "JZ5VJ-U3-65TP3OPQ-MH4-B-3LNNWKMCI7OIK8",
-	"siglaCliente": "ANAUT",
-	"trabalhaRegioes": false,
+	"codigoSAP": "W8N-KS-YZR22HKM-WOVX-0V-UHA8YALZ7M0IV",
+	"siglaCliente": "TONIC",
+	"trabalhaRegioes": true,
 	"trabalhaClausulas": true,
 	"contatos": [
 		{
 			"contatoID": 1,
-			"contatoNome": "Sheree Rutledge",
-			"contatoEmail": "shereerutledge@sloganaut.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Jurídico",
+			"contatoNome": "Franco Oconnor",
+			"contatoEmail": "francooconnor@electonic.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Financeiro",
 			"contatoResponsavel": true,
 			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Lois Avenue",
-					"contatoEnderecosNumero": 5168,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Peggy",
-					"contatoEnderecosCEP": "94646-933",
-					"contatoEnderecosLOB": "VIAGEM",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRANÇA",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosEndereco": "Middagh Street",
+					"contatoEnderecosNumero": 9407,
+					"contatoEnderecosComplemento": "Térreo",
+					"contatoEnderecosBairro": "Middleton",
+					"contatoEnderecosCEP": "99049-938",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Kane Place",
+					"contatoEnderecosNumero": 3153,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Peterson",
+					"contatoEnderecosCEP": "87846-121",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRANÇA",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
 				}
 			],
 			"contatoTelefones": [
 				{
 					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "88341-5306",
-					"contatoTelefonesRamal": 588
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "98925-5735",
+					"contatoTelefonesRamal": ""
 				}
 			]
 		},
 		{
 			"contatoID": 2,
-			"contatoNome": "Jordan Clay",
-			"contatoEmail": "jordanclay@sloganaut.com",
-			"contatoCargo": "Assistente",
+			"contatoNome": "Sofia Whitaker",
+			"contatoEmail": "sofiawhitaker@electonic.com",
+			"contatoCargo": "Gerente",
 			"contatoDepartmento": "Vendas",
 			"contatoResponsavel": false,
 			"contatoVIP": true,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Greene Avenue",
-					"contatoEnderecosNumero": 4905,
-					"contatoEnderecosComplemento": "Térreo",
-					"contatoEnderecosBairro": "Carey",
-					"contatoEnderecosCEP": "99753-230",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": true
-				},
-				{
-					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Stoddard Place",
-					"contatoEnderecosNumero": 9603,
+					"contatoEnderecosEndereco": "Roosevelt Place",
+					"contatoEnderecosNumero": 2167,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Mavis",
-					"contatoEnderecosCEP": "80840-430",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": true
-				},
-				{
-					"contatoEnderecosID": 3,
-					"contatoEnderecosEndereco": "Willmohr Street",
-					"contatoEnderecosNumero": 4482,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Delaney",
-					"contatoEnderecosCEP": "87152-938",
+					"contatoEnderecosBairro": "Hallie",
+					"contatoEnderecosCEP": "85659-722",
 					"contatoEnderecosLOB": "VIAGEM",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "FRANÇA",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "98749-3285",
-					"contatoTelefonesRamal": 712
-				},
-				{
-					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "95949-1232",
-					"contatoTelefonesRamal": 9
-				}
-			]
-		},
-		{
-			"contatoID": 3,
-			"contatoNome": "Bates Britt",
-			"contatoEmail": "batesbritt@sloganaut.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Financeiro",
-			"contatoResponsavel": false,
-			"contatoVIP": false,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Borinquen Pl",
-					"contatoEnderecosNumero": 3868,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Roach",
-					"contatoEnderecosCEP": "81758-039",
-					"contatoEnderecosLOB": "FUNERAL",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Dekalb Avenue",
-					"contatoEnderecosNumero": 970,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Barnett",
-					"contatoEnderecosCEP": "89144-326",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
 					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "91454-8216",
-					"contatoTelefonesRamal": 571
-				},
-				{
-					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "90441-2223",
-					"contatoTelefonesRamal": 64
-				}
-			]
-		},
-		{
-			"contatoID": 4,
-			"contatoNome": "Herrera Blevins",
-			"contatoEmail": "herrerablevins@sloganaut.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": false,
-			"contatoVIP": true,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Plymouth Street",
-					"contatoEnderecosNumero": 4150,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Hensley",
-					"contatoEnderecosCEP": "97950-121",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 2",
 					"contatoEnderecosCidade": "CIDADE 3",
 					"contatoEnderecosPais": "FRANÇA",
-					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
+					"contatoEnderecosCobranca": false
 				},
 				{
 					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Riverdale Avenue",
-					"contatoEnderecosNumero": 1904,
+					"contatoEnderecosEndereco": "Gerry Street",
+					"contatoEnderecosNumero": 4841,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Langley",
-					"contatoEnderecosCEP": "87451-633",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosBairro": "Mandy",
+					"contatoEnderecosCEP": "80643-634",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 2",
 					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosPais": "FRANÇA",
+					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": true
+					"contatoEnderecosCobranca": false
 				},
 				{
 					"contatoEnderecosID": 3,
-					"contatoEnderecosEndereco": "Boulevard Court",
-					"contatoEnderecosNumero": 5820,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Chrystal",
-					"contatoEnderecosCEP": "82440-028",
-					"contatoEnderecosLOB": "FUNERAL",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "88356-0200",
-					"contatoTelefonesRamal": 257
-				},
-				{
-					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "98947-9336",
-					"contatoTelefonesRamal": 163
-				},
-				{
-					"contatoTelefonesID": 3,
-					"contatoTelefonesDDD": 11,
-					"contatoTelefonesTelefone": "94250-6276",
-					"contatoTelefonesRamal": 399
-				}
-			]
-		},
-		{
-			"contatoID": 5,
-			"contatoNome": "Brittney Bernard",
-			"contatoEmail": "brittneybernard@sloganaut.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Jurídico",
-			"contatoResponsavel": false,
-			"contatoVIP": true,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Grattan Street",
-					"contatoEnderecosNumero": 6311,
+					"contatoEnderecosEndereco": "Adams Street",
+					"contatoEnderecosNumero": 7547,
 					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Melva",
-					"contatoEnderecosCEP": "99441-926",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Nelson Street",
-					"contatoEnderecosNumero": 8717,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Sears",
-					"contatoEnderecosCEP": "87156-524",
-					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosBairro": "Carpenter",
+					"contatoEnderecosCEP": "96155-739",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
 					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosCidade": "CIDADE 3",
 					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
 				}
 			],
@@ -293,43 +122,116 @@
 				{
 					"contatoTelefonesID": 1,
 					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "93658-6223",
-					"contatoTelefonesRamal": 630
+					"contatoTelefonesTelefone": "88954-1429",
+					"contatoTelefonesRamal": ""
 				},
 				{
 					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "89558-2226",
-					"contatoTelefonesRamal": 914
-				},
-				{
-					"contatoTelefonesID": 3,
 					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "92543-6370",
-					"contatoTelefonesRamal": 888
+					"contatoTelefonesTelefone": "78574-6725",
+					"contatoTelefonesRamal": ""
 				}
 			]
 		},
 		{
-			"contatoID": 6,
-			"contatoNome": "Hilda Mcfadden",
-			"contatoEmail": "hildamcfadden@sloganaut.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Jurídico",
+			"contatoID": 3,
+			"contatoNome": "Caroline Coleman",
+			"contatoEmail": "carolinecoleman@electonic.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Marketing",
 			"contatoResponsavel": true,
-			"contatoVIP": true,
+			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Hunts Lane",
-					"contatoEnderecosNumero": 432,
+					"contatoEnderecosEndereco": "Ryerson Street",
+					"contatoEnderecosNumero": 4298,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Ramos",
-					"contatoEnderecosCEP": "88854-724",
+					"contatoEnderecosBairro": "Roth",
+					"contatoEnderecosCEP": "89743-023",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Oxford Walk",
+					"contatoEnderecosNumero": 4415,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Olga",
+					"contatoEnderecosCEP": "98743-530",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "5920-5713",
+					"contatoTelefonesRamal": 54
+				}
+			]
+		},
+		{
+			"contatoID": 4,
+			"contatoNome": "Kim Dennis",
+			"contatoEmail": "kimdennis@electonic.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Elton Street",
+					"contatoEnderecosNumero": 9197,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Christensen",
+					"contatoEnderecosCEP": "92654-524",
 					"contatoEnderecosLOB": "AUTO",
 					"contatoEnderecosEstado": "ESTADO 2",
 					"contatoEnderecosCidade": "CIDADE 2",
 					"contatoEnderecosPais": "FRANÇA",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Whitwell Place",
+					"contatoEnderecosNumero": 6803,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Mayra",
+					"contatoEnderecosCEP": "81142-534",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRANÇA",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Goodwin Place",
+					"contatoEnderecosNumero": 7023,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Nelda",
+					"contatoEnderecosCEP": "89540-525",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": true
@@ -339,32 +241,53 @@
 				{
 					"contatoTelefonesID": 1,
 					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "92448-7208",
-					"contatoTelefonesRamal": 49
+					"contatoTelefonesTelefone": "6923-4982",
+					"contatoTelefonesRamal": 111
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "88235-9733",
+					"contatoTelefonesRamal": ""
 				}
 			]
 		},
 		{
-			"contatoID": 7,
-			"contatoNome": "Bryant Burton",
-			"contatoEmail": "bryantburton@sloganaut.com",
+			"contatoID": 5,
+			"contatoNome": "Giles Lewis",
+			"contatoEmail": "gileslewis@electonic.com",
 			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": false,
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
 			"contatoVIP": true,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Madeline Court",
-					"contatoEnderecosNumero": 5783,
+					"contatoEnderecosEndereco": "Hart Place",
+					"contatoEnderecosNumero": 811,
 					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Carrie",
-					"contatoEnderecosCEP": "80440-135",
+					"contatoEnderecosBairro": "Mccoy",
+					"contatoEnderecosCEP": "85044-038",
 					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRANÇA",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Lott Avenue",
+					"contatoEnderecosNumero": 2240,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Newton",
+					"contatoEnderecosCEP": "95543-529",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
 					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
 				}
@@ -372,9 +295,76 @@
 			"contatoTelefones": [
 				{
 					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "4865-4392",
+					"contatoTelefonesRamal": ""
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "79745-5928",
+					"contatoTelefonesRamal": ""
+				},
+				{
+					"contatoTelefonesID": 3,
 					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "97544-9389",
-					"contatoTelefonesRamal": 928
+					"contatoTelefonesTelefone": "5895-5952",
+					"contatoTelefonesRamal": ""
+				}
+			]
+		},
+		{
+			"contatoID": 6,
+			"contatoNome": "Etta Cain",
+			"contatoEmail": "ettacain@electonic.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Underhill Avenue",
+					"contatoEnderecosNumero": 7160,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Sullivan",
+					"contatoEnderecosCEP": "97957-636",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRANÇA",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Applegate Court",
+					"contatoEnderecosNumero": 1775,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Elsie",
+					"contatoEnderecosCEP": "96352-720",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "FRANÇA",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "4920-4463",
+					"contatoTelefonesRamal": ""
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "88055-1634",
+					"contatoTelefonesRamal": ""
 				}
 			]
 		}
@@ -382,78 +372,57 @@
 	"regioes": [
 		{
 			"regioesID": 1,
-			"regioesCodigo": "proident",
-			"regioesDescricao": "Elit ex ea consectetur laborum labore exercitation elit reprehenderit deserunt dolore."
+			"regioesCodigo": "aliqua",
+			"regioesDescricao": "Consequat occaecat nulla occaecat ex enim."
 		},
 		{
 			"regioesID": 2,
-			"regioesCodigo": "reprehenderit",
-			"regioesDescricao": "Excepteur dolor in magna amet tempor sit ipsum."
-		},
-		{
-			"regioesID": 3,
-			"regioesCodigo": "commodo",
-			"regioesDescricao": "Duis nisi veniam laboris et cupidatat exercitation qui voluptate excepteur."
+			"regioesCodigo": "aliqua",
+			"regioesDescricao": "Magna sit consequat ea consectetur tempor ea tempor Lorem reprehenderit sit non et ea."
 		}
 	],
 	"arquivos": [
 		{
 			"arquivosID": 1,
-			"arquivosPath": "/userfiles/sit.xlsx",
-			"arquivosDescricao": "Culpa laboris minim fugiat Lorem in laborum ea sunt deserunt ipsum.",
-			"arquivosDataCriacao": "2022-07-22 01:47:30"
+			"arquivosPath": "/userfiles/voluptate.docx",
+			"arquivosDescricao": "Magna magna ea nostrud exercitation qui aute veniam ea voluptate officia ipsum qui.",
+			"arquivosDataCriacao": "2022-06-02 15:45:59",
+			"arquivosFileSize": 3629787
 		},
 		{
 			"arquivosID": 2,
-			"arquivosPath": "/userfiles/duis.pdf",
-			"arquivosDescricao": "Labore dolor minim mollit fugiat non ea fugiat proident minim do nisi esse.",
-			"arquivosDataCriacao": "2022-01-12 17:49:08"
-		},
-		{
-			"arquivosID": 3,
-			"arquivosPath": "/userfiles/veniam.docx",
-			"arquivosDescricao": "Tempor laboris laboris aliquip eiusmod duis eu ad non sint elit cupidatat ipsum enim minim.",
-			"arquivosDataCriacao": "2022-06-09 06:31:06"
-		},
-		{
-			"arquivosID": 4,
-			"arquivosPath": "/userfiles/ipsum.pdf",
-			"arquivosDescricao": "Sit est tempor est consequat.",
-			"arquivosDataCriacao": "2022-06-06 09:01:10"
-		},
-		{
-			"arquivosID": 5,
-			"arquivosPath": "/userfiles/proident.pdf",
-			"arquivosDescricao": "Irure elit ut consequat esse ex eiusmod ea esse cillum et ea ex ex.",
-			"arquivosDataCriacao": "2022-07-04 11:21:11"
+			"arquivosPath": "/userfiles/cupidatat.xlsx",
+			"arquivosDescricao": "Officia eiusmod minim ipsum fugiat.",
+			"arquivosDataCriacao": "2022-08-20 15:06:52",
+			"arquivosFileSize": 2189406
 		}
 	],
 	"contratos": [
 		{
 			"contratosID": 1,
-			"contratosNome": "esse cillum",
+			"contratosNome": "aliqua nisi",
 			"contratoLOBPrincipal": [
 				"VI",
 				"VIAGEM"
 			],
-			"contratoInicioVigencia": "2022-09-27",
+			"contratoInicioVigencia": "2020-10-11",
 			"contratoFimVigencia": "2025-01-01",
 			"contratoInformacoes": "INFORMAÇÕES GERAIS",
-			"contratoComentario": "Est ad exercitation labore irure occaecat fugiat nisi. Commodo aliqua officia Lorem esse adipisicing culpa eu.",
-			"contratoInicioAtividades": "2022-09-28",
+			"contratoComentario": "Do anim exercitation aute occaecat. Cupidatat dolor aliqua anim eiusmod ea tempor consectetur voluptate proident velit et ut.",
+			"contratoInicioAtividades": "2020-10-12",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
 					"contratoLOBSecundariosLOB": [
-						"RA",
-						"RAMOS ELEMENTARES"
+						"VI",
+						"VIAGEM"
 					]
 				},
 				{
 					"contratoLOBSecundariosID": 2,
 					"contratoLOBSecundariosLOB": [
-						"FU",
-						"FUNERAL"
+						"AU",
+						"AUTO"
 					]
 				},
 				{
@@ -467,108 +436,29 @@
 		},
 		{
 			"contratosID": 2,
-			"contratosNome": "consectetur ea",
+			"contratosNome": "minim est",
 			"contratoLOBPrincipal": [
-				"VI",
-				"VIAGEM"
+				"RA",
+				"RAMOS ELEMENTARES"
 			],
-			"contratoInicioVigencia": "2019-04-26",
+			"contratoInicioVigencia": "2020-01-27",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
-			"contratoComentario": "Commodo consectetur reprehenderit labore est eiusmod quis nostrud cupidatat qui sunt est enim. Consequat minim culpa reprehenderit consequat dolore ipsum et qui quis elit elit qui aute.",
-			"contratoInicioAtividades": "2019-04-27",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
+			"contratoComentario": "Nulla est aliquip voluptate aute incididunt id eu sit proident irure eu. Sunt non tempor deserunt velit id ad irure eu quis tempor deserunt amet.",
+			"contratoInicioAtividades": "2020-01-28",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
 					"contratoLOBSecundariosLOB": [
-						"AU",
-						"AUTO"
+						"FU",
+						"FUNERAL"
 					]
 				},
 				{
 					"contratoLOBSecundariosID": 2,
-					"contratoLOBSecundariosLOB": [
-						"AU",
-						"AUTO"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 3,
 					"contratoLOBSecundariosLOB": [
 						"RA",
 						"RAMOS ELEMENTARES"
-					]
-				}
-			]
-		},
-		{
-			"contratosID": 3,
-			"contratosNome": "deserunt labore",
-			"contratoLOBPrincipal": [
-				"AU",
-				"AUTO"
-			],
-			"contratoInicioVigencia": "2021-01-31",
-			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
-			"contratoComentario": "Exercitation amet magna pariatur duis mollit commodo reprehenderit. Sunt sint voluptate non cupidatat dolor mollit quis fugiat est ut.",
-			"contratoInicioAtividades": "2021-02-01",
-			"contratoLOBSecundarios": [
-				{
-					"contratoLOBSecundariosID": 1,
-					"contratoLOBSecundariosLOB": [
-						"VI",
-						"VIAGEM"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 2,
-					"contratoLOBSecundariosLOB": [
-						"AU",
-						"AUTO"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 3,
-					"contratoLOBSecundariosLOB": [
-						"FU",
-						"FUNERAL"
-					]
-				}
-			]
-		},
-		{
-			"contratosID": 4,
-			"contratosNome": "reprehenderit dolore",
-			"contratoLOBPrincipal": [
-				"FU",
-				"FUNERAL"
-			],
-			"contratoInicioVigencia": "2021-07-15",
-			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
-			"contratoComentario": "Veniam incididunt commodo voluptate proident irure quis duis. Cupidatat tempor dolore consectetur labore ipsum reprehenderit pariatur do.",
-			"contratoInicioAtividades": "2021-07-16",
-			"contratoLOBSecundarios": [
-				{
-					"contratoLOBSecundariosID": 1,
-					"contratoLOBSecundariosLOB": [
-						"VI",
-						"VIAGEM"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 2,
-					"contratoLOBSecundariosLOB": [
-						"FU",
-						"FUNERAL"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 3,
-					"contratoLOBSecundariosLOB": [
-						"AU",
-						"AUTO"
 					]
 				}
 			]

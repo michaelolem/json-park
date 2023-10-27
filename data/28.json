@@ -1,252 +1,157 @@
 {
 	"clienteID": 28,
-	"nomeCare": "Frosnex",
-	"nome": "Frosnex",
-	"cnpj": "67.546.477/0001-48",
-	"inscricaoEstadual": "87.753.93-99",
-	"razaoSocial": "Frosnex LTDA.",
-	"website": "frosnex.com.br",
-	"mercado": "SEGURADORA",
-	"statusCliente": "INATIVO",
+	"nomeCare": "Recritube",
+	"nome": "Recritube",
+	"cnpj": "55.843.413/0001-20",
+	"inscricaoEstadual": "94.750.92-69",
+	"razaoSocial": "Recritube ME",
+	"website": "recritube.com.br",
+	"mercado": "MONTADORA",
+	"statusCliente": "ATIVO",
 	"contaContabil": "CONTABIL A",
-	"codigoSAP": "ZV0L8-I-TCTVSGU-HK9-W-CVIOUK51CS8Q",
-	"siglaCliente": "NEX",
+	"codigoSAP": "ZH5SW-A-8SEWL7-JU6W-0E-X3P90664KGBT",
+	"siglaCliente": "ITUBE",
 	"trabalhaRegioes": true,
-	"trabalhaClausulas": true,
+	"trabalhaClausulas": false,
 	"contatos": [
 		{
 			"contatoID": 1,
-			"contatoNome": "Stefanie Mccarthy",
-			"contatoEmail": "stefaniemccarthy@frosnex.com",
-			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": false,
-			"contatoVIP": true,
+			"contatoNome": "Holmes Raymond",
+			"contatoEmail": "holmesraymond@recritube.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Kossuth Place",
-					"contatoEnderecosNumero": 6640,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Carmela",
-					"contatoEnderecosCEP": "91557-026",
-					"contatoEnderecosLOB": "VIAGEM",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosEndereco": "Bancroft Place",
+					"contatoEnderecosNumero": 6285,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Gretchen",
+					"contatoEnderecosCEP": "93858-630",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Butler Street",
+					"contatoEnderecosNumero": 1678,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Alexis",
+					"contatoEnderecosCEP": "84341-135",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "FRANÇA",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": false
 				}
 			],
 			"contatoTelefones": [
 				{
 					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "85244-9285",
-					"contatoTelefonesRamal": 488
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "89004-6530",
+					"contatoTelefonesRamal": ""
 				},
 				{
 					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "91644-8251",
-					"contatoTelefonesRamal": 355
+					"contatoTelefonesDDD": 31,
+					"contatoTelefonesTelefone": "3893-5443",
+					"contatoTelefonesRamal": 173
+				},
+				{
+					"contatoTelefonesID": 3,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "89055-1634",
+					"contatoTelefonesRamal": ""
 				}
 			]
 		},
 		{
 			"contatoID": 2,
-			"contatoNome": "Campbell Cantrell",
-			"contatoEmail": "campbellcantrell@frosnex.com",
-			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Jurídico",
-			"contatoResponsavel": true,
-			"contatoVIP": true,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Metropolitan Avenue",
-					"contatoEnderecosNumero": 4942,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Johns",
-					"contatoEnderecosCEP": "96959-025",
-					"contatoEnderecosLOB": "FUNERAL",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
-				},
-				{
-					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Abbey Court",
-					"contatoEnderecosNumero": 9053,
-					"contatoEnderecosComplemento": "Térreo",
-					"contatoEnderecosBairro": "Hardy",
-					"contatoEnderecosCEP": "85040-926",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRANÇA",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosID": 3,
-					"contatoEnderecosEndereco": "Aberdeen Street",
-					"contatoEnderecosNumero": 4255,
-					"contatoEnderecosComplemento": "Térreo",
-					"contatoEnderecosBairro": "Karla",
-					"contatoEnderecosCEP": "90557-921",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRANÇA",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "95652-3274",
-					"contatoTelefonesRamal": 833
-				},
-				{
-					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "90542-5395",
-					"contatoTelefonesRamal": 772
-				},
-				{
-					"contatoTelefonesID": 3,
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "99555-7275",
-					"contatoTelefonesRamal": 372
-				}
-			]
-		},
-		{
-			"contatoID": 3,
-			"contatoNome": "Marsha Drake",
-			"contatoEmail": "marshadrake@frosnex.com",
+			"contatoNome": "Bauer Mccormick",
+			"contatoEmail": "bauermccormick@recritube.com",
 			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": false,
-			"contatoVIP": true,
-			"contatoEnderecos": [
-				{
-					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Dodworth Street",
-					"contatoEnderecosNumero": 1992,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Griffin",
-					"contatoEnderecosCEP": "94652-524",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 3",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
-				},
-				{
-					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Dorchester Road",
-					"contatoEnderecosNumero": 298,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Kris",
-					"contatoEnderecosCEP": "85451-224",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": false
-				}
-			],
-			"contatoTelefones": [
-				{
-					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "98458-5249",
-					"contatoTelefonesRamal": 668
-				},
-				{
-					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "93956-0326",
-					"contatoTelefonesRamal": 598
-				},
-				{
-					"contatoTelefonesID": 3,
-					"contatoTelefonesDDD": 81,
-					"contatoTelefonesTelefone": "82640-6396",
-					"contatoTelefonesRamal": 164
-				}
-			]
-		},
-		{
-			"contatoID": 4,
-			"contatoNome": "Acosta Levy",
-			"contatoEmail": "acostalevy@frosnex.com",
-			"contatoCargo": "Gerente",
 			"contatoDepartmento": "Jurídico",
 			"contatoResponsavel": true,
 			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Harman Street",
-					"contatoEnderecosNumero": 9938,
-					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Rosa",
-					"contatoEnderecosCEP": "84742-335",
-					"contatoEnderecosLOB": "FUNERAL",
-					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosEndereco": "Billings Place",
+					"contatoEnderecosNumero": 7054,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Carla",
+					"contatoEnderecosCEP": "87657-035",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 2",
 					"contatoEnderecosCidade": "CIDADE 1",
 					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
+					"contatoEnderecosCobranca": false
 				}
 			],
 			"contatoTelefones": [
 				{
 					"contatoTelefonesID": 1,
 					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "83646-1370",
-					"contatoTelefonesRamal": 308
+					"contatoTelefonesTelefone": "88264-3334",
+					"contatoTelefonesRamal": ""
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "89565-3223",
+					"contatoTelefonesRamal": ""
 				}
 			]
 		},
 		{
-			"contatoID": 5,
-			"contatoNome": "Donna Bryant",
-			"contatoEmail": "donnabryant@frosnex.com",
+			"contatoID": 3,
+			"contatoNome": "Harrison Weber",
+			"contatoEmail": "harrisonweber@recritube.com",
 			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Jurídico",
-			"contatoResponsavel": true,
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": false,
 			"contatoVIP": true,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Tilden Avenue",
-					"contatoEnderecosNumero": 5810,
+					"contatoEnderecosEndereco": "Rutledge Street",
+					"contatoEnderecosNumero": 5417,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Lawson",
-					"contatoEnderecosCEP": "88950-733",
-					"contatoEnderecosLOB": "FUNERAL",
-					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosBairro": "Margie",
+					"contatoEnderecosCEP": "90743-437",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Irwin Street",
+					"contatoEnderecosNumero": 7106,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Garza",
+					"contatoEnderecosCEP": "96960-026",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 3",
 					"contatoEnderecosPais": "FRANÇA",
 					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
 				}
 			],
@@ -254,41 +159,44 @@
 				{
 					"contatoTelefonesID": 1,
 					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "95851-5201",
-					"contatoTelefonesRamal": 954
-				},
-				{
-					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "82645-7374",
-					"contatoTelefonesRamal": 255
-				},
-				{
-					"contatoTelefonesID": 3,
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "82450-4284",
-					"contatoTelefonesRamal": 712
+					"contatoTelefonesTelefone": "6901-5422",
+					"contatoTelefonesRamal": ""
 				}
 			]
 		},
 		{
-			"contatoID": 6,
-			"contatoNome": "Ashley Stein",
-			"contatoEmail": "ashleystein@frosnex.com",
-			"contatoCargo": "Assistente",
+			"contatoID": 4,
+			"contatoNome": "Singleton Robinson",
+			"contatoEmail": "singletonrobinson@recritube.com",
+			"contatoCargo": "Gerente",
 			"contatoDepartmento": "Vendas",
-			"contatoResponsavel": true,
-			"contatoVIP": true,
+			"contatoResponsavel": false,
+			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Seaview Court",
-					"contatoEnderecosNumero": 5817,
+					"contatoEnderecosEndereco": "Trucklemans Lane",
+					"contatoEnderecosNumero": 8478,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Leanna",
-					"contatoEnderecosCEP": "84846-524",
+					"contatoEnderecosBairro": "Cassandra",
+					"contatoEnderecosCEP": "85051-227",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Alabama Avenue",
+					"contatoEnderecosNumero": 9083,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Summers",
+					"contatoEnderecosCEP": "85849-725",
 					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosEstado": "ESTADO 3",
 					"contatoEnderecosCidade": "CIDADE 2",
 					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COMERCIAL",
@@ -296,33 +204,58 @@
 					"contatoEnderecosCobranca": true
 				},
 				{
-					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Cadman Plaza",
-					"contatoEnderecosNumero": 555,
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Clinton Street",
+					"contatoEnderecosNumero": 2373,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Susanna",
-					"contatoEnderecosCEP": "99947-434",
-					"contatoEnderecosLOB": "FUNERAL",
-					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosBairro": "Jenna",
+					"contatoEnderecosCEP": "92940-729",
+					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosEstado": "ESTADO 3",
 					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRANÇA",
+					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "4837-5272",
+					"contatoTelefonesRamal": ""
 				},
 				{
-					"contatoEnderecosID": 3,
-					"contatoEnderecosEndereco": "Kensington Walk",
-					"contatoEnderecosNumero": 6687,
-					"contatoEnderecosComplemento": "Térreo",
-					"contatoEnderecosBairro": "Case",
-					"contatoEnderecosCEP": "87352-526",
-					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "FRANÇA",
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "99004-1036",
+					"contatoTelefonesRamal": ""
+				}
+			]
+		},
+		{
+			"contatoID": 5,
+			"contatoNome": "Williamson Stephenson",
+			"contatoEmail": "williamsonstephenson@recritube.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Stratford Road",
+					"contatoEnderecosNumero": 650,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Levy",
+					"contatoEnderecosCEP": "87547-937",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": false
 				}
 			],
@@ -330,14 +263,63 @@
 				{
 					"contatoTelefonesID": 1,
 					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "94551-9241",
-					"contatoTelefonesRamal": 903
+					"contatoTelefonesTelefone": "89965-6126",
+					"contatoTelefonesRamal": ""
+				}
+			]
+		},
+		{
+			"contatoID": 6,
+			"contatoNome": "Lester Curry",
+			"contatoEmail": "lestercurry@recritube.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Jurídico",
+			"contatoResponsavel": false,
+			"contatoVIP": true,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Newel Street",
+					"contatoEnderecosNumero": 8993,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Slater",
+					"contatoEnderecosCEP": "96249-831",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Canda Avenue",
+					"contatoEnderecosNumero": 1402,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Juanita",
+					"contatoEnderecosCEP": "87443-028",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "99184-4533",
+					"contatoTelefonesRamal": ""
 				},
 				{
 					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "92452-1347",
-					"contatoTelefonesRamal": 907
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "99964-9430",
+					"contatoTelefonesRamal": ""
 				}
 			]
 		}
@@ -345,126 +327,38 @@
 	"regioes": [
 		{
 			"regioesID": 1,
-			"regioesCodigo": "labore",
-			"regioesDescricao": "Sunt ut elit incididunt magna."
+			"regioesCodigo": "reprehenderit",
+			"regioesDescricao": "Laborum dolore magna excepteur anim sint minim duis pariatur adipisicing laborum."
 		}
 	],
 	"arquivos": [
 		{
 			"arquivosID": 1,
-			"arquivosPath": "/userfiles/velit.xlsx",
-			"arquivosDescricao": "Consequat exercitation ullamco cillum adipisicing.",
-			"arquivosDataCriacao": "2022-06-14 13:36:56"
-		},
-		{
-			"arquivosID": 2,
-			"arquivosPath": "/userfiles/ut.xlsx",
-			"arquivosDescricao": "Consectetur veniam cillum anim aliqua deserunt cillum nostrud.",
-			"arquivosDataCriacao": "2022-11-22 12:32:29"
-		},
-		{
-			"arquivosID": 3,
-			"arquivosPath": "/userfiles/pariatur.docx",
-			"arquivosDescricao": "In consectetur ad fugiat do culpa voluptate consequat.",
-			"arquivosDataCriacao": "2022-02-10 00:54:31"
-		},
-		{
-			"arquivosID": 4,
-			"arquivosPath": "/userfiles/aute.pdf",
-			"arquivosDescricao": "Ullamco ullamco elit duis incididunt et incididunt exercitation qui consequat aliqua deserunt eiusmod laboris.",
-			"arquivosDataCriacao": "2022-06-03 11:07:02"
-		},
-		{
-			"arquivosID": 5,
-			"arquivosPath": "/userfiles/culpa.pdf",
-			"arquivosDescricao": "Culpa adipisicing officia do nisi adipisicing sunt laboris reprehenderit fugiat ipsum sunt tempor.",
-			"arquivosDataCriacao": "2022-07-21 10:26:54"
+			"arquivosPath": "/userfiles/eiusmod.pdf",
+			"arquivosDescricao": "Ex quis eu velit eu mollit.",
+			"arquivosDataCriacao": "2022-02-23 20:32:49",
+			"arquivosFileSize": 1768884
 		}
 	],
 	"contratos": [
 		{
 			"contratosID": 1,
-			"contratosNome": "esse est",
+			"contratosNome": "excepteur et",
 			"contratoLOBPrincipal": [
 				"AU",
 				"AUTO"
 			],
-			"contratoInicioVigencia": "2020-01-25",
+			"contratoInicioVigencia": "2021-02-19",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
-			"contratoComentario": "Sint incididunt veniam sint ad aute elit deserunt cillum nostrud non qui nulla aliqua. Dolor quis enim nostrud proident duis cupidatat excepteur.",
-			"contratoInicioAtividades": "2020-01-26",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
+			"contratoComentario": "Ea dolor aliqua voluptate enim laborum labore consectetur laborum sit. Reprehenderit aute officia enim do exercitation Lorem duis pariatur velit Lorem.",
+			"contratoInicioAtividades": "2021-02-20",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
-					"contratoLOBSecundariosLOB": [
-						"RA",
-						"RAMOS ELEMENTARES"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 2,
 					"contratoLOBSecundariosLOB": [
 						"AU",
 						"AUTO"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 3,
-					"contratoLOBSecundariosLOB": [
-						"VI",
-						"VIAGEM"
-					]
-				}
-			]
-		},
-		{
-			"contratosID": 2,
-			"contratosNome": "sit dolore",
-			"contratoLOBPrincipal": [
-				"RA",
-				"RAMOS ELEMENTARES"
-			],
-			"contratoInicioVigencia": "2022-08-24",
-			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
-			"contratoComentario": "Aliquip ex est magna proident pariatur culpa velit est do laboris adipisicing voluptate ad. Ea cillum nostrud amet cillum esse elit ipsum occaecat in reprehenderit incididunt ex do.",
-			"contratoInicioAtividades": "2022-08-25",
-			"contratoLOBSecundarios": [
-				{
-					"contratoLOBSecundariosID": 1,
-					"contratoLOBSecundariosLOB": [
-						"RA",
-						"RAMOS ELEMENTARES"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 2,
-					"contratoLOBSecundariosLOB": [
-						"VI",
-						"VIAGEM"
-					]
-				}
-			]
-		},
-		{
-			"contratosID": 3,
-			"contratosNome": "voluptate est",
-			"contratoLOBPrincipal": [
-				"FU",
-				"FUNERAL"
-			],
-			"contratoInicioVigencia": "2020-05-08",
-			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
-			"contratoComentario": "Exercitation dolore officia labore magna amet cupidatat cillum. Commodo irure est deserunt nisi reprehenderit incididunt dolor.",
-			"contratoInicioAtividades": "2020-05-09",
-			"contratoLOBSecundarios": [
-				{
-					"contratoLOBSecundariosID": 1,
-					"contratoLOBSecundariosLOB": [
-						"FU",
-						"FUNERAL"
 					]
 				},
 				{

@@ -1,193 +1,267 @@
 {
 	"clienteID": 15,
-	"nomeCare": "Quilk",
-	"nome": "Quilk",
-	"cnpj": "79.917.827/0001-14",
-	"inscricaoEstadual": "83.251.02-53",
-	"razaoSocial": "Quilk S/A",
-	"website": "quilk.com.br",
-	"mercado": "MONTADORA",
+	"nomeCare": "Zogak",
+	"nome": "Zogak",
+	"cnpj": "21.532.904/0001-38",
+	"inscricaoEstadual": "81.458.92-96",
+	"razaoSocial": "Zogak ME",
+	"website": "zogak.com.br",
+	"mercado": "SEGURADORA",
 	"statusCliente": "ATIVO",
 	"contaContabil": "CONTABIL A",
-	"codigoSAP": "30C9-0N-QGX391KN-NV6-OT-616VN2IUFCN21C",
+	"codigoSAP": "WY5M6-P5-PREJVL8H-TJ5T-Z-PUN4IYXJQVT",
 	"siglaCliente": "K",
 	"trabalhaRegioes": true,
 	"trabalhaClausulas": true,
 	"contatos": [
 		{
 			"contatoID": 1,
-			"contatoNome": "Shepard Ortega",
-			"contatoEmail": "shepardortega@quilk.com",
+			"contatoNome": "Neal Garza",
+			"contatoEmail": "nealgarza@zogak.com",
 			"contatoCargo": "Assistente",
-			"contatoDepartmento": "Marketing",
-			"contatoResponsavel": false,
-			"contatoVIP": true,
+			"contatoDepartmento": "Financeiro",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Seagate Avenue",
-					"contatoEnderecosNumero": 9829,
+					"contatoEnderecosEndereco": "Utica Avenue",
+					"contatoEnderecosNumero": 6336,
 					"contatoEnderecosComplemento": "Loja",
-					"contatoEnderecosBairro": "Kate",
-					"contatoEnderecosCEP": "80444-121",
-					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
-					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRANÇA",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Foster Avenue",
-					"contatoEnderecosNumero": 430,
-					"contatoEnderecosComplemento": "Térreo",
-					"contatoEnderecosBairro": "Barron",
-					"contatoEnderecosCEP": "86147-020",
+					"contatoEnderecosBairro": "Darlene",
+					"contatoEnderecosCEP": "95550-022",
 					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 2",
 					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": false
 				}
 			],
 			"contatoTelefones": [
 				{
 					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "91148-8318",
-					"contatoTelefonesRamal": 552
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "6955-4963",
+					"contatoTelefonesRamal": 185
 				},
 				{
 					"contatoTelefonesID": 2,
 					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "99254-5375",
-					"contatoTelefonesRamal": 545
+					"contatoTelefonesTelefone": "3912-4242",
+					"contatoTelefonesRamal": ""
 				},
 				{
 					"contatoTelefonesID": 3,
 					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "99259-2362",
-					"contatoTelefonesRamal": 597
+					"contatoTelefonesTelefone": "89244-7527",
+					"contatoTelefonesRamal": ""
 				}
 			]
 		},
 		{
 			"contatoID": 2,
-			"contatoNome": "Scott Mcdaniel",
-			"contatoEmail": "scottmcdaniel@quilk.com",
+			"contatoNome": "Evelyn Fulton",
+			"contatoEmail": "evelynfulton@zogak.com",
 			"contatoCargo": "Gerente",
-			"contatoDepartmento": "Jurídico",
+			"contatoDepartmento": "Financeiro",
 			"contatoResponsavel": false,
-			"contatoVIP": false,
+			"contatoVIP": true,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Rapelye Street",
-					"contatoEnderecosNumero": 1098,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Katie",
-					"contatoEnderecosCEP": "86655-635",
+					"contatoEnderecosEndereco": "Meserole Street",
+					"contatoEnderecosNumero": 4721,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Maldonado",
+					"contatoEnderecosCEP": "85659-030",
 					"contatoEnderecosLOB": "AUTO",
-					"contatoEnderecosEstado": "ESTADO 1",
+					"contatoEnderecosEstado": "ESTADO 3",
 					"contatoEnderecosCidade": "CIDADE 2",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
-					"contatoEnderecosCorrespondencia": false,
-					"contatoEnderecosCobranca": false
-				},
-				{
-					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Diamond Street",
-					"contatoEnderecosNumero": 8796,
-					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Carolyn",
-					"contatoEnderecosCEP": "81947-737",
-					"contatoEnderecosLOB": "VIAGEM",
-					"contatoEnderecosEstado": "ESTADO 2",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "BRASIL",
-					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosPais": "FRANÇA",
+					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": true,
-					"contatoEnderecosCobranca": true
+					"contatoEnderecosCobranca": false
 				}
 			],
 			"contatoTelefones": [
 				{
 					"contatoTelefonesID": 1,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "95641-4216",
-					"contatoTelefonesRamal": 415
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "99665-4126",
+					"contatoTelefonesRamal": ""
 				},
 				{
 					"contatoTelefonesID": 2,
-					"contatoTelefonesDDD": 21,
-					"contatoTelefonesTelefone": "88846-7312",
-					"contatoTelefonesRamal": 614
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "99374-8732",
+					"contatoTelefonesRamal": ""
 				},
 				{
 					"contatoTelefonesID": 3,
-					"contatoTelefonesDDD": 71,
-					"contatoTelefonesTelefone": "91850-3261",
-					"contatoTelefonesRamal": 99
+					"contatoTelefonesDDD": 11,
+					"contatoTelefonesTelefone": "4953-5442",
+					"contatoTelefonesRamal": ""
 				}
 			]
 		},
 		{
 			"contatoID": 3,
-			"contatoNome": "Frederick Russell",
-			"contatoEmail": "frederickrussell@quilk.com",
+			"contatoNome": "Dale Hammond",
+			"contatoEmail": "dalehammond@zogak.com",
 			"contatoCargo": "Gerente",
 			"contatoDepartmento": "Jurídico",
-			"contatoResponsavel": false,
+			"contatoResponsavel": true,
 			"contatoVIP": false,
 			"contatoEnderecos": [
 				{
 					"contatoEnderecosID": 1,
-					"contatoEnderecosEndereco": "Bainbridge Street",
-					"contatoEnderecosNumero": 8386,
-					"contatoEnderecosComplemento": "Térreo",
-					"contatoEnderecosBairro": "Melissa",
-					"contatoEnderecosCEP": "87947-934",
+					"contatoEnderecosEndereco": "Garland Court",
+					"contatoEnderecosNumero": 7171,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Casandra",
+					"contatoEnderecosCEP": "98543-339",
+					"contatoEnderecosLOB": "FUNERAL",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRANÇA",
+					"contatoEnderecosTipo": "COBRANCA",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Rost Place",
+					"contatoEnderecosNumero": 4163,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Daniel",
+					"contatoEnderecosCEP": "85043-726",
 					"contatoEnderecosLOB": "VIAGEM",
 					"contatoEnderecosEstado": "ESTADO 3",
-					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosCidade": "CIDADE 3",
 					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COBRANCA",
 					"contatoEnderecosCorrespondencia": false,
 					"contatoEnderecosCobranca": true
 				},
 				{
-					"contatoEnderecosID": 2,
-					"contatoEnderecosEndereco": "Mermaid Avenue",
-					"contatoEnderecosNumero": 8209,
+					"contatoEnderecosID": 3,
+					"contatoEnderecosEndereco": "Harman Street",
+					"contatoEnderecosNumero": 7543,
 					"contatoEnderecosComplemento": "Térreo",
-					"contatoEnderecosBairro": "Tanner",
-					"contatoEnderecosCEP": "98148-120",
-					"contatoEnderecosLOB": "AUTO",
+					"contatoEnderecosBairro": "Lara",
+					"contatoEnderecosCEP": "93654-234",
+					"contatoEnderecosLOB": "VIAGEM",
 					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 1",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 81,
+					"contatoTelefonesTelefone": "98884-3539",
+					"contatoTelefonesRamal": ""
+				}
+			]
+		},
+		{
+			"contatoID": 4,
+			"contatoNome": "Carole Dickson",
+			"contatoEmail": "caroledickson@zogak.com",
+			"contatoCargo": "Assistente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": false,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Sunnyside Court",
+					"contatoEnderecosNumero": 158,
+					"contatoEnderecosComplemento": "Loja",
+					"contatoEnderecosBairro": "Stanley",
+					"contatoEnderecosCEP": "93652-039",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 2",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "FRANÇA",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": false
+				}
+			],
+			"contatoTelefones": [
+				{
+					"contatoTelefonesID": 1,
+					"contatoTelefonesDDD": 21,
+					"contatoTelefonesTelefone": "99725-7432",
+					"contatoTelefonesRamal": ""
+				},
+				{
+					"contatoTelefonesID": 2,
+					"contatoTelefonesDDD": 71,
+					"contatoTelefonesTelefone": "79004-8423",
+					"contatoTelefonesRamal": ""
+				}
+			]
+		},
+		{
+			"contatoID": 5,
+			"contatoNome": "Tucker Marquez",
+			"contatoEmail": "tuckermarquez@zogak.com",
+			"contatoCargo": "Gerente",
+			"contatoDepartmento": "Marketing",
+			"contatoResponsavel": true,
+			"contatoVIP": false,
+			"contatoEnderecos": [
+				{
+					"contatoEnderecosID": 1,
+					"contatoEnderecosEndereco": "Jodie Court",
+					"contatoEnderecosNumero": 1947,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Hendricks",
+					"contatoEnderecosCEP": "89459-720",
+					"contatoEnderecosLOB": "VIAGEM",
+					"contatoEnderecosEstado": "ESTADO 1",
 					"contatoEnderecosCidade": "CIDADE 2",
 					"contatoEnderecosPais": "FRANÇA",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosCobranca": true
+				},
+				{
+					"contatoEnderecosID": 2,
+					"contatoEnderecosEndereco": "Arkansas Drive",
+					"contatoEnderecosNumero": 8577,
+					"contatoEnderecosComplemento": "",
+					"contatoEnderecosBairro": "Pope",
+					"contatoEnderecosCEP": "80041-024",
+					"contatoEnderecosLOB": "RAMOS ELEMENTARES",
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
 					"contatoEnderecosTipo": "COMERCIAL",
 					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
 				},
 				{
 					"contatoEnderecosID": 3,
-					"contatoEnderecosEndereco": "Newkirk Placez",
-					"contatoEnderecosNumero": 6386,
+					"contatoEnderecosEndereco": "McKinley Avenue",
+					"contatoEnderecosNumero": 6781,
 					"contatoEnderecosComplemento": "",
-					"contatoEnderecosBairro": "Hunt",
-					"contatoEnderecosCEP": "84240-825",
+					"contatoEnderecosBairro": "Erica",
+					"contatoEnderecosCEP": "96658-637",
 					"contatoEnderecosLOB": "VIAGEM",
-					"contatoEnderecosEstado": "ESTADO 1",
-					"contatoEnderecosCidade": "CIDADE 1",
-					"contatoEnderecosPais": "FRANÇA",
-					"contatoEnderecosTipo": "COBRANCA",
-					"contatoEnderecosCorrespondencia": false,
+					"contatoEnderecosEstado": "ESTADO 3",
+					"contatoEnderecosCidade": "CIDADE 3",
+					"contatoEnderecosPais": "BRASIL",
+					"contatoEnderecosTipo": "COMERCIAL",
+					"contatoEnderecosCorrespondencia": true,
 					"contatoEnderecosCobranca": false
 				}
 			],
@@ -195,20 +269,14 @@
 				{
 					"contatoTelefonesID": 1,
 					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "83053-3216",
-					"contatoTelefonesRamal": 68
+					"contatoTelefonesTelefone": "5897-5683",
+					"contatoTelefonesRamal": ""
 				},
 				{
 					"contatoTelefonesID": 2,
 					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "86158-4243",
-					"contatoTelefonesRamal": 903
-				},
-				{
-					"contatoTelefonesID": 3,
-					"contatoTelefonesDDD": 31,
-					"contatoTelefonesTelefone": "95048-8383",
-					"contatoTelefonesRamal": 642
+					"contatoTelefonesTelefone": "3841-4352",
+					"contatoTelefonesRamal": 17
 				}
 			]
 		}
@@ -216,90 +284,54 @@
 	"regioes": [
 		{
 			"regioesID": 1,
-			"regioesCodigo": "velit",
-			"regioesDescricao": "Aliquip id amet culpa irure duis culpa incididunt sit anim anim."
-		},
-		{
-			"regioesID": 2,
-			"regioesCodigo": "do",
-			"regioesDescricao": "Consequat sit aliquip aute culpa id sint aute."
+			"regioesCodigo": "ut",
+			"regioesDescricao": "Pariatur voluptate duis velit dolore velit Lorem aliqua amet."
 		}
 	],
 	"arquivos": [
 		{
 			"arquivosID": 1,
-			"arquivosPath": "/userfiles/occaecat.xlsx",
-			"arquivosDescricao": "Ut velit tempor irure ut Lorem ad excepteur aute officia ad consectetur.",
-			"arquivosDataCriacao": "2022-07-18 04:33:41"
-		},
-		{
-			"arquivosID": 2,
-			"arquivosPath": "/userfiles/dolor.docx",
-			"arquivosDescricao": "Anim qui voluptate ea mollit eiusmod enim cupidatat occaecat sit sint amet laborum laborum nostrud.",
-			"arquivosDataCriacao": "2022-04-18 02:24:48"
-		},
-		{
-			"arquivosID": 3,
-			"arquivosPath": "/userfiles/adipisicing.xlsx",
-			"arquivosDescricao": "Commodo dolor fugiat culpa aliquip amet exercitation id nostrud veniam pariatur reprehenderit consequat.",
-			"arquivosDataCriacao": "2022-11-19 03:34:17"
-		},
-		{
-			"arquivosID": 4,
-			"arquivosPath": "/userfiles/irure.xlsx",
-			"arquivosDescricao": "Id officia irure duis et officia et ex magna dolor aliquip enim id ad.",
-			"arquivosDataCriacao": "2022-11-21 21:20:06"
+			"arquivosPath": "/userfiles/officia.xlsx",
+			"arquivosDescricao": "Esse commodo incididunt voluptate ullamco enim id aute reprehenderit proident et.",
+			"arquivosDataCriacao": "2022-11-13 23:41:45",
+			"arquivosFileSize": 4144854
 		}
 	],
 	"contratos": [
 		{
 			"contratosID": 1,
-			"contratosNome": "nostrud cupidatat",
+			"contratosNome": "aute do",
 			"contratoLOBPrincipal": [
 				"RA",
 				"RAMOS ELEMENTARES"
 			],
-			"contratoInicioVigencia": "2022-07-30",
+			"contratoInicioVigencia": "2021-08-15",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
-			"contratoComentario": "Consequat deserunt laborum mollit fugiat aliqua mollit incididunt cillum tempor cillum voluptate nulla. Enim aliquip mollit nostrud ea ipsum enim id quis veniam reprehenderit aliqua fugiat laborum eiusmod.",
-			"contratoInicioAtividades": "2022-07-31",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
+			"contratoComentario": "Aliquip ipsum commodo amet elit proident adipisicing aute esse id commodo aliqua non. Nostrud sint sint anim commodo sunt quis magna ut aliqua ex culpa.",
+			"contratoInicioAtividades": "2021-08-16",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
 					"contratoLOBSecundariosLOB": [
-						"VI",
-						"VIAGEM"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 2,
-					"contratoLOBSecundariosLOB": [
-						"AU",
-						"AUTO"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 3,
-					"contratoLOBSecundariosLOB": [
-						"VI",
-						"VIAGEM"
+						"FU",
+						"FUNERAL"
 					]
 				}
 			]
 		},
 		{
 			"contratosID": 2,
-			"contratosNome": "consectetur tempor",
+			"contratosNome": "consectetur anim",
 			"contratoLOBPrincipal": [
-				"FU",
-				"FUNERAL"
+				"RA",
+				"RAMOS ELEMENTARES"
 			],
-			"contratoInicioVigencia": "2019-07-16",
+			"contratoInicioVigencia": "2020-04-25",
 			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
-			"contratoComentario": "Adipisicing laborum voluptate et elit reprehenderit mollit occaecat. Lorem enim nostrud ex exercitation mollit ut irure occaecat duis incididunt eu laborum sit.",
-			"contratoInicioAtividades": "2019-07-17",
+			"contratoInformacoes": "INFORMAÇÕES GERAIS",
+			"contratoComentario": "Do dolore ullamco labore duis ad anim commodo. Occaecat exercitation tempor qui do do dolore.",
+			"contratoInicioAtividades": "2020-04-26",
 			"contratoLOBSecundarios": [
 				{
 					"contratoLOBSecundariosID": 1,
@@ -311,73 +343,8 @@
 				{
 					"contratoLOBSecundariosID": 2,
 					"contratoLOBSecundariosLOB": [
-						"FU",
-						"FUNERAL"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 3,
-					"contratoLOBSecundariosLOB": [
-						"FU",
-						"FUNERAL"
-					]
-				}
-			]
-		},
-		{
-			"contratosID": 3,
-			"contratosNome": "sint minim",
-			"contratoLOBPrincipal": [
-				"AU",
-				"AUTO"
-			],
-			"contratoInicioVigencia": "2022-08-22",
-			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
-			"contratoComentario": "Excepteur ad anim magna aliqua duis nulla sint. Quis quis eu duis esse proident.",
-			"contratoInicioAtividades": "2022-08-23",
-			"contratoLOBSecundarios": [
-				{
-					"contratoLOBSecundariosID": 1,
-					"contratoLOBSecundariosLOB": [
-						"RA",
-						"RAMOS ELEMENTARES"
-					]
-				}
-			]
-		},
-		{
-			"contratosID": 4,
-			"contratosNome": "do irure",
-			"contratoLOBPrincipal": [
-				"AU",
-				"AUTO"
-			],
-			"contratoInicioVigencia": "2022-08-01",
-			"contratoFimVigencia": "2025-01-01",
-			"contratoInformacoes": "INFORMAÇÕES COMPLEMENTARES",
-			"contratoComentario": "Fugiat cupidatat nostrud ex sunt consequat velit elit excepteur sit labore do occaecat ipsum irure. Occaecat excepteur aliquip eiusmod quis et.",
-			"contratoInicioAtividades": "2022-08-02",
-			"contratoLOBSecundarios": [
-				{
-					"contratoLOBSecundariosID": 1,
-					"contratoLOBSecundariosLOB": [
-						"RA",
-						"RAMOS ELEMENTARES"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 2,
-					"contratoLOBSecundariosLOB": [
-						"FU",
-						"FUNERAL"
-					]
-				},
-				{
-					"contratoLOBSecundariosID": 3,
-					"contratoLOBSecundariosLOB": [
-						"AU",
-						"AUTO"
+						"VI",
+						"VIAGEM"
 					]
 				}
 			]
